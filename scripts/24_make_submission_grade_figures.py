@@ -10,7 +10,7 @@ Design principles
 - Information-dense, journal-appropriate visual hierarchy
 - Adult direct endpoint evidence explicitly anchored and prominent
 - Age stratification clearly separated (not mixed)
-- Claim boundaries embedded in figure context, not floating text overlays
+- Interpretation scope embedded in figure context, not floating text overlays
 - 600 DPI PNG + PDF + SVG outputs
 """
 
@@ -282,7 +282,7 @@ def _fig1_score_capsule(ax: plt.Axes) -> None:
 
     ax.annotate("", xy=(92, 36), xytext=(92, 57),
                 arrowprops=dict(arrowstyle="-|>", color=GRAY_M, lw=1.0))
-    ax.text(96, 46, "clinical\nvalidation", fontsize=5.7, color=MUTED,
+    ax.text(96, 46, "clinical\nassessment", fontsize=5.7, color=MUTED,
             va="center", ha="left")
     ax.text(3, 7, "Rationale only: no diet, supplement, or causal mechanism claim.",
             fontsize=5.4, color=PINJ_C, style="italic")
@@ -367,18 +367,18 @@ def _fig1_evidence_landscape(ax: plt.Axes) -> None:
 
 
 def _fig1_claim_ladder(ax: plt.Axes) -> None:
-    """Compact evidence hierarchy that separates supported claims from boundaries."""
+    """Compact interpretation hierarchy for the age-stratified analysis."""
     off_ax(ax)
     ax.set_xlim(0, 100)
     ax.set_ylim(0, 100)
     panel_label(ax, "c", x=-0.02, y=1.02)
-    ax.text(4, 91, "Claim hierarchy", fontsize=7.6, fontweight="bold",
+    ax.text(4, 91, "Interpretation levels", fontsize=7.6, fontweight="bold",
             color=INK)
     rows = [
-        (ADULT_C, "Supported", "adult retrospective\nmolecular stratification"),
-        (PRED_C, "Separated", "pediatric / early-onset\ncontext"),
+        (ADULT_C, "Observed", "adult retrospective\nmolecular stratification"),
+        (PRED_C, "Separate", "pediatric / early-onset\ncontext"),
         (GRAY_M, "Not pooled", "endpoint & tissue\nheterogeneity"),
-        (PINJ_C, "Not claimed", "diagnosis, treatment\nselection, InsP6 efficacy"),
+        (PINJ_C, "Not assessed", "diagnosis, treatment\nselection, InsP6 efficacy"),
     ]
     for i, (color, label, text) in enumerate(rows):
         y = 73 - i * 18
@@ -762,12 +762,12 @@ def _fig3_direction_summary(ax: plt.Axes, models: pd.DataFrame) -> None:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Figure 4: Evidence architecture and non-pooling rationale
+# Figure 4: Interpretation scope and non-pooling rationale
 # ─────────────────────────────────────────────────────────────────────────────
 
 def figure4_evidence_architecture() -> None:
     """
-    Figure 4: Clinical translation ladder and claim boundary.
+    Figure 4: Interpretation scope and next-validation path.
     """
     fig = plt.figure(figsize=(7.6, 5.2))
     gs = GridSpec(1, 2, figure=fig, width_ratios=[0.58, 0.42], wspace=0.28)
@@ -777,7 +777,7 @@ def figure4_evidence_architecture() -> None:
     _fig4_translation_ladder(ax_a)
     _fig4_nonclaim_boundary(ax_b)
 
-    fig.text(0.02, 0.99, "Figure 4  |  Clinical translation boundary and next-validation path",
+    fig.text(0.02, 0.99, "Figure 4  |  Interpretation scope and next-validation path",
              fontsize=8.5, fontweight="bold", color=INK, va="top")
     save(fig, "Figure4_evidence_architecture")
 
@@ -787,16 +787,16 @@ def _fig4_translation_ladder(ax: plt.Axes) -> None:
     off_ax(ax)
     ax.set_xlim(0, 100)
     ax.set_ylim(0, 100)
-    ax.set_title("What the current evidence supports", loc="left",
+    ax.set_title("Current interpretation", loc="left",
                  fontsize=7.5, fontweight="bold", pad=4)
     stages = [
-        (PINJ_C, "Not ready", "Clinical-test deployment",
+        (PINJ_C, "Not evaluated", "Clinical-test deployment",
          "no locked threshold, calibration,\nDCA, or prospective assay"),
-        (GRAY_M, "Careful", "Endpoint-aware synthesis",
+        (GRAY_M, "Cohort-specific", "Endpoint-aware synthesis",
          "cohort-level interpretation;\nno forced pooled pan-IBD OR"),
-        (PRED_C, "Separated support", "Pediatric / early-onset\nbiological relevance",
+        (PRED_C, "Separate context", "Pediatric / early-onset\nbiological relevance",
          "remission context plus injury /\nphenotype evidence; not adult\nvalidation"),
-        (ADULT_C, "Supported now", "Retrospective molecular\nstratification",
+        (ADULT_C, "Observed", "Retrospective molecular\nstratification",
          "6 adult direct endpoint cohorts;\nlow-score strata show higher\nfavorable endpoint rates"),
     ]
     x0, box_w, box_h = 8, 78, 16
@@ -825,7 +825,7 @@ def _fig4_nonclaim_boundary(ax: plt.Axes) -> None:
     off_ax(ax)
     ax.set_xlim(0, 100)
     ax.set_ylim(0, 100)
-    ax.set_title("What must be done next", loc="left",
+    ax.set_title("Future validation", loc="left",
                  fontsize=7.5, fontweight="bold", pad=4)
     steps = [
         ("Assay lock", "fixed gene set, normalization,\nthreshold rule"),

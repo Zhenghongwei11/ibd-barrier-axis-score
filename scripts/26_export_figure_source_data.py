@@ -87,32 +87,43 @@ def supplementary() -> None:
     write_tsv(read_tsv("results/clinical/sensitivity_models.tsv"), "FigureS1_sensitivity_models_source_data.tsv")
 
     module_frames: list[pd.DataFrame] = []
-    for dataset_id in ["GSE73661", "GSE206285"]:
+    figure_s2_specs = [
+        ("GSE73661", "GSE73661 healing", "mucosal_healing"),
+        ("GSE206285", "GSE206285 healing", "week8_mucosal_healing"),
+        ("GSE206285", "GSE206285 remission", "week8_clinical_remission"),
+    ]
+    module_specs = [
+        ("upstream_score", "Upstream"),
+        ("mmp_score", "MMP injury"),
+        ("junction_score", "Junction"),
+    ]
+    for dataset_id, endpoint_label, endpoint_col in figure_s2_specs:
         path = Path("data/processed") / dataset_id / "baseline_endpoint.tsv"
         if not path.exists():
             continue
         df = read_tsv(str(path))
-        df.insert(0, "dataset_id", dataset_id)
-        cols = existing_cols(
-            df,
-            [
-                "dataset_id",
-                "sample_id",
-                "baseline_sample_id",
-                "patient_id",
-                "donor_id",
-                "treatment_family",
-                "treatment",
-                "mucosal_healing",
-                "week8_mucosal_healing",
-                "week8_clinical_remission",
-                "axis_score",
-                "upstream_score",
-                "mmp_score",
-                "junction_score",
-            ],
-        )
-        module_frames.append(df[cols])
+        if endpoint_col not in df.columns:
+            continue
+        id_candidates = existing_cols(df, ["sample_id", "baseline_sample_id", "donor_id", "patient_id"])
+        record_id = df[id_candidates[0]].astype(str) if id_candidates else df.index.astype(str)
+        endpoint_values = pd.to_numeric(df[endpoint_col], errors="coerce")
+        for module_col, module_name in module_specs:
+            if module_col not in df.columns:
+                continue
+            module_values = pd.to_numeric(df[module_col], errors="coerce")
+            long_df = pd.DataFrame(
+                {
+                    "dataset_id": dataset_id,
+                    "endpoint_label": endpoint_label,
+                    "endpoint_column": endpoint_col,
+                    "record_id": record_id,
+                    "module": module_name,
+                    "module_score": module_values,
+                    "favorable_endpoint": endpoint_values,
+                }
+            ).dropna(subset=["module_score", "favorable_endpoint"])
+            long_df["favorable_endpoint"] = long_df["favorable_endpoint"].astype(int)
+            module_frames.append(long_df)
     if module_frames:
         write_tsv(pd.concat(module_frames, ignore_index=True, sort=False), "FigureS2_module_detail_source_data.tsv")
 
