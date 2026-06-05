@@ -41,6 +41,10 @@ def figure2() -> None:
     models = read_tsv("results/clinical/age_stratified_endpoint_models.tsv")
     adult_strata = strata.loc[strata["age_stratum"].str.contains("adult", na=False)].copy()
     adult_models = models.loc[models["age_stratum"].eq("adult")].copy()
+    if "clinical_readout" in adult_strata.columns:
+        adult_strata = adult_strata.drop(columns=["clinical_readout"])
+    if "modeled_n" in adult_strata.columns:
+        adult_strata = adult_strata.rename(columns={"modeled_n": "n"})
     adult_strata["source_panel"] = "score_tertile_event_rates"
     adult_models["source_panel"] = "adult_endpoint_effect_estimates"
     write_tsv(adult_strata, "Figure2_adult_score_strata_source_data.tsv")
@@ -93,9 +97,9 @@ def supplementary() -> None:
         ("GSE206285", "GSE206285 remission", "week8_clinical_remission"),
     ]
     module_specs = [
-        ("upstream_score", "Upstream"),
+        ("upstream_score", "Regulatory module"),
         ("mmp_score", "MMP injury"),
-        ("junction_score", "Junction"),
+        ("junction_score", "Junctional complex"),
     ]
     for dataset_id, endpoint_label, endpoint_col in figure_s2_specs:
         path = Path("data/processed") / dataset_id / "baseline_endpoint.tsv"
@@ -119,10 +123,10 @@ def supplementary() -> None:
                     "record_id": record_id,
                     "module": module_name,
                     "module_score": module_values,
-                    "favorable_endpoint": endpoint_values,
+                    "endpoint_positive": endpoint_values,
                 }
-            ).dropna(subset=["module_score", "favorable_endpoint"])
-            long_df["favorable_endpoint"] = long_df["favorable_endpoint"].astype(int)
+            ).dropna(subset=["module_score", "endpoint_positive"])
+            long_df["endpoint_positive"] = long_df["endpoint_positive"].astype(int)
             module_frames.append(long_df)
     if module_frames:
         write_tsv(pd.concat(module_frames, ignore_index=True, sort=False), "FigureS2_module_detail_source_data.tsv")

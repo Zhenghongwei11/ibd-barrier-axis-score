@@ -202,8 +202,8 @@ def parse_rate_cell(cell: str) -> tuple[int, int, float]:
 
 def p_text(pvalue: float) -> str:
     if pvalue < 0.001:
-        return "p<0.001"
-    return f"p={pvalue:.3f}"
+        return "P < 0.001"
+    return f"P = {pvalue:.3f}"
 
 
 def role_family(role: str) -> str:
@@ -227,7 +227,7 @@ def role_fill(role: str) -> str:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Figure 1: Study architecture and cohort registry
+# Figure 1: Study design and cohort registry
 # ─────────────────────────────────────────────────────────────────────────────
 
 def figure1_study_architecture() -> None:
@@ -249,7 +249,7 @@ def figure1_study_architecture() -> None:
     _fig1_claim_ladder(ax_c)
 
     fig.text(0.02, 0.99,
-             "Figure 1  |  Biology-inspired score and age-aware clinical evidence landscape",
+             "Figure 1  |  Study design and age-stratified endpoint framework",
              fontsize=8.5, fontweight="bold", color=INK, va="top")
     save(fig, "Figure1_study_architecture")
 
@@ -268,9 +268,9 @@ def _fig1_score_capsule(ax: plt.Axes) -> None:
             fontsize=6.0, color=MUTED, va="top")
 
     modules = [
-        ("Upstream", ADULT_C, "IPMK · HDAC3 · NCOR"),
+        ("Regulatory module", ADULT_C, "IPMK · HDAC3 · NCOR"),
         ("MMP injury", PINJ_C, "MMP1/3/10/12/13"),
-        ("Junction", PHEN_C, "TJP1 · OCLN · CLDN2"),
+        ("Junctional complex", PHEN_C, "TJP1 · OCLN · CLDN2"),
     ]
     for i, (name, color, genes) in enumerate(modules):
         y = 50 - i * 14
@@ -372,13 +372,13 @@ def _fig1_claim_ladder(ax: plt.Axes) -> None:
     ax.set_xlim(0, 100)
     ax.set_ylim(0, 100)
     panel_label(ax, "c", x=-0.02, y=1.02)
-    ax.text(4, 91, "Interpretation levels", fontsize=7.6, fontweight="bold",
+    ax.text(4, 91, "Analysis hierarchy", fontsize=7.6, fontweight="bold",
             color=INK)
     rows = [
-        (ADULT_C, "Observed", "adult retrospective\nmolecular stratification"),
-        (PRED_C, "Separate", "pediatric / early-onset\ncontext"),
-        (GRAY_M, "Not pooled", "endpoint & tissue\nheterogeneity"),
-        (PINJ_C, "Not assessed", "diagnosis, treatment\nselection, InsP6 efficacy"),
+        (ADULT_C, "Primary assessment", "adult retrospective\nmolecular stratification"),
+        (PRED_C, "Contextual support", "pediatric / early-onset\ncontext"),
+        (GRAY_M, "Inter-cohort heterogeneity", "endpoint & tissue\nheterogeneity"),
+        (PINJ_C, "Excluded from claim", "diagnosis, treatment\nselection, InsP6 efficacy"),
     ]
     for i, (color, label, text) in enumerate(rows):
         y = 73 - i * 18
@@ -445,7 +445,7 @@ def _draw_distribution(
     y_span = y_max - y_min
     ax.set_ylim(y_min - 0.1 * y_span, y_max + 0.25 * y_span)
     if ylab:
-        ax.set_ylabel("Barrier-axis score (z)", fontsize=6.8)
+        ax.set_ylabel("Standardized barrier-axis score", fontsize=6.8)
     ax.tick_params(axis="x", length=0)
 
 
@@ -453,7 +453,7 @@ def figure2_adult_endpoint_evidence() -> None:
     """
     Figure 2: Clinical stratification hero.
 
-    Panel a  —  favorable-endpoint rates in low vs high score strata.
+    Panel a  —  clinical endpoint rates in low vs high score strata.
     Panel b  —  adult direct endpoint OR estimates.
     Panel c  —  representative raw score distributions in anchor cohorts.
     """
@@ -505,7 +505,7 @@ def figure2_adult_endpoint_evidence() -> None:
 
 
 def _fig2_stratification_dumbbell(ax: plt.Axes) -> None:
-    """Hero panel: low-score versus high-score favorable endpoint rates."""
+    """Hero panel: low-score versus high-score clinical endpoint rates."""
     panel_label(ax, "a", x=-0.07, y=1.03)
     rates = pd.read_csv("results/clinical/clinical_score_strata_summary.tsv", sep="\t")
     rows = []
@@ -527,7 +527,7 @@ def _fig2_stratification_dumbbell(ax: plt.Axes) -> None:
     plot_df = pd.DataFrame(rows).sort_values("delta", ascending=True)
     y = np.arange(len(plot_df))
 
-    ax.set_title("Favorable endpoint rate by within-cohort score tertile",
+    ax.set_title("Clinical endpoint rate by score group",
                  loc="left", fontsize=7.6, fontweight="bold", pad=5)
     for yi, row in zip(y, plot_df.itertuples()):
         strip_color = ADULT_C if str(row.age).startswith("adult") else PRED_C
@@ -553,7 +553,7 @@ def _fig2_stratification_dumbbell(ax: plt.Axes) -> None:
     ax.set_xlim(0, 92)
     ax.set_ylim(-0.8, len(plot_df) - 0.2)
     ax.set_yticks([])
-    ax.set_xlabel("Favorable endpoint rate (%)", fontsize=7.0)
+    ax.set_xlabel("Clinical endpoint rate (%)", fontsize=7.0)
     ax.grid(axis="x", color=GRID, lw=0.45)
     legend_handles = [
         plt.Line2D([0], [0], marker="o", color="none", markerfacecolor=ADULT_C,
@@ -616,7 +616,7 @@ def _fig2_adult_or_forest(ax: plt.Axes, models: pd.DataFrame) -> None:
     ax.set_xticks([0.01, 0.1, 1.0])
     ax.set_xticklabels(["0.01", "0.1", "1.0"])
     ax.set_yticks([])
-    ax.set_xlabel("OR per 1 SD score", fontsize=6.8)
+    ax.set_xlabel("OR per 1-SD higher score", fontsize=6.8)
     ax.grid(axis="x", color=GRID, lw=0.4, zorder=0)
 
 
@@ -757,7 +757,7 @@ def _fig3_direction_summary(ax: plt.Axes, models: pd.DataFrame) -> None:
         ax.text(15, y - 7.0, note, fontsize=5.4, color=MUTED, va="center")
         if i < len(rows) - 1:
             ax.plot([3, 96], [y - 12, y - 12], color=GRID, lw=0.6)
-    ax.text(3, 4, "No single pooled pan-IBD estimate is displayed.",
+    ax.text(3, 4, "Endpoint-specific estimates are shown because cohorts were not clinically interchangeable.",
             fontsize=5.6, color=PINJ_C, style="italic")
 
 
@@ -777,7 +777,7 @@ def figure4_evidence_architecture() -> None:
     _fig4_translation_ladder(ax_a)
     _fig4_nonclaim_boundary(ax_b)
 
-    fig.text(0.02, 0.99, "Figure 4  |  Interpretation scope and next-validation path",
+    fig.text(0.02, 0.99, "Figure 4  |  Evidence synthesis and future validation",
              fontsize=8.5, fontweight="bold", color=INK, va="top")
     save(fig, "Figure4_evidence_architecture")
 
@@ -790,14 +790,14 @@ def _fig4_translation_ladder(ax: plt.Axes) -> None:
     ax.set_title("Current interpretation", loc="left",
                  fontsize=7.5, fontweight="bold", pad=4)
     stages = [
-        (PINJ_C, "Not evaluated", "Clinical-test deployment",
+        (PINJ_C, "Prospective test needed", "Clinical assay use",
          "no locked threshold, calibration,\nDCA, or prospective assay"),
-        (GRAY_M, "Cohort-specific", "Endpoint-aware synthesis",
+        (GRAY_M, "Endpoint-specific", "Evidence synthesis",
          "cohort-level interpretation;\nno forced pooled pan-IBD OR"),
-        (PRED_C, "Separate context", "Pediatric / early-onset\nbiological relevance",
+        (PRED_C, "Pediatric context", "Pediatric / early-onset\nbiological relevance",
          "remission context plus injury /\nphenotype evidence; not adult\nvalidation"),
-        (ADULT_C, "Observed", "Retrospective molecular\nstratification",
-         "6 adult direct endpoint cohorts;\nlow-score strata show higher\nfavorable endpoint rates"),
+        (ADULT_C, "Adult association", "Retrospective molecular\nstratification",
+         "6 adult direct endpoint cohorts;\nlow-score strata show higher\nhealing, remission, or response rates"),
     ]
     x0, box_w, box_h = 8, 78, 16
     for i, (color, tag, title, note) in enumerate(stages):
@@ -889,7 +889,7 @@ def figureS1_sensitivity_models() -> None:
     ax.set_xticks([0.01, 0.1, 1.0])
     ax.set_xticklabels(["0.01", "0.1", "1.0"])
     ax.set_yticks([])
-    ax.set_xlabel("OR per 1 SD score (log scale)", fontsize=7.0)
+    ax.set_xlabel("OR per 1-SD higher score (log scale)", fontsize=7.0)
     ax.set_title("Supplementary Figure 1 | Adjusted sensitivity models", loc="left", fontsize=7.5, fontweight="bold", pad=8)
     save(fig, "FigureS1_sensitivity_models")
 
@@ -906,9 +906,9 @@ def figureS2_score_module_detail() -> None:
         ("data/processed/GSE206285/baseline_endpoint.tsv", "GSE206285\nremission", "week8_clinical_remission"),
     ]
     module_cols = [
-        ("upstream_score", "Upstream"),
+        ("upstream_score", "Regulatory module"),
         ("mmp_score", "MMP injury"),
-        ("junction_score", "Junction"),
+        ("junction_score", "Junctional complex"),
     ]
     records = []
     for fpath, label, endpoint_col in files:
@@ -925,12 +925,12 @@ def figureS2_score_module_detail() -> None:
             tmp = pd.DataFrame({"score": vals, "endpoint": endpoint}).dropna()
             if tmp.empty:
                 continue
-            favorable = tmp.loc[tmp["endpoint"] == 1, "score"]
-            unfavorable = tmp.loc[tmp["endpoint"] == 0, "score"]
+            endpoint_positive = tmp.loc[tmp["endpoint"] == 1, "score"]
+            endpoint_negative = tmp.loc[tmp["endpoint"] == 0, "score"]
             records.append({
                 "endpoint": label,
                 "module": module,
-                "delta": favorable.mean() - unfavorable.mean(),
+                "delta": endpoint_positive.mean() - endpoint_negative.mean(),
             })
     if not records:
         return
@@ -957,12 +957,12 @@ def figureS2_score_module_detail() -> None:
                 text_color = WHITE if val < -0.3 or val > 0.3 else INK
                 ax.text(j, i, f"{val:+.2f}", ha="center", va="center",
                         fontsize=6.0, color=text_color)
-    ax.set_title("Supplementary Figure 2 | Module score difference in favorable vs unfavorable endpoints",
+    ax.set_title("Supplementary Figure 2 | Response-based module contrast",
                  loc="left", fontsize=7.3, fontweight="bold", pad=6)
     cbar = fig.colorbar(im, ax=ax, fraction=0.046, pad=0.04)
     cbar.set_label("Mean difference", fontsize=6.2)
     cbar.ax.tick_params(labelsize=5.8)
-    ax.text(0.0, -0.25, "Positive values indicate higher module score in favorable endpoint samples.",
+    ax.text(0.0, -0.25, "Positive values indicate higher module score in samples with the clinical endpoint.",
             transform=ax.transAxes, fontsize=5.5, color=MUTED)
     plt.tight_layout()
     save(fig, "FigureS2_score_module_detail")
