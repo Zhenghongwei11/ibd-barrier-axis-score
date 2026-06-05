@@ -1,0 +1,7 @@
+dataset_id	endpoint	sensitivity	model	effect_type	effect	ci_lower	ci_upper	pvalue	n	status
+GSE73661	mucosal_healing	adjust_baseline_mayo_and_treatment	mucosal_healing ~ axis_score_z + baseline_mayo + C(treatment_family)	odds_ratio_for_axis_score_z	0.536676	0.288121	0.999653	0.0498722	64	ok
+GSE73661	mucosal_healing	mmp_component	mucosal_healing ~ mmp_score_z + C(treatment_family)	odds_ratio_for_mmp_score_z	0.358463	0.174522	0.736273	0.00521205	64	ok
+GSE73661	mucosal_healing	upstream_component	mucosal_healing ~ upstream_score_z + C(treatment_family)	odds_ratio_for_upstream_score_z	0.660508	0.319939	1.3636	0.262112	64	ok
+GSE73661	mucosal_healing	junction_component	mucosal_healing ~ junction_score_z + C(treatment_family)	odds_ratio_for_junction_score_z	1.0388	0.588735	1.83293	0.895461	64	ok
+GSE73661	mucosal_healing	treatment_stratum_IFX	mucosal_healing ~ axis_score_z	odds_ratio_for_axis_score_z	0.566832	0.220005	1.46042	0.239733	23	ok
+GSE73661	mucosal_healing	treatment_stratum_VDZ	mucosal_healing ~ axis_score_z	odds_ratio_for_axis_score_z	0.511843	0.237094	1.10498	0.0880598	41	ok

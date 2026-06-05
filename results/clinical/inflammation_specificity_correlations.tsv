@@ -1,0 +1,12 @@
+dataset_id	endpoint	n	available_inflammation_genes	axis_inflammation_spearman_r	axis_inflammation_spearman_p	status
+GSE73661	mucosal_healing	64	OSM;TREM1;TNF;TNFRSF1B;IL13RA2	0.63141	2.21959e-08	ok
+GSE12251	wk8_endoscopic_histologic_healing	0		NA	NA	no_aligned_data_or_insufficient_genes
+GSE92415	week6_clinical_response	0		NA	NA	no_aligned_data_or_insufficient_genes
+GSE206285	week8_mucosal_healing	0		NA	NA	no_aligned_data_or_insufficient_genes
+GSE206285	week8_clinical_remission	0		NA	NA	no_aligned_data_or_insufficient_genes
+GSE23597	week8_response	0		NA	NA	no_aligned_data_or_insufficient_genes
+GSE23597	week30_response	0		NA	NA	no_aligned_data_or_insufficient_genes
+GSE16879	infliximab_response	0		NA	NA	no_aligned_data_or_insufficient_genes
+GSE109142	week4_remission	206	OSM;TREM1;TNF;TNFRSF1B;IL13RA2	0.393433	4.91223e-09	ok
+GSE101794	cd_status	304	OSM;TREM1;TNF;TNFRSF1B;IL13RA2	0.532412	1.18271e-23	ok
+GSE117993	ibd_status	190	OSM;TREM1;TNF;TNFRSF1B;IL13RA2	0.429633	6.18323e-10	ok

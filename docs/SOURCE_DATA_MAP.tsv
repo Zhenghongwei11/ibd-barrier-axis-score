@@ -1,0 +1,19 @@
+submission_label	internal_source	description
+Source Data 1	results/dataset_summary.tsv	Cohort summary, age stratum, endpoint family, and intended clinical role.
+Source Data 2	results/clinical/age_stratified_endpoint_models.tsv	Primary harmonized age-stratified endpoint models, including expanded adult direct endpoint cohorts and pediatric/early-onset cohorts.
+Source Data 3	data/processed/GSE73661/baseline_endpoint.tsv	GSE73661 baseline mucosal-healing endpoint table.
+Source Data 4	data/processed/GSE12251/baseline_endpoint.tsv	GSE12251 week-8 endoscopic/histologic healing endpoint table.
+Source Data 5	data/processed/GSE92415/baseline_endpoint.tsv	GSE92415 baseline week-6 response endpoint table.
+Source Data 6	data/processed/GSE206285/baseline_endpoint.tsv	GSE206285 baseline week-8 mucosal-healing and clinical-remission endpoint table.
+Source Data 7	data/processed/GSE23597/baseline_endpoint.tsv	GSE23597 baseline week-8 and week-30 response endpoint table.
+Source Data 8	data/processed/GSE16879/baseline_endpoint.tsv	GSE16879 pretreatment infliximab-response endpoint table.
+Source Data 9	results/meta/age_endpoint_synthesis.tsv	Age-aware cohort-level endpoint synthesis and pooling eligibility.
+Source Data 10	results/meta/non_poolable_endpoints.tsv	Endpoint compatibility and non-pooling boundary registry.
+Source Data 11	results/clinical/comparator_models.tsv	Comparator and incremental-value model.
+Source Data 12	results/clinical/sensitivity_models.tsv	Sensitivity analyses.
+Source Data 13	results/validation/evidence_grading.tsv	Claim-level evidence grading.
+Source Data 14	results/clinical/clinical_score_strata_summary.tsv	Clinically interpretable favorable-endpoint rates by low, middle, and high barrier-axis score strata.
+Source Data 15	results/clinical/clinical_score_strata.tsv	Detailed score-stratum endpoint table with stratum-specific sample size, event count, event rate, and score distribution.
+Source Data 16	results/clinical/inflammation_specificity_models.tsv	Inflammatory-response comparator and joint-adjusted models where aligned comparator genes were available.
+Source Data 17	results/clinical/inflammation_specificity_correlations.tsv	Feasibility and Spearman correlations between the barrier-axis score and inflammatory-response comparator.
+Figure Source Data	results/figures/source_data	Per-figure compact source-data tables exported by scripts/26_export_figure_source_data.py.

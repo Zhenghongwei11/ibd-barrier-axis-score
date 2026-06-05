@@ -1,0 +1,8 @@
+dataset_id	endpoint	model	effect_type	effect	ci_lower	ci_upper	pvalue	fdr	n	interpretation_boundary
+GSE57945	macroscopic_inflammation_vs_normal_or_microscopic	macroscopic_inflammation ~ axis_score_z	odds_ratio_per_1sd_axis_score	1.6962	1.07151	2.68508	0.024152	0.024152	171	independent_ileal_phenotype_validation; not treatment_response
+GSE57945	deep_ulcer	deep_ulcer_binary ~ axis_score_z	odds_ratio_per_1sd_axis_score	1.79838	1.27947	2.52775	0.000728116	0.000728116	174	independent_ileal_phenotype_validation; not treatment_response
+GSE117993	IBD_vs_control_rectum	ibd_status ~ axis_score_z	odds_ratio_per_1sd_axis_score	2.50304	1.65661	3.78194	1.31847e-05	1.31847e-05	190	independent_rectal_disease_phenotype_validation; not treatment_response
+GSE117993	CD_vs_control_rectum	disease_status ~ axis_score_z	odds_ratio_per_1sd_axis_score	1.90457	1.24708	2.9087	0.00286387	0.00286387	147	independent_rectal_disease_phenotype_validation; not treatment_response
+GSE117993	UC_vs_control_rectum	disease_status ~ axis_score_z	odds_ratio_per_1sd_axis_score	4.76018	2.57291	8.80687	6.67676e-07	6.67676e-07	98	independent_rectal_disease_phenotype_validation; not treatment_response
+GSE101794	CD_vs_nonIBD_ileum	cd_status ~ axis_score_z	odds_ratio_per_1sd_axis_score	4.90565	2.94104	8.18263	1.11133e-09	1.11133e-09	304	independent_ileal_disease_phenotype_validation; not treatment_response
+GSE101794	CD_vs_nonIBD_ileum_age_sex_adjusted	cd_status ~ axis_score_z + age_z + C(sex)	odds_ratio_per_1sd_axis_score	4.96686	2.96534	8.31937	1.12641e-09	1.12641e-09	304	independent_ileal_disease_phenotype_validation; not treatment_response

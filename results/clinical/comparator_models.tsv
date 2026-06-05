@@ -1,0 +1,2 @@
+dataset_id	comparator_set	base_model	axis_model	delta_metric	delta_value	axis_effect_type	axis_effect	ci_lower	ci_upper	pvalue	n	conclusion
+GSE73661	OSM_TREM1_TNF_IL13RA2_TNFRSF1B_mean_z	mucosal_healing ~ comparator_score_z + C(treatment_family)	mucosal_healing ~ comparator_score_z + axis_score_z + C(treatment_family)	likelihood_ratio_p_for_axis_increment	0.82174	odds_ratio_per_1sd_axis_score_adjusted_for_comparator	1.10517	0.461288	2.6478	0.822511	64	axis_increment_tested_retrospectively; clinical utility not established

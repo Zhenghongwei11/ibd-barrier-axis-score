@@ -1,0 +1,7 @@
+dataset_id	qc_stage	metadata_status	endpoint_status	expression_status	blocking_issue
+GSE109142	modeled	series_matrix_parsed_with_per_cell_characteristics	week4_remission_yes_no_n206	RAW_tar_processed_quantification_merged_226_samples	Endpoint is pediatric UC week-4 remission; adjusted axis association is directionally consistent but not statistically significant.
+GSE73661	modeled	series_matrix_parsed	baseline_mucosal_healing_n64	series_matrix_array_expression_mapped_178_samples	Best direct mucosal-healing endpoint; small baseline endpoint sample limits predictor claims.
+GSE57945	modeled	series_matrix_parsed	macroscopic_inflammation_n171;deep_ulcer_n174	processed_RPKM_axis_scored_254_samples	Not a treatment-response cohort; supports ileal phenotype validation only.
+GSE101794	modeled	series_matrix_parsed	CD_vs_nonIBD_n304	RAW_tar_processed_quantification_merged_304_samples	Disease-vs-control validation is strong but cannot validate treatment response.
+GSE117993	modeled	series_matrix_parsed	IBD_vs_control_n190;CD_vs_control_n147;UC_vs_control_n98	RAW_tar_processed_quantification_merged_190_samples	Disease-vs-control validation is strong but cannot validate treatment response.
+IBDMDB_HMP2	deferred	not_parsed	pending_manifest_intersection	not_downloaded	Complex multi-omics; use only if host transcriptome and activity labels intersect cleanly.

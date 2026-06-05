@@ -1,0 +1,184 @@
+title	sample_id	tissue	subject	disease	age	treatment	visit	wk6response	mayo_score
+T17p1_A8	GSM2429346	colon mucosa	6402-00008	Ulcerative Colitis (UC)	77	golimumab	Week 0	Yes	9
+T17p2_F4	GSM2429347	colon mucosa	7783-00005	Ulcerative Colitis (UC)	34	golimumab	Week 0	Yes	7
+T17p1_A11	GSM2429348	colon mucosa	6502-00028	Ulcerative Colitis (UC)	27	golimumab	Week 0	Yes	7
+T17p2_B8	GSM2429349	colon mucosa	7796-00003	Ulcerative Colitis (UC)	63	golimumab	Week 0	No	8
+T17p2_B7	GSM2429350	colon mucosa	7602-00001	Ulcerative Colitis (UC)	39	golimumab	Week 0	No	8
+T17p2_C1	GSM2429351	colon mucosa	7414-00018	Ulcerative Colitis (UC)	28	golimumab	Week 0	Yes	11
+T17p1_D4	GSM2429352	colon mucosa	6705-00016	Ulcerative Colitis (UC)	50	golimumab	Week 0	Yes	11
+T17p1_C8	GSM2429353	colon mucosa	6404-00026	Ulcerative Colitis (UC)	51	golimumab	Week 0	Yes	9
+T17p2_A4	GSM2429354	colon mucosa	7756-00011	Ulcerative Colitis (UC)	46	golimumab	Week 0	Yes	10
+T17p2_A7	GSM2429355	colon mucosa	7785-00003	Ulcerative Colitis (UC)	30	golimumab	Week 0	No	11
+T17p1_E10	GSM2429356	colon mucosa	7204-00011	Ulcerative Colitis (UC)	38	golimumab	Week 0	No	9
+T17p1_H4	GSM2429357	colon mucosa	6402-00007	Ulcerative Colitis (UC)	49	golimumab	Week 0	Yes	10
+T17p2_B5	GSM2429358	colon mucosa	7530-00008	Ulcerative Colitis (UC)	56	golimumab	Week 0	No	6
+T17p2_H4	GSM2429359	colon mucosa	7530-00011	Ulcerative Colitis (UC)	63	golimumab	Week 0	No	8
+T17p1_G1	GSM2429360	colon mucosa	7207-00021	Ulcerative Colitis (UC)	27	golimumab	Week 0	No	8
+T17p1_A10	GSM2429361	colon mucosa	6404-00030	Ulcerative Colitis (UC)	30	golimumab	Week 0	No	7
+T17p1_B2	GSM2429362	colon mucosa	6404-00017	Ulcerative Colitis (UC)	63	golimumab	Week 0	Yes	8
+T17p1_F2	GSM2429363	colon mucosa	7213-00008	Ulcerative Colitis (UC)	25	golimumab	Week 0	No	10
+T17p2_C3	GSM2429364	colon mucosa	7781-00003	Ulcerative Colitis (UC)	36	golimumab	Week 0	No	11
+T17p1_A4	GSM2429365	colon mucosa	6177-00015	Ulcerative Colitis (UC)	23	golimumab	Week 0	Yes	10
+T17p2_G3	GSM2429366	colon mucosa	7753-00004	Ulcerative Colitis (UC)	51	golimumab	Week 0	No	10
+T17p2_G1	GSM2429367	colon mucosa	7414-00019	Ulcerative Colitis (UC)	24	golimumab	Week 0	Yes	8
+T17p1_E6	GSM2429368	colon mucosa	7213-00010	Ulcerative Colitis (UC)	52	golimumab	Week 0	No	9
+T17p2_E1	GSM2429369	colon mucosa	7530-00002	Ulcerative Colitis (UC)	57	golimumab	Week 0	No	8
+T17p1_D5	GSM2429370	colon mucosa	6705-00018	Ulcerative Colitis (UC)	20	golimumab	Week 0	No	9
+T17p2_A6	GSM2429371	colon mucosa	7414-00020	Ulcerative Colitis (UC)	27	golimumab	Week 0	No	12
+T17p1_B1	GSM2429372	colon mucosa	6502-00022	Ulcerative Colitis (UC)	30	golimumab	Week 0	Yes	10
+T17p2_A1	GSM2429373	colon mucosa	7785-00001	Ulcerative Colitis (UC)	29	golimumab	Week 0	No	11
+T17p2_B1	GSM2429374	colon mucosa	7787-00002	Ulcerative Colitis (UC)	46	golimumab	Week 0	No	8
+T17p1_C10	GSM2429375	colon mucosa	6404-00031	Ulcerative Colitis (UC)	46	golimumab	Week 0	Yes	7
+T17p1_C3	GSM2429376	colon mucosa	7179-00002	Ulcerative Colitis (UC)	46	golimumab	Week 0	Yes	8
+T17p2_B6	GSM2429377	colon mucosa	7416-00009	Ulcerative Colitis (UC)	34	golimumab	Week 0	No	8
+T17p1_C7	GSM2429378	colon mucosa	7026-00028	Ulcerative Colitis (UC)	50	golimumab	Week 0	No	10
+T17p2_G5	GSM2429379	colon mucosa	7528-00001	Ulcerative Colitis (UC)	63	golimumab	Week 0	No	8
+T17p2_F6	GSM2429380	colon mucosa	7601-00002	Ulcerative Colitis (UC)	27	golimumab	Week 0	Yes	10
+T17p1_G3	GSM2429381	colon mucosa	7354-00009	Ulcerative Colitis (UC)	44	golimumab	Week 0	Yes	9
+T17p2_F7	GSM2429382	colon mucosa	7460-00002	Ulcerative Colitis (UC)	54	golimumab	Week 0	Yes	7
+T17p1_A12	GSM2429383	colon mucosa	7783-00003	Ulcerative Colitis (UC)	71	golimumab	Week 0	No	7
+T17p1_G9	GSM2429384	colon mucosa	7204-00013	Ulcerative Colitis (UC)	39	golimumab	Week 0	No	12
+T17p1_B5	GSM2429385	colon mucosa	6705-00017	Ulcerative Colitis (UC)	36	golimumab	Week 0	No	8
+T17p1_E7	GSM2429386	colon mucosa	6179-00009	Ulcerative Colitis (UC)	32	golimumab	Week 0	No	10
+T17p2_D3	GSM2429387	colon mucosa	7785-00002	Ulcerative Colitis (UC)	64	golimumab	Week 0	No	10
+T17p2_H7	GSM2429388	colon mucosa	7790-00002	Ulcerative Colitis (UC)	27	golimumab	Week 0	No	7
+T17p1_E12	GSM2429389	colon mucosa	7746-00010	Ulcerative Colitis (UC)	69	golimumab	Week 0	No	8
+T17p2_C6	GSM2429390	colon mucosa	7601-00001	Ulcerative Colitis (UC)	59	golimumab	Week 0	Yes	8
+T17p2_A2	GSM2429391	colon mucosa	7530-00004	Ulcerative Colitis (UC)	42	golimumab	Week 0	Yes	6
+T17p1_E3	GSM2429392	colon mucosa	6501-00019	Ulcerative Colitis (UC)	20	golimumab	Week 0	Yes	7
+T17p1_H1	GSM2429393	colon mucosa	6716-00010	Ulcerative Colitis (UC)	69	golimumab	Week 0	Yes	6
+T17p2_H8	GSM2429394	colon mucosa	7460-00004	Ulcerative Colitis (UC)	45	golimumab	Week 0	Yes	7
+T17p2_D7	GSM2429395	colon mucosa	7602-00004	Ulcerative Colitis (UC)	36	golimumab	Week 0	Yes	9
+T17p2_D9	GSM2429396	colon mucosa	7460-00005	Ulcerative Colitis (UC)	47	golimumab	Week 0	Yes	9
+T17p2_C5	GSM2429397	colon mucosa	7530-00009	Ulcerative Colitis (UC)	33	golimumab	Week 0	Yes	7
+T17p1_C12	GSM2429398	colon mucosa	7746-00009	Ulcerative Colitis (UC)	19	golimumab	Week 0	Yes	6
+T17p1_F5	GSM2429399	colon mucosa	6404-00021	Ulcerative Colitis (UC)	63	golimumab	Week 0	Yes	6
+T17p2_D8	GSM2429400	colon mucosa	7601-00005	Ulcerative Colitis (UC)	31	golimumab	Week 0	Yes	10
+T17p2_B9	GSM2429401	colon mucosa	7460-00006	Ulcerative Colitis (UC)	40	golimumab	Week 0	Yes	7
+T17p1_F11	GSM2429402	colon mucosa	7502-00003	Ulcerative Colitis (UC)	33	golimumab	Week 0	Yes	9
+T17p1_D11	GSM2429403	colon mucosa	7783-00001	Ulcerative Colitis (UC)	25	golimumab	Week 0	Yes	8
+T17p1_B9	GSM2429404	colon mucosa	7407-00026	Ulcerative Colitis (UC)	53	golimumab	Week 0	Yes	9
+T17p2_C7	GSM2429405	colon mucosa	7602-00001	Ulcerative Colitis (UC)	39	golimumab	Week 6	No	4
+T17p1_A5	GSM2429406	colon mucosa	6402-00007	Ulcerative Colitis (UC)	49	golimumab	Week 6	Yes	6
+T17p1_B10	GSM2429407	colon mucosa	6404-00030	Ulcerative Colitis (UC)	30	golimumab	Week 6	No	7
+T17p2_D1	GSM2429408	colon mucosa	7414-00018	Ulcerative Colitis (UC)	28	golimumab	Week 6	Yes	6
+T17p1_H10	GSM2429409	colon mucosa	6502-00027	Ulcerative Colitis (UC)	33	golimumab	Week 6	Yes	3
+T17p1_D7	GSM2429410	colon mucosa	7026-00028	Ulcerative Colitis (UC)	50	golimumab	Week 6	No	10
+T17p1_F1	GSM2429411	colon mucosa	6502-00024	Ulcerative Colitis (UC)	46	golimumab	Week 6	No	9
+T17p1_G10	GSM2429412	colon mucosa	6502-00026	Ulcerative Colitis (UC)	25	golimumab	Week 6	No	7
+T17p1_B8	GSM2429413	colon mucosa	6402-00008	Ulcerative Colitis (UC)	77	golimumab	Week 6	Yes	5
+T17p1_D8	GSM2429414	colon mucosa	6404-00026	Ulcerative Colitis (UC)	51	golimumab	Week 6	Yes	3
+T17p1_H3	GSM2429415	colon mucosa	7354-00009	Ulcerative Colitis (UC)	44	golimumab	Week 6	Yes	4
+T17p2_G7	GSM2429416	colon mucosa	7460-00002	Ulcerative Colitis (UC)	54	golimumab	Week 6	Yes	3
+T17p1_D1	GSM2429417	colon mucosa	6502-00023	Ulcerative Colitis (UC)	23	golimumab	Week 6	Yes	7
+T17p2_H1	GSM2429418	colon mucosa	7414-00019	Ulcerative Colitis (UC)	24	golimumab	Week 6	Yes	5
+T17p1_B11	GSM2429419	colon mucosa	6502-00028	Ulcerative Colitis (UC)	27	golimumab	Week 6	Yes	4
+T17p2_A5	GSM2429420	colon mucosa	7530-00011	Ulcerative Colitis (UC)	63	golimumab	Week 6	No	8
+T17p2_B4	GSM2429421	colon mucosa	7756-00011	Ulcerative Colitis (UC)	46	golimumab	Week 6	Yes	7
+T17p1_D9	GSM2429422	colon mucosa	6404-00027	Ulcerative Colitis (UC)	30	golimumab	Week 6	Yes	3
+T17p2_H5	GSM2429423	colon mucosa	7528-00001	Ulcerative Colitis (UC)	63	golimumab	Week 6	No	7
+T17p2_F1	GSM2429424	colon mucosa	7530-00002	Ulcerative Colitis (UC)	57	golimumab	Week 6	No	8
+T17p1_F7	GSM2429425	colon mucosa	6179-00009	Ulcerative Colitis (UC)	32	golimumab	Week 6	No	10
+T17p1_E4	GSM2429426	colon mucosa	6705-00016	Ulcerative Colitis (UC)	50	golimumab	Week 6	Yes	6
+T17p2_A8	GSM2429427	colon mucosa	7790-00002	Ulcerative Colitis (UC)	27	golimumab	Week 6	No	7
+T17p1_E5	GSM2429428	colon mucosa	6705-00018	Ulcerative Colitis (UC)	20	golimumab	Week 6	No	6
+T17p1_F6	GSM2429429	colon mucosa	7213-00010	Ulcerative Colitis (UC)	52	golimumab	Week 6	No	9
+T17p1_A1	GSM2429430	colon mucosa	7213-00005	Ulcerative Colitis (UC)	35	golimumab	Week 6	No	7
+T17p1_C1	GSM2429431	colon mucosa	7213-00006	Ulcerative Colitis (UC)	58	golimumab	Week 6	Yes	5
+T17p1_F12	GSM2429432	colon mucosa	7746-00010	Ulcerative Colitis (UC)	69	golimumab	Week 6	No	9
+T17p1_C2	GSM2429433	colon mucosa	6404-00017	Ulcerative Colitis (UC)	63	golimumab	Week 6	Yes	4
+T17p2_C4	GSM2429434	colon mucosa	7530-00008	Ulcerative Colitis (UC)	56	golimumab	Week 6	No	4
+T17p2_C8	GSM2429435	colon mucosa	7796-00003	Ulcerative Colitis (UC)	63	golimumab	Week 6	No	6
+T17p1_D3	GSM2429436	colon mucosa	7179-00002	Ulcerative Colitis (UC)	46	golimumab	Week 6	Yes	3
+T17p1_C5	GSM2429437	colon mucosa	6705-00017	Ulcerative Colitis (UC)	36	golimumab	Week 6	No	8
+T17p1_D10	GSM2429438	colon mucosa	6404-00031	Ulcerative Colitis (UC)	46	golimumab	Week 6	Yes	4
+T17p1_F10	GSM2429439	colon mucosa	7204-00011	Ulcerative Colitis (UC)	38	golimumab	Week 6	No	8
+T17p1_G2	GSM2429440	colon mucosa	7213-00008	Ulcerative Colitis (UC)	25	golimumab	Week 6	No	9
+T17p1_B12	GSM2429441	colon mucosa	7783-00003	Ulcerative Colitis (UC)	71	golimumab	Week 6	No	8
+T17p1_H9	GSM2429442	colon mucosa	7204-00013	Ulcerative Colitis (UC)	39	golimumab	Week 6	No	10
+T17p2_A9	GSM2429443	colon mucosa	7460-00004	Ulcerative Colitis (UC)	45	golimumab	Week 6	Yes	2
+T17p2_B2	GSM2429444	colon mucosa	7530-00004	Ulcerative Colitis (UC)	42	golimumab	Week 6	Yes	0
+T17p1_G5	GSM2429445	colon mucosa	6404-00021	Ulcerative Colitis (UC)	63	golimumab	Week 6	Yes	2
+T17p2_C9	GSM2429446	colon mucosa	7460-00006	Ulcerative Colitis (UC)	40	golimumab	Week 6	Yes	2
+T17p2_D5	GSM2429447	colon mucosa	7530-00009	Ulcerative Colitis (UC)	33	golimumab	Week 6	Yes	0
+T17p2_E9	GSM2429448	colon mucosa	7460-00005	Ulcerative Colitis (UC)	47	golimumab	Week 6	Yes	1
+T17p1_A2	GSM2429449	colon mucosa	6716-00010	Ulcerative Colitis (UC)	69	golimumab	Week 6	Yes	1
+T17p1_F3	GSM2429450	colon mucosa	6501-00019	Ulcerative Colitis (UC)	20	golimumab	Week 6	Yes	2
+T17p2_E7	GSM2429451	colon mucosa	7602-00004	Ulcerative Colitis (UC)	36	golimumab	Week 6	Yes	2
+T17p1_D6	GSM2429452	colon mucosa	6177-00016	Ulcerative Colitis (UC)	47	golimumab	Week 6	Yes	2
+T17p1_C9	GSM2429453	colon mucosa	7407-00026	Ulcerative Colitis (UC)	53	golimumab	Week 6	Yes	2
+T17p1_E11	GSM2429454	colon mucosa	7783-00001	Ulcerative Colitis (UC)	25	golimumab	Week 6	Yes	0
+Colon-NHC-UC_E1	GSM2429455	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_G4	GSM2429456	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_A2	GSM2429457	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_A4	GSM2429458	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_D1	GSM2429459	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_H1	GSM2429460	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_B2	GSM2429461	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_G1	GSM2429462	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_F2	GSM2429463	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_D2	GSM2429464	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_D4	GSM2429465	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_B1	GSM2429466	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_H4	GSM2429467	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_C1	GSM2429468	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_F1	GSM2429469	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_B4	GSM2429470	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_C4	GSM2429471	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_A1	GSM2429472	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_F4	GSM2429473	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_C2	GSM2429474	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+Colon-NHC-UC_E4	GSM2429475	colon mucosa		Healthy		Healthy	Healthy	Healthy	.
+T17p2_G2	GSM2429476	colon mucosa	7532-00001	Ulcerative Colitis (UC)	44	Placebo	Week 0	Yes	12
+T17p1_H8	GSM2429477	colon mucosa	7407-00025	Ulcerative Colitis (UC)	41	Placebo	Week 0	No	10
+T17p2_G9	GSM2429478	colon mucosa	7781-00002	Ulcerative Colitis (UC)	27	Placebo	Week 0	No	7
+T17p2_F8	GSM2429479	colon mucosa	7460-00003	Ulcerative Colitis (UC)	28	Placebo	Week 0	No	7
+T17p1_D2	GSM2429480	colon mucosa	7213-00007	Ulcerative Colitis (UC)	44	Placebo	Week 0	No	10
+T17p1_G11	GSM2429481	colon mucosa	7783-00002	Ulcerative Colitis (UC)	51	Placebo	Week 0	No	9
+T17p1_F8	GSM2429482	colon mucosa	6404-00029	Ulcerative Colitis (UC)	21	Placebo	Week 0	No	9
+T17p1_F4	GSM2429483	colon mucosa	6207-00002	Ulcerative Colitis (UC)	19	Placebo	Week 0	No	7
+T17p1_E8	GSM2429484	colon mucosa	6404-00028	Ulcerative Colitis (UC)	46	Placebo	Week 0	Yes	6
+T17p2_F9	GSM2429485	colon mucosa	7085-00002	Ulcerative Colitis (UC)	63	Placebo	Week 0	No	7
+T17p1_H2	GSM2429486	colon mucosa	6179-00007	Ulcerative Colitis (UC)	41	Placebo	Week 0	No	8
+T17p1_A3	GSM2429487	colon mucosa	6402-00006	Ulcerative Colitis (UC)	52	Placebo	Week 0	Yes	10
+T17p1_G7	GSM2429488	colon mucosa	7407-00024	Ulcerative Colitis (UC)	38	Placebo	Week 0	No	9
+T17p1_A7	GSM2429489	colon mucosa	7376-00004	Ulcerative Colitis (UC)	42	Placebo	Week 0	No	7
+T17p1_E9	GSM2429490	colon mucosa	7084-00001	Ulcerative Colitis (UC)	30	Placebo	Week 0	Yes	10
+T17p2_D4	GSM2429491	colon mucosa	7430-00001	Ulcerative Colitis (UC)	40	Placebo	Week 0	No	6
+T17p2_C2	GSM2429492	colon mucosa	7530-00007	Ulcerative Colitis (UC)	67	Placebo	Week 0	No	9
+T17p1_H5	GSM2429493	colon mucosa	6404-00023	Ulcerative Colitis (UC)	38	Placebo	Week 0	Yes	7
+T17p2_A3	GSM2429494	colon mucosa	7734-00011	Ulcerative Colitis (UC)	22	Placebo	Week 0	No	5
+T17p1_G6	GSM2429495	colon mucosa	6404-00024	Ulcerative Colitis (UC)	51	Placebo	Week 0	Yes	7
+T17p1_B6	GSM2429496	colon mucosa	7377-00009	Ulcerative Colitis (UC)	58	Placebo	Week 0	No	7
+T17p1_G12	GSM2429497	colon mucosa	7753-00001	Ulcerative Colitis (UC)	47	Placebo	Week 0	No	11
+T17p1_D12	GSM2429498	colon mucosa	7755-00003	Ulcerative Colitis (UC)	49	Placebo	Week 0	Yes	6
+T17p1_B4	GSM2429499	colon mucosa	6101-00008	Ulcerative Colitis (UC)	45	Placebo	Week 0	No	7
+T17p2_E2	GSM2429500	colon mucosa	7755-00004	Ulcerative Colitis (UC)	51	Placebo	Week 0	Yes	7
+T17p2_E3	GSM2429501	colon mucosa	7506-00001	Ulcerative Colitis (UC)	39	Placebo	Week 0	Yes	6
+T17p2_E5	GSM2429502	colon mucosa	7532-00002	Ulcerative Colitis (UC)	26	Placebo	Week 0	Yes	9
+T17p2_D6	GSM2429503	colon mucosa	7601-00004	Ulcerative Colitis (UC)	33	Placebo	Week 0	Yes	8
+T17p1_B3	GSM2429504	colon mucosa	6402-00006	Ulcerative Colitis (UC)	52	Placebo	Week 6	Yes	6
+T17p1_E2	GSM2429505	colon mucosa	7213-00007	Ulcerative Colitis (UC)	44	Placebo	Week 6	No	9
+T17p1_C6	GSM2429506	colon mucosa	7377-00009	Ulcerative Colitis (UC)	58	Placebo	Week 6	No	7
+T17p2_E4	GSM2429507	colon mucosa	7430-00001	Ulcerative Colitis (UC)	40	Placebo	Week 6	No	5
+T17p1_G4	GSM2429508	colon mucosa	6207-00002	Ulcerative Colitis (UC)	19	Placebo	Week 6	No	6
+T17p1_C11	GSM2429509	colon mucosa	7781-00002	Ulcerative Colitis (UC)	27	Placebo	Week 6	No	5
+T17p1_H7	GSM2429510	colon mucosa	7407-00024	Ulcerative Colitis (UC)	38	Placebo	Week 6	No	9
+T17p1_A6	GSM2429511	colon mucosa	6404-00023	Ulcerative Colitis (UC)	38	Placebo	Week 6	Yes	3
+T17p2_G8	GSM2429512	colon mucosa	7460-00003	Ulcerative Colitis (UC)	28	Placebo	Week 6	No	7
+T17p2_H2	GSM2429513	colon mucosa	7532-00001	Ulcerative Colitis (UC)	44	Placebo	Week 6	Yes	6
+T17p1_H11	GSM2429514	colon mucosa	7783-00002	Ulcerative Colitis (UC)	51	Placebo	Week 6	No	8
+T17p1_G8	GSM2429515	colon mucosa	6404-00029	Ulcerative Colitis (UC)	21	Placebo	Week 6	No	8
+T17p1_A9	GSM2429516	colon mucosa	7407-00025	Ulcerative Colitis (UC)	41	Placebo	Week 6	No	9
+T17p2_D2	GSM2429517	colon mucosa	7530-00007	Ulcerative Colitis (UC)	67	Placebo	Week 6	No	8
+T17p1_H6	GSM2429518	colon mucosa	6404-00024	Ulcerative Colitis (UC)	51	Placebo	Week 6	Yes	3
+T17p2_F2	GSM2429519	colon mucosa	7755-00004	Ulcerative Colitis (UC)	51	Placebo	Week 6	Yes	3
+T17p1_H12	GSM2429520	colon mucosa	7753-00001	Ulcerative Colitis (UC)	47	Placebo	Week 6	No	11
+T17p2_B3	GSM2429521	colon mucosa	7734-00011	Ulcerative Colitis (UC)	22	Placebo	Week 6	No	3
+T17p2_H6	GSM2429522	colon mucosa	7752-00012	Ulcerative Colitis (UC)	24	Placebo	Week 6	Yes	7
+T17p1_C4	GSM2429523	colon mucosa	6101-00008	Ulcerative Colitis (UC)	45	Placebo	Week 6	No	8
+T17p1_F9	GSM2429524	colon mucosa	7084-00001	Ulcerative Colitis (UC)	30	Placebo	Week 6	Yes	6
+T17p1_B7	GSM2429525	colon mucosa	7376-00004	Ulcerative Colitis (UC)	42	Placebo	Week 6	No	6
+T17p2_H3	GSM2429526	colon mucosa	7746-00011	Ulcerative Colitis (UC)	22	Placebo	Week 6	Yes	1
+T17p2_F5	GSM2429527	colon mucosa	7532-00002	Ulcerative Colitis (UC)	26	Placebo	Week 6	Yes	1
+T17p2_F3	GSM2429528	colon mucosa	7506-00001	Ulcerative Colitis (UC)	39	Placebo	Week 6	Yes	1

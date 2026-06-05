@@ -1,0 +1,227 @@
+title	sample_id	tissue	diagnosis	sex	age_at_diagnosis	pucai	total_mayo_score	eosinophil_grade_≥_32	week_4_remission	histology_severity_score	initial_treatment	baseline_calprotectin	week_4_calprotectin
+Control female1	GSM2932807	Rectal mucosal biopsy	Control	Female	16	NA	NA	NA	NA	NA	NA	NA	NA
+Control female2	GSM2932808	Rectal mucosal biopsy	Control	Female	11	NA	NA	NA	NA	NA	NA	NA	NA
+Control female3	GSM2932809	Rectal mucosal biopsy	Control	Female	17	NA	NA	NA	NA	NA	NA	NA	NA
+Control female4	GSM2932810	Rectal mucosal biopsy	Control	Female	8	NA	NA	NA	NA	NA	NA	NA	NA
+Control female5	GSM2932811	Rectal mucosal biopsy	Control	Female	17	NA	NA	NA	NA	NA	NA	NA	NA
+Control female6	GSM2932812	Rectal mucosal biopsy	Control	Female	16	NA	NA	NA	NA	NA	NA	NA	NA
+Control female7	GSM2932813	Rectal mucosal biopsy	Control	Female	14	NA	NA	NA	NA	NA	NA	NA	NA
+Control female8	GSM2932814	Rectal mucosal biopsy	Control	Female	16	NA	NA	NA	NA	NA	NA	NA	NA
+Control female9	GSM2932815	Rectal mucosal biopsy	Control	Female	9	NA	NA	NA	NA	NA	NA	NA	NA
+Control female10	GSM2932816	Rectal mucosal biopsy	Control	Female	9	NA	NA	NA	NA	NA	NA	NA	NA
+Control female11	GSM2932817	Rectal mucosal biopsy	Control	Female	17	NA	NA	NA	NA	NA	NA	NA	NA
+Controls male1	GSM2932818	Rectal mucosal biopsy	Control	Male	11	NA	NA	NA	NA	NA	NA	NA	NA
+Controls male2	GSM2932819	Rectal mucosal biopsy	Control	Male	11	NA	NA	NA	NA	NA	NA	NA	NA
+Controls male3	GSM2932820	Rectal mucosal biopsy	Control	Male	16	NA	NA	NA	NA	NA	NA	NA	NA
+Controls male4	GSM2932821	Rectal mucosal biopsy	Control	Male	14	NA	NA	NA	NA	NA	NA	NA	NA
+Controls male5	GSM2932822	Rectal mucosal biopsy	Control	Male	17	NA	NA	NA	NA	NA	NA	NA	NA
+Controls male6	GSM2932823	Rectal mucosal biopsy	Control	Male	16	NA	NA	NA	NA	NA	NA	NA	NA
+Controls male7	GSM2932824	Rectal mucosal biopsy	Control	Male	16	NA	NA	NA	NA	NA	NA	NA	NA
+Controls male8	GSM2932825	Rectal mucosal biopsy	Control	Male	9	NA	NA	NA	NA	NA	NA	NA	NA
+Controls male9	GSM2932826	Rectal mucosal biopsy	Control	Male	12	NA	NA	NA	NA	NA	NA	NA	NA
+UC female1	GSM2932827	Rectal mucosal biopsy	Ulcerative Colitis	Female	6	35	8	Y	No	1	CS-Oral	393.20797	≥250
+UC female2	GSM2932828	Rectal mucosal biopsy	Ulcerative Colitis	Female	15	45	9	Y	Yes	2	CS-Oral	3443.427733	<250
+UC female3	GSM2932829	Rectal mucosal biopsy	Ulcerative Colitis	Female	16	25	6	Y	Yes	2	5ASA	3431.928258	<250
+UC female4	GSM2932830	Rectal mucosal biopsy	Ulcerative Colitis	Female	15	10	3	Y	No	2	5ASA	5264.170707	≥250
+UC female5	GSM2932831	Rectal mucosal biopsy	Ulcerative Colitis	Female	8	10	5	Y	Yes	0	5ASA	2397.806522	≥250
+UC female6	GSM2932832	Rectal mucosal biopsy	Ulcerative Colitis	Female	7	65	10	N	Yes	2	CS-IV	3773.6416	≥250
+UC female7	GSM2932833	Rectal mucosal biopsy	Ulcerative Colitis	Female	14	25	6	N	Yes	2	5ASA	unknown	<250
+UC female8	GSM2932834	Rectal mucosal biopsy	Ulcerative Colitis	Female	7	40	7	Y	Yes	2	CS-Oral	2403.91033	≥250
+UC female9	GSM2932835	Rectal mucosal biopsy	Ulcerative Colitis	Female	11	30	5	N	No	2	5ASA	102.5675157	<250
+UC female10	GSM2932836	Rectal mucosal biopsy	Ulcerative Colitis	Female	17	25	5	Y	No	2	5ASA	58.0145294	<250
+UC female11	GSM2932837	Rectal mucosal biopsy	Ulcerative Colitis	Female	16	45	7	N	Yes	2	CS-Oral	unknown	unknown
+UC female12	GSM2932838	Rectal mucosal biopsy	Ulcerative Colitis	Female	16	65	10	Y	Yes	2	CS-IV	4021.60693	unknown
+UC female13	GSM2932839	Rectal mucosal biopsy	Ulcerative Colitis	Female	7	50	7	Y	Yes	2	CS-Oral	unknown	unknown
+UC female14	GSM2932840	Rectal mucosal biopsy	Ulcerative Colitis	Female	16	65	8	N	Yes	2	CS-Oral	unknown	unknown
+UC female15	GSM2932841	Rectal mucosal biopsy	Ulcerative Colitis	Female	12	35	8	N	Yes	2	CS-IV	4032.882813	<250
+UC female16	GSM2932842	Rectal mucosal biopsy	Ulcerative Colitis	Female	9	25	4	Y	Yes	2	5ASA	3975.130141	<250
+UC female17	GSM2932843	Rectal mucosal biopsy	Ulcerative Colitis	Female	10	70	10	Y	No	2	CS-IV	unknown	≥250
+UC female18	GSM2932844	Rectal mucosal biopsy	Ulcerative Colitis	Female	10	75	11	Y	No	2	CS-IV	1087.17925	≥250
+UC female19	GSM2932845	Rectal mucosal biopsy	Ulcerative Colitis	Female	13	75	11	Y	No	2	CS-IV	4481.851944	≥250
+UC female20	GSM2932846	Rectal mucosal biopsy	Ulcerative Colitis	Female	9	70	11		No		CS-IV	8112.945539	≥250
+UC female21	GSM2932847	Rectal mucosal biopsy	Ulcerative Colitis	Female	17	20	3	N	No	0	5ASA	873.1639561	unknown
+UC female22	GSM2932848	Rectal mucosal biopsy	Ulcerative Colitis	Female	6	25	5	Y	Yes	2	5ASA	89.13980752	<250
+UC female23	GSM2932849	Rectal mucosal biopsy	Ulcerative Colitis	Female	13	35	7	N	No	3	CS-Oral	unknown	≥250
+UC female24	GSM2932850	Rectal mucosal biopsy	Ulcerative Colitis	Female	7	50	7	N	Yes	2	CS-IV	8068.605493	≥250
+UC female25	GSM2932851	Rectal mucosal biopsy	Ulcerative Colitis	Female	10	40	7	Y	Yes	2	CS-Oral	1362.3196	<250
+UC female26	GSM2932852	Rectal mucosal biopsy	Ulcerative Colitis	Female	16	25	4	N	Yes	2	5ASA	1180.438493	unknown
+UC female27	GSM2932853	Rectal mucosal biopsy	Ulcerative Colitis	Female	16	70	11		No		CS-IV	unknown	≥250
+UC female28	GSM2932854	Rectal mucosal biopsy	Ulcerative Colitis	Female	13	20	3	N	Yes	2	5ASA	unknown	≥250
+UC female29	GSM2932855	Rectal mucosal biopsy	Ulcerative Colitis	Female	15	65	9	Y	Yes	3	CS-Oral	unknown	unknown
+UC female30	GSM2932856	Rectal mucosal biopsy	Ulcerative Colitis	Female	10	70	10	Y	Yes	2	CS-IV	2060.771389	≥250
+UC female31	GSM2932857	Rectal mucosal biopsy	Ulcerative Colitis	Female	13	70	10	Y	Yes	4	CS-IV	1527.605974	unknown
+UC female32	GSM2932858	Rectal mucosal biopsy	Ulcerative Colitis	Female	6	30	5		Yes		5ASA	1232.748999	≥250
+UC female33	GSM2932859	Rectal mucosal biopsy	Ulcerative Colitis	Female	12	45	8	Y	Yes	3	CS-Oral	unknown	<250
+UC female34	GSM2932860	Rectal mucosal biopsy	Ulcerative Colitis	Female	8	75	11	N	Yes	4	CS-IV	1164.397371	≥250
+UC female35	GSM2932861	Rectal mucosal biopsy	Ulcerative Colitis	Female	12	20	4	Y	No	2	5ASA	1549.876397	≥250
+UC female36	GSM2932862	Rectal mucosal biopsy	Ulcerative Colitis	Female	16	65	9	Y	Yes	3	CS-Oral	1744.946654	<250
+UC female37	GSM2932863	Rectal mucosal biopsy	Ulcerative Colitis	Female	15	35	3	Y	Yes	2	CS-Oral	4150.980229	≥250
+UC female38	GSM2932864	Rectal mucosal biopsy	Ulcerative Colitis	Female	17	85	12	N	No	3	CS-IV	1595.593821	unknown
+UC female39	GSM2932865	Rectal mucosal biopsy	Ulcerative Colitis	Female	14	50	7	Y	Yes	3	CS-Oral	2743.683806	<250
+UC female40	GSM2932866	Rectal mucosal biopsy	Ulcerative Colitis	Female	12	65	11	N	No	3	CS-IV	1736.818012	<250
+UC female41	GSM2932867	Rectal mucosal biopsy	Ulcerative Colitis	Female	16	75	11	N	Yes	2	CS-IV	1758.479199	<250
+UC female42	GSM2932868	Rectal mucosal biopsy	Ulcerative Colitis	Female	7	45	9	N	No	2	CS-Oral	6920.481927	≥250
+UC female43	GSM2932869	Rectal mucosal biopsy	Ulcerative Colitis	Female	13	30	6	N	Yes	2	5ASA	8220.407463	≥250
+UC female44	GSM2932870	Rectal mucosal biopsy	Ulcerative Colitis	Female	11	55	8	Y	Yes	2	CS-IV	708.5244577	unknown
+UC female45	GSM2932871	Rectal mucosal biopsy	Ulcerative Colitis	Female	13	35	6	N	Yes	0	CS-Oral	3413.052393	<250
+UC female46	GSM2932872	Rectal mucosal biopsy	Ulcerative Colitis	Female	14	25	5	N	Yes	3	5ASA	unknown	≥250
+UC female47	GSM2932873	Rectal mucosal biopsy	Ulcerative Colitis	Female	14	70	9	N	No	2	CS-IV	6302.30965	≥250
+UC female48	GSM2932874	Rectal mucosal biopsy	Ulcerative Colitis	Female	11	65	10	N	No	2	CS-IV	3739.076433	≥250
+UC female49	GSM2932875	Rectal mucosal biopsy	Ulcerative Colitis	Female	14	75	10	Y	No	2	CS-IV	795.2404368	≥250
+UC female50	GSM2932876	Rectal mucosal biopsy	Ulcerative Colitis	Female	14	40	7	Y	Yes	3	CS-Oral	unknown	≥250
+UC female51	GSM2932877	Rectal mucosal biopsy	Ulcerative Colitis	Female	10	80	10	Y	Yes	2	CS-IV	6391.700574	unknown
+UC female52	GSM2932878	Rectal mucosal biopsy	Ulcerative Colitis	Female	14	30	5	N	No	2	5ASA	unknown	≥250
+UC female53	GSM2932879	Rectal mucosal biopsy	Ulcerative Colitis	Female	14	55	8	N	No	2	CS-Oral	unknown	unknown
+UC female54	GSM2932880	Rectal mucosal biopsy	Ulcerative Colitis	Female	14	50	8	Y	Yes	3	CS-Oral	613.7207558	<250
+UC female55	GSM2932881	Rectal mucosal biopsy	Ulcerative Colitis	Female	15	55	8	Y	Yes	3	CS-Oral	unknown	unknown
+UC female56	GSM2932882	Rectal mucosal biopsy	Ulcerative Colitis	Female	10	25	5	Y	Yes	3	5ASA	1611.3955	unknown
+UC female57	GSM2932883	Rectal mucosal biopsy	Ulcerative Colitis	Female	16	30	7	Y	No	2	5ASA	2132.556195	unknown
+UC female58	GSM2932884	Rectal mucosal biopsy	Ulcerative Colitis	Female	15	70	10	Y	Yes	0	CS-Oral	1568.076853	≥250
+UC female59	GSM2932885	Rectal mucosal biopsy	Ulcerative Colitis	Female	14	50	8	Y	Yes	3	CS-Oral	2745.677013	<250
+UC female60	GSM2932886	Rectal mucosal biopsy	Ulcerative Colitis	Female	17	60	10	N	Yes	2	CS-Oral	3773.6416	≥250
+UC female61	GSM2932887	Rectal mucosal biopsy	Ulcerative Colitis	Female	13	70	11	Y	No	2	CS-Oral	1860.5925	unknown
+UC female62	GSM2932888	Rectal mucosal biopsy	Ulcerative Colitis	Female	17	40	8	Y	Yes	1	CS-Oral	3587.228273	≥250
+UC female63	GSM2932889	Rectal mucosal biopsy	Ulcerative Colitis	Female	14	70	9	N	No	2	CS-IV	unknown	≥250
+UC female64	GSM2932890	Rectal mucosal biopsy	Ulcerative Colitis	Female	14	45	9	Y	Yes	2	CS-Oral	291.9422515	<250
+UC female65	GSM2932891	Rectal mucosal biopsy	Ulcerative Colitis	Female	8	80	10	Y	No	2	CS-IV	2467.677335	≥250
+UC female66	GSM2932892	Rectal mucosal biopsy	Ulcerative Colitis	Female	15	65	11	Y	No	3	CS-Oral	unknown	unknown
+UC female67	GSM2932893	Rectal mucosal biopsy	Ulcerative Colitis	Female	17	15	5	Y	Yes	4	5ASA	unknown	<250
+UC female68	GSM2932894	Rectal mucosal biopsy	Ulcerative Colitis	Female	6	60	8	Y	Yes	2	CS-IV	3695.243185	≥250
+UC female69	GSM2932895	Rectal mucosal biopsy	Ulcerative Colitis	Female	15	85	10	Y	No	3	CS-IV	unknown	unknown
+UC female70	GSM2932896	Rectal mucosal biopsy	Ulcerative Colitis	Female	13	75	11	Y	Yes	2	CS-IV	921.7383008	≥250
+UC female71	GSM2932897	Rectal mucosal biopsy	Ulcerative Colitis	Female	8	45	9	N	No	3	CS-Oral	1423.781059	<250
+UC female72	GSM2932898	Rectal mucosal biopsy	Ulcerative Colitis	Female	16	60	12	N	No	2	CS-IV	unknown	unknown
+UC female73	GSM2932899	Rectal mucosal biopsy	Ulcerative Colitis	Female	7	30	7	Y	Yes	2	5ASA	unknown	≥250
+UC female74	GSM2932900	Rectal mucosal biopsy	Ulcerative Colitis	Female	11	50	8	N	No	2	CS-IV	unknown	≥250
+UC female75	GSM2932901	Rectal mucosal biopsy	Ulcerative Colitis	Female	13	75	11	Y	Yes	2	CS-IV	5715.063221	unknown
+UC female76	GSM2932902	Rectal mucosal biopsy	Ulcerative Colitis	Female	9	65	11	Y	Yes	2	CS-IV	3754.114504	≥250
+UC female77	GSM2932903	Rectal mucosal biopsy	Ulcerative Colitis	Female	15	60	10		Yes		CS-IV	1716.281237	unknown
+UC female78	GSM2932904	Rectal mucosal biopsy	Ulcerative Colitis	Female	16	30	6	N	No	2	5ASA	506.4019385	≥250
+UC female79	GSM2932905	Rectal mucosal biopsy	Ulcerative Colitis	Female	13	80	9	Y	Yes	2	CS-IV	4521.025443	<250
+UC female80	GSM2932906	Rectal mucosal biopsy	Ulcerative Colitis	Female	15	85	11	Y	Yes	2	CS-IV	2878.344648	≥250
+UC female81	GSM2932907	Rectal mucosal biopsy	Ulcerative Colitis	Female	14	75	8	N	No	1	CS-Oral	unknown	≥250
+UC female82	GSM2932908	Rectal mucosal biopsy	Ulcerative Colitis	Female	7	60	9	Y	No	2	CS-IV	745.4056701	≥250
+UC female83	GSM2932909	Rectal mucosal biopsy	Ulcerative Colitis	Female	12	55	9	N	Yes	3	CS-Oral	275.9368404	≥250
+UC female84	GSM2932910	Rectal mucosal biopsy	Ulcerative Colitis	Female	15	40	7	N	No	2	CS-IV	3873.380584	≥250
+UC female85	GSM2932911	Rectal mucosal biopsy	Ulcerative Colitis	Female	16	70	11	N	No	4	CS-IV	3631.575798	unknown
+UC female86	GSM2932912	Rectal mucosal biopsy	Ulcerative Colitis	Female	6	65	11	Y	No	3	CS-Oral	340.4159645	≥250
+UC female87	GSM2932913	Rectal mucosal biopsy	Ulcerative Colitis	Female	16	55	11	N	Yes	0	CS-Oral	unknown	unknown
+UC female88	GSM2932914	Rectal mucosal biopsy	Ulcerative Colitis	Female	7	40	7	Y	Yes	1	CS-Oral	1824.91992	<250
+UC female89	GSM2932915	Rectal mucosal biopsy	Ulcerative Colitis	Female	14	30	7	Y	No	2	5ASA	unknown	≥250
+UC female90	GSM2932916	Rectal mucosal biopsy	Ulcerative Colitis	Female	17	35	7	N	No	2	CS-IV	878.4967198	≥250
+UC female91	GSM2932917	Rectal mucosal biopsy	Ulcerative Colitis	Female	16	65	9	Y	No	2	CS-Oral	189.0305775	≥250
+UC female92	GSM2932918	Rectal mucosal biopsy	Ulcerative Colitis	Female	11	70	9	N	No	3	CS-IV	345.73432	unknown
+UC female93	GSM2932919	Rectal mucosal biopsy	Ulcerative Colitis	Female	9	55	9		Yes		CS-Oral	unknown	unknown
+UC female94	GSM2932920	Rectal mucosal biopsy	Ulcerative Colitis	Female	11	40	8	Y	Yes	2	CS-Oral	1861.312123	unknown
+UC male1	GSM2932921	Rectal mucosal biopsy	Ulcerative Colitis	Male	11	25	5	N	Yes	2	5ASA	772.2632211	≥250
+UC male2	GSM2932922	Rectal mucosal biopsy	Ulcerative Colitis	Male	15	75	12	N	Yes	2	CS-IV	4437.51652	≥250
+UC male3	GSM2932923	Rectal mucosal biopsy	Ulcerative Colitis	Male	11	40	8	Y	No	3	CS-Oral	2364.692981	≥250
+UC male4	GSM2932924	Rectal mucosal biopsy	Ulcerative Colitis	Male	4	80	10	N	Yes	3	CS-IV	1323.984537	<250
+UC male5	GSM2932925	Rectal mucosal biopsy	Ulcerative Colitis	Male	15	45	7	N	No	1	CS-Oral	unknown	≥250
+UC male6	GSM2932926	Rectal mucosal biopsy	Ulcerative Colitis	Male	14	65	9	N	No	2	CS-IV	3713.158304	<250
+UC male7	GSM2932927	Rectal mucosal biopsy	Ulcerative Colitis	Male	11	65	10	Y	Yes	3	CS-Oral	13384.48148	unknown
+UC male8	GSM2932928	Rectal mucosal biopsy	Ulcerative Colitis	Male	10	65	11	N	No	2	CS-IV	3569.895158	≥250
+UC male9	GSM2932929	Rectal mucosal biopsy	Ulcerative Colitis	Male	15	45	4	Y	Yes	3	CS-Oral	5707.643525	unknown
+UC male10	GSM2932930	Rectal mucosal biopsy	Ulcerative Colitis	Male	10	40	8	Y	Yes	2	CS-Oral	3466.81808	≥250
+UC male11	GSM2932931	Rectal mucosal biopsy	Ulcerative Colitis	Male	11	55	7	Y	No	2	CS-IV	unknown	unknown
+UC male12	GSM2932932	Rectal mucosal biopsy	Ulcerative Colitis	Male	12	45	9	Y	No	2	CS-IV	3729.568014	≥250
+UC male13	GSM2932933	Rectal mucosal biopsy	Ulcerative Colitis	Male	11	45	10	Y	No	2	CS-Oral	unknown	≥250
+UC male14	GSM2932934	Rectal mucosal biopsy	Ulcerative Colitis	Male	13	15	2	N	Yes	2	5ASA	unknown	≥250
+UC male15	GSM2932935	Rectal mucosal biopsy	Ulcerative Colitis	Male	13	80	11	Y	No	3	CS-IV	unknown	≥250
+UC male16	GSM2932936	Rectal mucosal biopsy	Ulcerative Colitis	Male	15	60	7	Y	No	2	CS-Oral	unknown	unknown
+UC male17	GSM2932937	Rectal mucosal biopsy	Ulcerative Colitis	Male	14	30	5	Y	No	3	5ASA	16711.76783	≥250
+UC male18	GSM2932938	Rectal mucosal biopsy	Ulcerative Colitis	Male	10	25	3	N	No	2	5ASA	851.1898169	≥250
+UC male19	GSM2932939	Rectal mucosal biopsy	Ulcerative Colitis	Male	14	40	7	N	Yes	0	CS-Oral	unknown	≥250
+UC male20	GSM2932940	Rectal mucosal biopsy	Ulcerative Colitis	Male	17	15	4	N	Yes	2	5ASA	709.2383965	≥250
+UC male21	GSM2932941	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	50	7	Y	No	4	CS-IV	4181.105107	unknown
+UC male22	GSM2932942	Rectal mucosal biopsy	Ulcerative Colitis	Male	12	50	7	Y	Yes	2	CS-Oral	unknown	≥250
+UC male23	GSM2932943	Rectal mucosal biopsy	Ulcerative Colitis	Male	4	30	5	Y	No	2	5ASA	520.9516975	unknown
+UC male24	GSM2932944	Rectal mucosal biopsy	Ulcerative Colitis	Male	17	10	4	Y	No	2	5ASA	2257.426959	≥250
+UC male25	GSM2932945	Rectal mucosal biopsy	Ulcerative Colitis	Male	17	20	4	N	No	2	5ASA	unknown	≥250
+UC male26	GSM2932946	Rectal mucosal biopsy	Ulcerative Colitis	Male	10	50	8	N	Yes	0	CS-Oral	unknown	<250
+UC male27	GSM2932947	Rectal mucosal biopsy	Ulcerative Colitis	Male	14	30	6	Y	No	2	5ASA	4361.109579	unknown
+UC male28	GSM2932948	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	30	7	Y	Yes	3	5ASA	219.5961518	≥250
+UC male29	GSM2932949	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	55	10	N	No	2	CS-IV	3536.756792	≥250
+UC male30	GSM2932950	Rectal mucosal biopsy	Ulcerative Colitis	Male	11	15	4	N	No	4	5ASA	1212.122893	≥250
+UC male31	GSM2932951	Rectal mucosal biopsy	Ulcerative Colitis	Male	15	45	6	Y	Yes	2	CS-Oral	3387.235023	≥250
+UC male32	GSM2932952	Rectal mucosal biopsy	Ulcerative Colitis	Male	17	25	5	N	Yes	2	5ASA	unknown	unknown
+UC male33	GSM2932953	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	15	5	N	No	2	5ASA	unknown	unknown
+UC male34	GSM2932954	Rectal mucosal biopsy	Ulcerative Colitis	Male	11	80	12	N	No	2	CS-IV	1495.368941	≥250
+UC male35	GSM2932955	Rectal mucosal biopsy	Ulcerative Colitis	Male	15	85	11	N	No	3	CS-IV	5117.066382	<250
+UC male36	GSM2932956	Rectal mucosal biopsy	Ulcerative Colitis	Male	9	80	12	N	No	2	CS-IV	1320.49726	<250
+UC male37	GSM2932957	Rectal mucosal biopsy	Ulcerative Colitis	Male	13	60	10	Y	No	2	CS-Oral	5423.533047	≥250
+UC male38	GSM2932958	Rectal mucosal biopsy	Ulcerative Colitis	Male	13	25	4	N	No	3	5ASA	46.58702885	unknown
+UC male39	GSM2932959	Rectal mucosal biopsy	Ulcerative Colitis	Male	11	80	11	N	No	2	CS-IV	6994.098	≥250
+UC male40	GSM2932960	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	15	4	N	Yes	2	5ASA	unknown	≥250
+UC male41	GSM2932961	Rectal mucosal biopsy	Ulcerative Colitis	Male	12	65	8	N	No	2	CS-Oral	2017.545058	≥250
+UC male42	GSM2932962	Rectal mucosal biopsy	Ulcerative Colitis	Male	14	50	9	Y	Yes	2	CS-Oral	3141.50875	≥250
+UC male43	GSM2932963	Rectal mucosal biopsy	Ulcerative Colitis	Male	14	50	7	Y	No	3	CS-IV	268.9026497	≥250
+UC male44	GSM2932964	Rectal mucosal biopsy	Ulcerative Colitis	Male	17	40	7		No		CS-Oral	2662.464023	≥250
+UC male45	GSM2932965	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	50	8	Y	Yes	2	CS-Oral	unknown	unknown
+UC male46	GSM2932966	Rectal mucosal biopsy	Ulcerative Colitis	Male	14	45	8	Y	Yes	3	CS-Oral	unknown	unknown
+UC male47	GSM2932967	Rectal mucosal biopsy	Ulcerative Colitis	Male	10	85	12	N	Yes	3	CS-IV	9604.525261	≥250
+UC male48	GSM2932968	Rectal mucosal biopsy	Ulcerative Colitis	Male	15	60	7	N	No	3	CS-Oral	2884.704544	≥250
+UC male49	GSM2932969	Rectal mucosal biopsy	Ulcerative Colitis	Male	13	60	9	N	No	2	CS-Oral	1202.259976	≥250
+UC male50	GSM2932970	Rectal mucosal biopsy	Ulcerative Colitis	Male	5	20	3		Yes		5ASA	4008.777595	≥250
+UC male51	GSM2932971	Rectal mucosal biopsy	Ulcerative Colitis	Male	11	85	11	N	No	2	CS-IV	2917.170213	unknown
+UC male52	GSM2932972	Rectal mucosal biopsy	Ulcerative Colitis	Male	17	75	11	N	No	3	CS-IV	420.7661813	≥250
+UC male53	GSM2932973	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	50	10	Y	No	4	CS-Oral	unknown	≥250
+UC male54	GSM2932974	Rectal mucosal biopsy	Ulcerative Colitis	Male	15	55	8	Y	Yes	3	CS-Oral	906.4699679	<250
+UC male55	GSM2932975	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	45	7	Y	Yes	2	CS-Oral	3565.59812	<250
+UC male56	GSM2932976	Rectal mucosal biopsy	Ulcerative Colitis	Male	11	30	5	Y	No	1	5ASA	1136.586549	<250
+UC male57	GSM2932977	Rectal mucosal biopsy	Ulcerative Colitis	Male	7	50	8	N	No	3	CS-Oral	2667.546318	≥250
+UC male58	GSM2932978	Rectal mucosal biopsy	Ulcerative Colitis	Male	13	40	5	Y	Yes	0	CS-Oral	4083.849492	≥250
+UC male59	GSM2932979	Rectal mucosal biopsy	Ulcerative Colitis	Male	9	45	7	N	Yes	0	CS-Oral	2633.767518	≥250
+UC male60	GSM2932980	Rectal mucosal biopsy	Ulcerative Colitis	Male	11	75	11	N	Yes	3	CS-IV	4383.88002	<250
+UC male61	GSM2932981	Rectal mucosal biopsy	Ulcerative Colitis	Male	10	30	7	Y	Yes	2	5ASA	1349.229614	≥250
+UC male62	GSM2932982	Rectal mucosal biopsy	Ulcerative Colitis	Male	17	70	8	Y	Yes	2	CS-IV	4407.812955	unknown
+UC male63	GSM2932983	Rectal mucosal biopsy	Ulcerative Colitis	Male	15	30	6	N	Yes	1	5ASA	unknown	≥250
+UC male64	GSM2932984	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	15	5	Y	Yes	2	5ASA	unknown	<250
+UC male65	GSM2932985	Rectal mucosal biopsy	Ulcerative Colitis	Male	13	20	6	N	Yes	1	5ASA	11391.78409	<250
+UC male66	GSM2932986	Rectal mucosal biopsy	Ulcerative Colitis	Male	14	65	10	Y	No	3	CS-Oral	3928.103073	≥250
+UC male67	GSM2932987	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	25	5	N	Yes	2	5ASA	4042.626566	≥250
+UC male68	GSM2932988	Rectal mucosal biopsy	Ulcerative Colitis	Male	6	75	9	Y	Yes	2	CS-Oral	5601.13216	unknown
+UC male69	GSM2932989	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	85	12	N	No	2	CS-IV	1576.045484	unknown
+UC male70	GSM2932990	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	65	10	N	No	3	CS-Oral	6029.835374	≥250
+UC male71	GSM2932991	Rectal mucosal biopsy	Ulcerative Colitis	Male	11	70	11	N	No	3	CS-Oral	unknown	unknown
+UC male72	GSM2932992	Rectal mucosal biopsy	Ulcerative Colitis	Male	17	60	10	Y	No	2	CS-Oral	unknown	unknown
+UC male73	GSM2932993	Rectal mucosal biopsy	Ulcerative Colitis	Male	15	15	2	N	Yes	2	5ASA	1628.597213	unknown
+UC male74	GSM2932994	Rectal mucosal biopsy	Ulcerative Colitis	Male	17	20	4	Y	Yes	2	5ASA	1378.419297	≥250
+UC male75	GSM2932995	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	70	11	N	Yes	3	CS-IV	1960.896965	≥250
+UC male76	GSM2932996	Rectal mucosal biopsy	Ulcerative Colitis	Male	15	40	6	Y	Yes	2	CS-Oral	2717.547069	≥250
+UC male77	GSM2932997	Rectal mucosal biopsy	Ulcerative Colitis	Male	15	25	4	N	No	2	5ASA	2683.599816	unknown
+UC male78	GSM2932998	Rectal mucosal biopsy	Ulcerative Colitis	Male	14	50	9	Y	No	3	CS-IV	1537.244581	≥250
+UC male79	GSM2932999	Rectal mucosal biopsy	Ulcerative Colitis	Male	9	25	3	Y	No	2	5ASA	209.8478509	unknown
+UC male80	GSM2933000	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	70	11	N	No	2	CS-IV	4943.99388	unknown
+UC male81	GSM2933001	Rectal mucosal biopsy	Ulcerative Colitis	Male	9	65	9	N	No	2	CS-Oral	2926.88829	≥250
+UC male82	GSM2933002	Rectal mucosal biopsy	Ulcerative Colitis	Male	10	55	7	Y	Yes	3	CS-Oral	1407.81831	≥250
+UC male83	GSM2933003	Rectal mucosal biopsy	Ulcerative Colitis	Male	17	70	11	Y	No	3	CS-IV	unknown	unknown
+UC male84	GSM2933004	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	35	8	N	No	2	CS-Oral	unknown	unknown
+UC male85	GSM2933005	Rectal mucosal biopsy	Ulcerative Colitis	Male	10	15	2	Y	No	3	CS-Oral	unknown	≥250
+UC male86	GSM2933006	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	85	12	N	No	2	CS-IV	4749.025866	unknown
+UC male87	GSM2933007	Rectal mucosal biopsy	Ulcerative Colitis	Male	14	55	7	N	Yes	2	CS-Oral	1155.817407	unknown
+UC male88	GSM2933008	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	25	6	N	Yes	2	5ASA	2476.520253	<250
+UC male89	GSM2933009	Rectal mucosal biopsy	Ulcerative Colitis	Male	14	65	8	N	No	2	CS-IV	3600.593663	unknown
+UC male90	GSM2933010	Rectal mucosal biopsy	Ulcerative Colitis	Male	17	50	7	N	No	3	CS-Oral	unknown	≥250
+UC male91	GSM2933011	Rectal mucosal biopsy	Ulcerative Colitis	Male	12	40	8	Y	Yes	2	CS-Oral	unknown	<250
+UC male92	GSM2933012	Rectal mucosal biopsy	Ulcerative Colitis	Male	14	70	8	Y	No	3	CS-IV	unknown	≥250
+UC male93	GSM2933013	Rectal mucosal biopsy	Ulcerative Colitis	Male	14	55	9	Y	Yes	1	CS-Oral	unknown	≥250
+UC male94	GSM2933014	Rectal mucosal biopsy	Ulcerative Colitis	Male	15	45	8	Y	Yes	1	CS-IV	1257.998102	≥250
+UC male95	GSM2933015	Rectal mucosal biopsy	Ulcerative Colitis	Male	14	20	4	Y	Yes	2	5ASA	1496.233774	<250
+UC male96	GSM2933016	Rectal mucosal biopsy	Ulcerative Colitis	Male	10	85	12	Y	No	3	CS-IV	unknown	≥250
+UC male97	GSM2933017	Rectal mucosal biopsy	Ulcerative Colitis	Male	15	50	8	N	Yes	2	CS-Oral	unknown	≥250
+UC male98	GSM2933018	Rectal mucosal biopsy	Ulcerative Colitis	Male	10	40	5	Y	Yes	2	CS-Oral	2667.546318	unknown
+UC male99	GSM2933019	Rectal mucosal biopsy	Ulcerative Colitis	Male	14	25	5	Y	No	1	5ASA	1435.617924	≥250
+UC male100	GSM2933020	Rectal mucosal biopsy	Ulcerative Colitis	Male	15	65	10	N	No	3	CS-IV	1420.657562	≥250
+UC male101	GSM2933021	Rectal mucosal biopsy	Ulcerative Colitis	Male	15	50	8	N	Yes	3	CS-Oral	1157.110636	≥250
+UC male102	GSM2933022	Rectal mucosal biopsy	Ulcerative Colitis	Male	13	65	10	N	No	3	CS-IV	4433.746621	≥250
+UC male103	GSM2933023	Rectal mucosal biopsy	Ulcerative Colitis	Male	15	70	9	N	Yes	2	CS-IV	4734.629807	≥250
+UC male104	GSM2933024	Rectal mucosal biopsy	Ulcerative Colitis	Male	11	55	7	N	No	4	CS-Oral	unknown	unknown
+UC male105	GSM2933025	Rectal mucosal biopsy	Ulcerative Colitis	Male	17	55	8	Y	Yes	3	CS-IV	795.429914	≥250
+UC male106	GSM2933026	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	55	9	Y	No	2	CS-Oral	3451.16653	unknown
+UC male107	GSM2933027	Rectal mucosal biopsy	Ulcerative Colitis	Male	16	85	12	N	No	2	CS-IV	unknown	≥250
+UC male108	GSM2933028	Rectal mucosal biopsy	Ulcerative Colitis	Male	6	50	9	Y	No	2	CS-Oral	unknown	≥250
+UC male109	GSM2933029	Rectal mucosal biopsy	Ulcerative Colitis	Male	12	30	6		Yes		5ASA	unknown	<250
+UC male110	GSM2933030	Rectal mucosal biopsy	Ulcerative Colitis	Male	11	45	9	N	Yes	3	CS-IV	3416.798573	<250
+UC male111	GSM2933031	Rectal mucosal biopsy	Ulcerative Colitis	Male	14	30	3	N	No	0	5ASA	unknown	<250
+UC male112	GSM2933032	Rectal mucosal biopsy	Ulcerative Colitis	Male	14	60	9	Y	No	1	CS-Oral	unknown	≥250

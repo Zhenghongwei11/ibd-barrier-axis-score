@@ -1,0 +1,15 @@
+dataset_id	endpoint	age_stratum	endpoint_family	reason
+GSE73661	mucosal_healing	adult	mucosal_healing	Adult mucosal healing anchor; endpoint-compatible with healing family but differs by drug context and study design.
+GSE12251	week8_endoscopic_histologic_healing	adult	mucosal_healing_or_endoscopic_histologic_healing	Adult combined endoscopic/histologic healing; ACT1-related and small n, so reported cohort-specifically.
+GSE92415	week6_clinical_response	adult	treatment_response_or_remission	Adult PURSUIT-SC response endpoint; response timing and endpoint definition differ from mucosal healing.
+GSE206285	week8_mucosal_healing	adult	mucosal_healing	Large adult UNIFI mucosal-healing endpoint; contributes strong adult direct endpoint evidence but is not pooled with response/remission endpoints.
+GSE206285	week8_clinical_remission	adult	clinical_remission	Adult UNIFI clinical remission endpoint; related but not interchangeable with mucosal healing.
+GSE23597	week8_response	adult	treatment_response_or_remission	Adult ACT1 time-course response endpoint; possible ACT1 context overlap with GSE12251 and endpoint differs from healing.
+GSE23597	week30_response	adult	treatment_response_or_remission	Adult ACT1 week-30 response endpoint; timing differs from week-8 outcomes.
+GSE16879	infliximab_response	adult_or_mixed	treatment_response_or_remission	Mixed IBD pretreatment infliximab response; useful adult/mixed support but disease/tissue heterogeneity prevents pooling with UC-only healing.
+GSE109142	week_4_remission	pediatric_early_onset	treatment_response_or_remission	Pediatric week-4 remission is clinically relevant but not directly interchangeable with adult biologic mucosal healing.
+GSE57945	macroscopic_inflammation_vs_normal_or_microscopic	pediatric_early_onset	ulceration_or_inflammatory_severity	Histopathology/inflammation phenotype supports mucosal injury relevance but is not treatment response.
+GSE57945	deep_ulcer	pediatric_early_onset	ulceration_or_inflammatory_severity	Deep ulcer status supports mucosal injury relevance but is not treatment response.
+GSE101794	CD_vs_nonIBD_ileum	pediatric_early_onset	phenotype_validation	Disease-versus-control phenotype validation cannot be pooled with treatment response or mucosal healing.
+GSE117993	IBD_vs_control_rectum	pediatric_early_onset	phenotype_validation	Disease-versus-control phenotype validation cannot be pooled with treatment response or mucosal healing.
+GSE193677	adult_activity_or_phenotype_pending	adult	adult_activity_or_phenotype_support	Adult activity/phenotype support candidate; processed counts were not imported in this expansion because direct adult endpoint cohorts were sufficient.

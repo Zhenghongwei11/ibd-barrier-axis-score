@@ -1,0 +1,179 @@
+title	sample_id	study_individual_number	week_(w)	induction_therapy_maintenance_therapy	mayo_endoscopic_subscore	tissue
+Bp069_Active UC W0_IFX_43	GSM1900148	43	W0	IFX	3	colonic mucosal biopsy
+Bp072_UC NR W4/6_IFX_43	GSM1900149	43	W4_W6	IFX	3	colonic mucosal biopsy
+Bp073_Control_2	GSM1900150	2	CO	CO	CO	colonic mucosal biopsy
+Bp075_Control_3	GSM1900151	3	CO	CO	CO	colonic mucosal biopsy
+Bp076_Control_4	GSM1900152	4	CO	CO	CO	colonic mucosal biopsy
+Bp077_Control_7	GSM1900153	7	CO	CO	CO	colonic mucosal biopsy
+Bp079_Active UC W0_IFX_5	GSM1900154	5	W0	IFX	3	colonic mucosal biopsy
+Bp080_Active UC W0_IFX_45	GSM1900155	45	W0	IFX	3	colonic mucosal biopsy
+Bp083_UC NR W4/6_IFX_5	GSM1900156	5	W4_W6	IFX	3	colonic mucosal biopsy
+Bp084_UC NR W4/6_IFX_45	GSM1900157	45	W4_W6	IFX	3	colonic mucosal biopsy
+Bp086_Active UC W0_IFX_57	GSM1900158	57	W0	IFX	3	colonic mucosal biopsy
+Bp089_Control_1	GSM1900159	1	CO	CO	CO	colonic mucosal biopsy
+Bp093_UC R W4/6_IFX_57	GSM1900160	57	W4_W6	IFX	1	colonic mucosal biopsy
+Bp1014_UC NR W12_vdz4w_35	GSM1900161	35	W12	vdz4w	2	colonic mucosal biopsy
+Bp1021_UC NR W12_vdz4w_75	GSM1900162	75	W12	vdz4w	3	colonic mucosal biopsy
+Bp1024_UC R W12_vdz4w_37	GSM1900163	37	W12	vdz4w	0	colonic mucosal biopsy
+Bp1025_UC R W12_vdz4w_44	GSM1900164	44	W12	vdz4w	1	colonic mucosal biopsy
+Bp1026_UC NR W12_vdz4w_24	GSM1900165	24	W12	vdz4w	3	colonic mucosal biopsy
+Bp1029_UC NR W12_vdz4w_78	GSM1900166	78	W12	vdz4w	2	colonic mucosal biopsy
+Bp1032_UC NR W12_vdz4w_32	GSM1900167	32	W12	vdz4w	3	colonic mucosal biopsy
+Bp1035_UC NR W12_vdz4w_51	GSM1900168	51	W12	vdz4w	2	colonic mucosal biopsy
+Bp1036_UC NR W12_vdz4w_70	GSM1900169	70	W12	vdz4w	3	colonic mucosal biopsy
+Bp1038_UC R W12_vdz4w_56	GSM1900170	56	W12	vdz4w	0	colonic mucosal biopsy
+Bp1040_UC NR W12_vdz4w_64	GSM1900171	64	W12	vdz4w	3	colonic mucosal biopsy
+Bp106_Active UC W0_IFX_33	GSM1900172	33	W0	IFX	3	colonic mucosal biopsy
+Bp1060_UC NR W12_vdz4w_71	GSM1900173	71	W12	vdz4w	3	colonic mucosal biopsy
+Bp1075_UC NR W12_vdz4w_26	GSM1900174	26	W12	vdz4w	3	colonic mucosal biopsy
+Bp109_Active UC W0_IFX_10	GSM1900175	10	W0	IFX	3	colonic mucosal biopsy
+Bp110_Active UC W0_IFX_19	GSM1900176	19	W0	IFX	3	colonic mucosal biopsy
+Bp112_UC R W4/6_IFX_33	GSM1900177	33	W4_W6	IFX	1	colonic mucosal biopsy
+Bp113_UC NR W4/6_IFX_10	GSM1900178	10	W4_W6	IFX	3	colonic mucosal biopsy
+Bp114_UC NR W4/6_IFX_19	GSM1900179	19	W4_W6	IFX	2	colonic mucosal biopsy
+Bp115_Active UC W0_IFX_65	GSM1900180	65	W0	IFX	3	colonic mucosal biopsy
+Bp116_Active UC W0_IFX_53	GSM1900181	53	W0	IFX	2	colonic mucosal biopsy
+Bp119_UC R W4/6_IFX_65	GSM1900182	65	W4_W6	IFX	1	colonic mucosal biopsy
+Bp121_UC NR W4/6_IFX_53	GSM1900183	53	W4_W6	IFX	2	colonic mucosal biopsy
+Bp127_Active UC W0_IFX_67	GSM1900184	67	W0	IFX	2	colonic mucosal biopsy
+Bp128_Active UC W0_IFX_36	GSM1900185	36	W0	IFX	3	colonic mucosal biopsy
+Bp131_Active UC W0_IFX_60	GSM1900186	60	W0	IFX	2	colonic mucosal biopsy
+Bp133_UC NR W4/6_IFX_67	GSM1900187	67	W4_W6	IFX	3	colonic mucosal biopsy
+Bp134_UC NR W4/6_IFX_36	GSM1900188	36	W4_W6	IFX	3	colonic mucosal biopsy
+Bp1340_UC NR W52_vdz4w_35	GSM1900189	35	W52	vdz4w	2	colonic mucosal biopsy
+Bp135_UC R W4/6_IFX_60	GSM1900190	60	W4_W6	IFX	0	colonic mucosal biopsy
+Bp1356_UC NR W52_vdz4w_24	GSM1900191	24	W52	vdz4w	3	colonic mucosal biopsy
+Bp136_Active UC W0_IFX_66	GSM1900192	66	W0	IFX	3	colonic mucosal biopsy
+Bp140_UC R W4/6_IFX_66	GSM1900193	66	W4_W6	IFX	1	colonic mucosal biopsy
+Bp1408_UC R W12_vdz4w_37	GSM1900194	37	W52	vdz4w	0	colonic mucosal biopsy
+Bp141_Active UC W0_IFX_31	GSM1900195	31	W0	IFX	3	colonic mucosal biopsy
+Bp1410_UC NR W52_vdz4w_78	GSM1900196	78	W52	vdz4w	3	colonic mucosal biopsy
+Bp1428_UC R W12_vdz4w_71	GSM1900197	71	W52	vdz4w	0	colonic mucosal biopsy
+Bp1429_UC R W12_vdz4w_26	GSM1900198	26	W52	vdz4w	1	colonic mucosal biopsy
+Bp144_UC NR W4/6_IFX_31	GSM1900199	31	W4_W6	IFX	3	colonic mucosal biopsy
+Bp1450_UC NR W52_vdz4w_64	GSM1900200	64	W52	vdz4w	3	colonic mucosal biopsy
+Bp1473_UC R W52_vdz4w_56	GSM1900201	56	W52	vdz4w	1	colonic mucosal biopsy
+Bp148_Active UC W0_IFX_23	GSM1900202	23	W0	IFX	3	colonic mucosal biopsy
+Bp151_UC NR W4/6_IFX_23	GSM1900203	23	W4_W6	IFX	3	colonic mucosal biopsy
+Bp154_Active UC W0_IFX_38	GSM1900204	38	W0	IFX	3	colonic mucosal biopsy
+Bp155_UC R W4/6_IFX_38	GSM1900205	38	W4_W6	IFX	0	colonic mucosal biopsy
+Bp156_Active UC W0_IFX_9	GSM1900206	9	W0	IFX	3	colonic mucosal biopsy
+Bp159_UC NR W4/6_IFX_9	GSM1900207	9	W4_W6	IFX	2	colonic mucosal biopsy
+Bp164_Active UC W0_IFX_11	GSM1900208	11	W0	IFX	3	colonic mucosal biopsy
+Bp167_UC NR W4/6_IFX_11	GSM1900209	11	W4_W6	IFX	3	colonic mucosal biopsy
+Bp168_Active UC W0_IFX_46	GSM1900210	46	W0	IFX	3	colonic mucosal biopsy
+Bp170_Control_7	GSM1900211	7	CO	CO	CO	colonic mucosal biopsy
+Bp179_UC R W4/6_IFX_46	GSM1900212	46	W4_W6	IFX	1	colonic mucosal biopsy
+Bp185_Active UC W0_IFX_72	GSM1900213	72	W0	IFX	2	colonic mucosal biopsy
+Bp190_Active UC W0_IFX_48	GSM1900214	48	W0	IFX	3	colonic mucosal biopsy
+Bp191_Active UC W0_IFX_27	GSM1900215	27	W0	IFX	3	colonic mucosal biopsy
+Bp192_UC R W4/6_IFX_72	GSM1900216	72	W4_W6	IFX	0	colonic mucosal biopsy
+Bp197_Active UC W0_IFX_8	GSM1900217	8	W0	IFX	3	colonic mucosal biopsy
+Bp201_UC NR W4/6_IFX_27	GSM1900218	27	W4_W6	IFX	3	colonic mucosal biopsy
+Bp204_UC NR W4/6_IFX_48	GSM1900219	48	W4_W6	IFX	3	colonic mucosal biopsy
+Bp207_UC NR W4/6_IFX_8	GSM1900220	8	W4_W6	IFX	2	colonic mucosal biopsy
+Bp607_Control_21	GSM1900221	21	CO	CO	CO	colonic mucosal biopsy
+Bp609_Control_14	GSM1900222	14	CO	CO	CO	colonic mucosal biopsy
+Bp610_Control_52	GSM1900223	52	CO	CO	CO	colonic mucosal biopsy
+Bp611_Control_25	GSM1900224	25	CO	CO	CO	colonic mucosal biopsy
+Bp615_Control_12	GSM1900225	12	CO	CO	CO	colonic mucosal biopsy
+Bp616_Control_6	GSM1900226	6	CO	CO	CO	colonic mucosal biopsy
+Bp771_Active UC W0_vdz_vdz8w_15	GSM1900227	15	W0	vdz_vdz8w	3	colonic mucosal biopsy
+BP772_UC NR W6_vdz_vdz8w_15	GSM1900228	15	W6	vdz_vdz8w	2	colonic mucosal biopsy
+Bp773_UC R W52_vdz_vdz8w_15	GSM1900229	15	W52	vdz_vdz8w	0	colonic mucosal biopsy
+Bp774_Active UC W0_vdz_vdz4w_20	GSM1900230	20	W0	vdz_vdz4w	3	colonic mucosal biopsy
+Bp775_UC NR W6_vdz_vdz4w_20	GSM1900231	20	W6	vdz_vdz4w	3	colonic mucosal biopsy
+Bp776_UC other (earlier stop W8)_vdz_vdz4w_20	GSM1900232	20	W8	vdz_vdz4w	3	colonic mucosal biopsy
+Bp778_Active UC W0_vdz_vdz4w_22	GSM1900233	22	W0	vdz_vdz4w	3	colonic mucosal biopsy
+Bp779_UC NR W6_vdz_vdz4w_22	GSM1900234	22	W6	vdz_vdz4w	3	colonic mucosal biopsy
+Bp780_UC other (earlier stop W8)_vdz_vdz4w_22	GSM1900235	22	W8	vdz_vdz4w	3	colonic mucosal biopsy
+Bp781_Active UC W0_vdz_vdz4w_28	GSM1900236	28	W0	vdz_vdz4w	3	colonic mucosal biopsy
+Bp782_UC R W6_vdz_vdz4w_28	GSM1900237	28	W6	vdz_vdz4w	1	colonic mucosal biopsy
+Bp783_UC R W52_vdz_vdz4w_28	GSM1900238	28	W52	vdz_vdz4w	0	colonic mucosal biopsy
+Bp784_Active UC W0_plac_plac_29	GSM1900239	29	W0	plac_plac	3	colonic mucosal biopsy
+Bp785_UC other (W6 placebo)_plac_plac_29	GSM1900240	29	W6	plac_plac	3	colonic mucosal biopsy
+Bp792_Active UC W0_vdz_vdz4w_54	GSM1900241	54	W0	vdz_vdz4w	3	colonic mucosal biopsy
+Bp793_UC NR W6_vdz_vdz4w_54	GSM1900242	54	W6	vdz_vdz4w	3	colonic mucosal biopsy
+Bp794_UC other (earlier stop W8)_vdz_vdz4w_54	GSM1900243	54	W8	vdz_vdz4w	3	colonic mucosal biopsy
+Bp795_Active UC W0_vdz_vdz8w_59	GSM1900244	59	W0	vdz_vdz8w	3	colonic mucosal biopsy
+Bp796_UC NR W6_vdz_vdz8w_59	GSM1900245	59	W6	vdz_vdz8w	3	colonic mucosal biopsy
+Bp797_Active UC W0_plac_plac_61	GSM1900246	61	W0	plac_plac	3	colonic mucosal biopsy
+Bp798_UC other (W6 placebo)_plac_plac_61	GSM1900247	61	W6	plac_plac	1	colonic mucosal biopsy
+Bp799_Active UC W0_vdz_vdz4w_63	GSM1900248	63	W0	vdz_vdz4w	3	colonic mucosal biopsy
+Bp800_UC NR W6_vdz_vdz4w_63	GSM1900249	63	W6	vdz_vdz4w	2	colonic mucosal biopsy
+Bp801_UC other (earlier stop W28)_vdz_vdz4w_63	GSM1900250	63	W28	vdz_vdz4w	3	colonic mucosal biopsy
+Bp802_Active UC W0_vdz_vdz4w_68	GSM1900251	68	W0	vdz_vdz4w	3	colonic mucosal biopsy
+Bp803_UC NR W6_vdz_vdz4w_68	GSM1900252	68	W6	vdz_vdz4w	3	colonic mucosal biopsy
+Bp804_UC other (earlier stop W9)_vdz_vdz4w_68	GSM1900253	68	W9	vdz_vdz4w	3	colonic mucosal biopsy
+Bp805_Active UC W0_plac_plac_69	GSM1900254	69	W0	plac_plac	2	colonic mucosal biopsy
+Bp806_UC other (W6 placebo)_plac_plac_69	GSM1900255	69	W6	plac_plac	3	colonic mucosal biopsy
+Bp807_UC other (W14 placebo)_plac_plac_69	GSM1900256	69	W14	plac_plac	3	colonic mucosal biopsy
+Bp808_Active UC W0_vdz_vdz4w_74	GSM1900257	74	W0	vdz_vdz4w	3	colonic mucosal biopsy
+Bp809_UC NR W6_vdz_vdz4w_74	GSM1900258	74	W6	vdz_vdz4w	3	colonic mucosal biopsy
+Bp810_UC other (earlier stop W38)_vdz_vdz4w_74	GSM1900259	74	W38	vdz_vdz4w	2	colonic mucosal biopsy
+Bp813_Active UC W0_vdz_plac_73	GSM1900260	73	W0	vdz_plac	2	colonic mucosal biopsy
+Bp814_UC R W6_vdz_plac_73	GSM1900261	73	W6	vdz_plac	0	colonic mucosal biopsy
+Bp815_UC R W52_vdz_plac_73	GSM1900262	73	W52	vdz_plac	0	colonic mucosal biopsy
+Bp816_Active UC W0_vdz_plac_30	GSM1900263	30	W0	vdz_plac	3	colonic mucosal biopsy
+Bp818_UC NR W52_vdz_plac_30	GSM1900264	30	W52	vdz_plac	2	colonic mucosal biopsy
+Bp820_Active UC W0_vdz_vdz4w_34	GSM1900265	34	W0	vdz_vdz4w	2	colonic mucosal biopsy
+Bp821_UC R W6_vdz_vdz4w_34	GSM1900266	34	W6	vdz_vdz4w	0	colonic mucosal biopsy
+Bp822_UC R W52_vdz_vdz4w_34	GSM1900267	34	W52	vdz_vdz4w	1	colonic mucosal biopsy
+Bp823_Active UC W0_vdz_vdz4w_50	GSM1900268	50	W0	vdz_vdz4w	2	colonic mucosal biopsy
+Bp824_UC NR W6_vdz_vdz4w_50	GSM1900269	50	W6	vdz_vdz4w	3	colonic mucosal biopsy
+Bp825_UC R W52_vdz_vdz4w_50	GSM1900270	50	W52	vdz_vdz4w	0	colonic mucosal biopsy
+Bp826_Active UC W0_vdz_vdz4w_42	GSM1900271	42	W0	vdz_vdz4w	3	colonic mucosal biopsy
+Bp827_UC NR W6_vdz_vdz4w_42	GSM1900272	42	W6	vdz_vdz4w	3	colonic mucosal biopsy
+Bp828_UC R W52_vdz_vdz4w_42	GSM1900273	42	W52	vdz_vdz4w	1	colonic mucosal biopsy
+Bp829_Active UC W0_vdz_vdz4w_18	GSM1900274	18	W0	vdz_vdz4w	3	colonic mucosal biopsy
+Bp830_UC NR W6_vdz_vdz4w_18	GSM1900275	18	W6	vdz_vdz4w	3	colonic mucosal biopsy
+Bp831_UC other (earlier stop W32)_vdz_vdz4w_18	GSM1900276	18	W32	vdz_vdz4w	3	colonic mucosal biopsy
+Bp835_Active UC W0_vdz_vdz4w_47	GSM1900277	47	W0	vdz_vdz4w	3	colonic mucosal biopsy
+Bp836_UC NR W6_vdz_vdz4w_47	GSM1900278	47	W6	vdz_vdz4w	3	colonic mucosal biopsy
+Bp837_UC R W52_vdz_vdz4w_47	GSM1900279	47	W52	vdz_vdz4w	0	colonic mucosal biopsy
+Bp838_Active UC W0_vdz_vdz4w_49	GSM1900280	49	W0	vdz_vdz4w	3	colonic mucosal biopsy
+Bp839_UC R W6_vdz_vdz4w_49	GSM1900281	49	W6	vdz_vdz4w	1	colonic mucosal biopsy
+Bp840_UC R W52_vdz_vdz4w_49	GSM1900282	49	W52	vdz_vdz4w	0	colonic mucosal biopsy
+Bp841_Active UC W0_vdz_vdz4w_58	GSM1900283	58	W0	vdz_vdz4w	2	colonic mucosal biopsy
+Bp842_UC NR W6_vdz_vdz4w_58	GSM1900284	58	W6	vdz_vdz4w	2	colonic mucosal biopsy
+Bp843_Active UC W0_vdz_vdz4w_39	GSM1900285	39	W0	vdz_vdz4w	3	colonic mucosal biopsy
+Bp844_UC NR W6_vdz_vdz4w_39	GSM1900286	39	W6	vdz_vdz4w	3	colonic mucosal biopsy
+Bp845_UC other (earlier stop W18)_vdz_vdz4w_39	GSM1900287	39	W18	vdz_vdz4w	3	colonic mucosal biopsy
+Bp850_Active UC W0_vdz_vdz4w_13	GSM1900288	13	W0	vdz_vdz4w	3	colonic mucosal biopsy
+Bp851_UC NR W6_vdz_vdz4w_13	GSM1900289	13	W6	vdz_vdz4w	3	colonic mucosal biopsy
+Bp852_UC other (earlier stop W16)_vdz_vdz4w_13	GSM1900290	13	W16	vdz_vdz4w	3	colonic mucosal biopsy
+Bp853_Active UC W0_vdz_vdz4w_16	GSM1900291	16	W0	vdz_vdz4w	2	colonic mucosal biopsy
+Bp854_UC NR W6_vdz_vdz4w_16	GSM1900292	16	W6	vdz_vdz4w	2	colonic mucosal biopsy
+Bp855_UC other (earlier stop W28)_vdz_vdz4w_16	GSM1900293	16	W28	vdz_vdz4w	1	colonic mucosal biopsy
+Bp856_Active UC W0_vdz_vdz4w_76	GSM1900294	76	W0	vdz_vdz4w	2	colonic mucosal biopsy
+Bp857_UC NR W6_vdz_vdz4w_76	GSM1900295	76	W6	vdz_vdz4w	2	colonic mucosal biopsy
+Bp858_UC NR W52_vdz_vdz4w_76	GSM1900296	76	W52	vdz_vdz4w	2	colonic mucosal biopsy
+Bp859_Active UC W0_vdz_vdz4w_55	GSM1900297	55	W0	vdz_vdz4w	2	colonic mucosal biopsy
+Bp860_UC NR W6_vdz_vdz4w_55	GSM1900298	55	W6	vdz_vdz4w	2	colonic mucosal biopsy
+Bp861_Active UC W0_vdz_plac_17	GSM1900299	17	W0	vdz_plac	3	colonic mucosal biopsy
+Bp862_UC R W6_vdz_plac_17	GSM1900300	17	W6	vdz_plac	0	colonic mucosal biopsy
+Bp863_UC other (earlier stop W10, placebo)_vdz_plac_17	GSM1900301	17	W10	vdz_plac	3	colonic mucosal biopsy
+Bp864_Active UC W0_vdz_vdz4w_77	GSM1900302	77	W0	vdz_vdz4w	2	colonic mucosal biopsy
+Bp865_UC NR W6_vdz_vdz4w_77	GSM1900303	77	W6	vdz_vdz4w	2	colonic mucosal biopsy
+Bp866_UC R W52_vdz_vdz4w_77	GSM1900304	77	W52	vdz_vdz4w	1	colonic mucosal biopsy
+Bp868_Active UC W0_vdz_plac_62	GSM1900305	62	W0	vdz_plac	2	colonic mucosal biopsy
+Bp869_UC R W6_vdz_plac_62	GSM1900306	62	W6	vdz_plac	1	colonic mucosal biopsy
+Bp872_Active UC W0_vdz_vdz8w_41	GSM1900307	41	W0	vdz_vdz8w	3	colonic mucosal biopsy
+Bp873_UC NR W6_vdz_vdz8w_41	GSM1900308	41	W6	vdz_vdz8w	2	colonic mucosal biopsy
+Bp874_UC other (earlier stop W26)_vdz_vdz8w_41	GSM1900309	41	W26	vdz_vdz8w	3	colonic mucosal biopsy
+Bp878_Active UC W0_vdz_vdz8w_40	GSM1900310	40	W0	vdz_vdz8w	2	colonic mucosal biopsy
+Bp879_UC NR W6_vdz_vdz8w_40	GSM1900311	40	W6	vdz_vdz8w	2	colonic mucosal biopsy
+Bp880_UC other (earlier stop W8)_vdz_vdz8w_40	GSM1900312	40	W8	vdz_vdz8w	2	colonic mucosal biopsy
+Bp892_Active UC W0_vdz4w_37	GSM1900313	37	W0	vdz4w	3	colonic mucosal biopsy
+Bp898_Active UC W0_vdz4w_44	GSM1900314	44	W0	vdz4w	2	colonic mucosal biopsy
+Bp903_Active UC W0_vdz4w_75	GSM1900315	75	W0	vdz4w	3	colonic mucosal biopsy
+Bp904_Active UC W0_vdz4w_78	GSM1900316	78	W0	vdz4w	3	colonic mucosal biopsy
+Bp906_Active UC W0_vdz4w_24	GSM1900317	24	W0	vdz4w	2	colonic mucosal biopsy
+Bp913_Active UC W0_vdz4w_32	GSM1900318	32	W0	vdz4w	3	colonic mucosal biopsy
+Bp918_Active UC W0_vdz4w_51	GSM1900319	51	W0	vdz4w	2	colonic mucosal biopsy
+Bp925_Active UC W0_vdz4w_64	GSM1900320	64	W0	vdz4w	3	colonic mucosal biopsy
+Bp926_Active UC W0_vdz4w_56	GSM1900321	56	W0	vdz4w	3	colonic mucosal biopsy
+Bp932_Active UC W0_vdz4w_71	GSM1900322	71	W0	vdz4w	2	colonic mucosal biopsy
+Bp940_Active UC W0_vdz4w_35	GSM1900323	35	W0	vdz4w	2	colonic mucosal biopsy
+Bp941_Active UC W0_vdz4w_70	GSM1900324	70	W0	vdz4w	2	colonic mucosal biopsy
+Bp950_Active UC W0_vdz4w_26	GSM1900325	26	W0	vdz4w	3	colonic mucosal biopsy

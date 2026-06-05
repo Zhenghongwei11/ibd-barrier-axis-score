@@ -1,0 +1,134 @@
+title	sample_id	tissue	disease	response_to_infliximab	before_or_after_first_infliximab_treatment
+CO1	GSM364627	Colon	Control	Not applicable	Not applicable
+CO2	GSM364628	Colon	Control	Not applicable	Not applicable
+CO3	GSM364629	Colon	Control	Not applicable	Not applicable
+CO4	GSM364630	Colon	Control	Not applicable	Not applicable
+CO5	GSM364631	Colon	Control	Not applicable	Not applicable
+CO6	GSM364632	Colon	Control	Not applicable	Not applicable
+UCR1_beforeT	GSM364633	Colon	UC	Yes	Before first infliximab treatment
+UCR2_beforeT	GSM364634	Colon	UC	Yes	Before first infliximab treatment
+UCR3_beforeT	GSM364635	Colon	UC	Yes	Before first infliximab treatment
+UCR4_beforeT	GSM364636	Colon	UC	Yes	Before first infliximab treatment
+UCR5_beforeT	GSM364637	Colon	UC	Yes	Before first infliximab treatment
+UCR6_beforeT	GSM364638	Colon	UC	Yes	Before first infliximab treatment
+UCR7_beforeT	GSM364639	Colon	UC	Yes	Before first infliximab treatment
+UCR8_beforeT	GSM364640	Colon	UC	Yes	Before first infliximab treatment
+UCNR1_beforeT	GSM364641	Colon	UC	No	Before first infliximab treatment
+UCNR2_beforeT	GSM364642	Colon	UC	No	Before first infliximab treatment
+UCNR3_beforeT	GSM364643	Colon	UC	No	Before first infliximab treatment
+UCNR4_beforeT	GSM364644	Colon	UC	No	Before first infliximab treatment
+UCNR5_beforeT	GSM364645	Colon	UC	No	Before first infliximab treatment
+UCNR6_beforeT	GSM364646	Colon	UC	No	Before first infliximab treatment
+UCNR7_beforeT	GSM364647	Colon	UC	No	Before first infliximab treatment
+UCNR8_beforeT	GSM364648	Colon	UC	No	Before first infliximab treatment
+UCNR9_beforeT	GSM364649	Colon	UC	No	Before first infliximab treatment
+UCNR10_beforeT	GSM364650	Colon	UC	No	Before first infliximab treatment
+UCNR11_beforeT	GSM364651	Colon	UC	No	Before first infliximab treatment
+UCNR12_beforeT	GSM364652	Colon	UC	No	Before first infliximab treatment
+UCNR13_beforeT	GSM364653	Colon	UC	No	Before first infliximab treatment
+UCNR14_beforeT	GSM364654	Colon	UC	No	Before first infliximab treatment
+UCNR15_beforeT	GSM364655	Colon	UC	No	Before first infliximab treatment
+UCNR16_beforeT	GSM364656	Colon	UC	No	Before first infliximab treatment
+UCR1_afterT	GSM422963	Colon	UC	Yes	After first infliximab treatment
+UCR2_afterT	GSM422965	Colon	UC	Yes	After first infliximab treatment
+UCR3_afterT	GSM422967	Colon	UC	Yes	After first infliximab treatment
+UCR4_afterT	GSM422969	Colon	UC	Yes	After first infliximab treatment
+UCR5_afterT	GSM422971	Colon	UC	Yes	After first infliximab treatment
+UCR6_afterT	GSM422973	Colon	UC	Yes	After first infliximab treatment
+UCR7_afterT	GSM422975	Colon	UC	Yes	After first infliximab treatment
+UCR8_afterT	GSM422977	Colon	UC	Yes	After first infliximab treatment
+UCNR1_afterT	GSM422979	Colon	UC	No	After first infliximab treatment
+UCNR2_afterT	GSM422981	Colon	UC	No	After first infliximab treatment
+UCNR3_afterT	GSM422983	Colon	UC	No	After first infliximab treatment
+UCNR4_afterT	GSM422985	Colon	UC	No	After first infliximab treatment
+UCNR5_afterT	GSM422987	Colon	UC	No	After first infliximab treatment
+UCNR6_afterT	GSM422989	Colon	UC	No	After first infliximab treatment
+UCNR7_afterT	GSM422991	Colon	UC	No	After first infliximab treatment
+UCNR8_afterT	GSM422993	Colon	UC	No	After first infliximab treatment
+UCNR9_afterT	GSM422995	Colon	UC	No	After first infliximab treatment
+UCNR10_afterT	GSM422997	Colon	UC	No	After first infliximab treatment
+UCNR11_afterT	GSM422999	Colon	UC	No	After first infliximab treatment
+UCNR12_afterT	GSM423001	Colon	UC	No	After first infliximab treatment
+UCNR13_afterT	GSM423003	Colon	UC	No	After first infliximab treatment
+UCNR14_afterT	GSM423005	Colon	UC	No	After first infliximab treatment
+UCNR15_afterT	GSM423007	Colon	UC	No	After first infliximab treatment
+UCNR16_afterT	GSM423009	Colon	UC	No	After first infliximab treatment
+CDcR1_beforeT	GSM423010	Colon	CD	Yes	Before first infliximab treatment
+CDcR1_afterT	GSM423011	Colon	CD	Yes	After first infliximab treatment
+CDcR2_beforeT	GSM423012	Colon	CD	Yes	Before first infliximab treatment
+CDcR3_beforeT	GSM423013	Colon	CD	Yes	Before first infliximab treatment
+CDcR3_afterT	GSM423014	Colon	CD	Yes	After first infliximab treatment
+CDcR4_beforeT	GSM423015	Colon	CD	Yes	Before first infliximab treatment
+CDcR4_afterT	GSM423016	Colon	CD	Yes	After first infliximab treatment
+CDcR5_beforeT	GSM423017	Colon	CD	Yes	Before first infliximab treatment
+CDcR5_afterT	GSM423018	Colon	CD	Yes	After first infliximab treatment
+CDcR6_beforeT	GSM423019	Colon	CD	Yes	Before first infliximab treatment
+CDcR6_afterT	GSM423020	Colon	CD	Yes	After first infliximab treatment
+CDcR7_beforeT	GSM423021	Colon	CD	Yes	Before first infliximab treatment
+CDcR7_afterT	GSM423022	Colon	CD	Yes	After first infliximab treatment
+CDcR8_beforeT	GSM423023	Colon	CD	Yes	Before first infliximab treatment
+CDcR8_afterT	GSM423024	Colon	CD	Yes	After first infliximab treatment
+CDcR9_beforeT	GSM423025	Colon	CD	Yes	Before first infliximab treatment
+CDcR9_afterT	GSM423026	Colon	CD	Yes	After first infliximab treatment
+CDcR10_beforeT	GSM423027	Colon	CD	Yes	Before first infliximab treatment
+CDcR10_afterT	GSM423028	Colon	CD	Yes	After first infliximab treatment
+CDcR11_beforeT	GSM423029	Colon	CD	Yes	Before first infliximab treatment
+CDcR11_afterT	GSM423030	Colon	CD	Yes	After first infliximab treatment
+CDcR12_beforeT	GSM423031	Colon	CD	Yes	Before first infliximab treatment
+CDcR12_afterT	GSM423032	Colon	CD	Yes	After first infliximab treatment
+CDcNR1_beforeT	GSM423033	Colon	CD	No	Before first infliximab treatment
+CDcNR1_afterT	GSM423034	Colon	CD	No	After first infliximab treatment
+CDcNR2_beforeT	GSM423035	Colon	CD	No	Before first infliximab treatment
+CDcNR2_afterT	GSM423036	Colon	CD	No	After first infliximab treatment
+CDcNR3_beforeT	GSM423037	Colon	CD	No	Before first infliximab treatment
+CDcNR3_afterT	GSM423038	Colon	CD	No	After first infliximab treatment
+CDcNR4_beforeT	GSM423039	Colon	CD	No	Before first infliximab treatment
+CDcNR4_afterT	GSM423040	Colon	CD	No	After first infliximab treatment
+CDcNR5_beforeT	GSM423041	Colon	CD	No	Before first infliximab treatment
+CDcNR5_afterT	GSM423042	Colon	CD	No	After first infliximab treatment
+CDcNR6_beforeT	GSM423043	Colon	CD	No	Before first infliximab treatment
+CDcNR6_afterT	GSM423044	Colon	CD	No	After first infliximab treatment
+CDcNR7_beforeT	GSM423045	Colon	CD	No	Before first infliximab treatment
+CDcNR7_afterT	GSM423046	Colon	CD	No	After first infliximab treatment
+IL1	GSM423047	Ileum	Control	Not applicable	Not applicable
+IL2	GSM423048	Ileum	Control	Not applicable	Not applicable
+IL3	GSM423049	Ileum	Control	Not applicable	Not applicable
+IL4	GSM423050	Ileum	Control	Not applicable	Not applicable
+IL5	GSM423051	Ileum	Control	Not applicable	Not applicable
+IL6	GSM423052	Ileum	Control	Not applicable	Not applicable
+CDiR1_beforeT	GSM423053	Ileum	CD	Yes	Before first infliximab treatment
+CDiR1_afterT	GSM423054	Ileum	CD	Yes	After first infliximab treatment
+CDiR2_beforeT	GSM423055	Ileum	CD	Yes	Before first infliximab treatment
+CDiR2_afterT	GSM423056	Ileum	CD	Yes	After first infliximab treatment
+CDiR3_beforeT	GSM423057	Ileum	CD	Yes	Before first infliximab treatment
+CDiR3_afterT	GSM423058	Ileum	CD	Yes	After first infliximab treatment
+CDiR4_beforeT	GSM423059	Ileum	CD	Yes	Before first infliximab treatment
+CDiR4_afterT	GSM423060	Ileum	CD	Yes	After first infliximab treatment
+CDiR5_beforeT	GSM423061	Ileum	CD	Yes	Before first infliximab treatment
+CDiR5_afterT	GSM423062	Ileum	CD	Yes	After first infliximab treatment
+CDiR6_beforeT	GSM423063	Ileum	CD	Yes	Before first infliximab treatment
+CDiR6_afterT	GSM423064	Ileum	CD	Yes	After first infliximab treatment
+CDiR7_beforeT	GSM423065	Ileum	CD	Yes	Before first infliximab treatment
+CDiR7_afterT	GSM423066	Ileum	CD	Yes	After first infliximab treatment
+CDiR8_beforeT	GSM423067	Ileum	CD	Yes	Before first infliximab treatment
+CDiR8_afterT	GSM423068	Ileum	CD	Yes	After first infliximab treatment
+CDiNR1_beforeT	GSM423069	Ileum	CD	No	Before first infliximab treatment
+CDiNR1_afterT	GSM423070	Ileum	CD	No	After first infliximab treatment
+CDiNR2_beforeT	GSM423071	Ileum	CD	No	Before first infliximab treatment
+CDiNR2_afterT	GSM423072	Ileum	CD	No	After first infliximab treatment
+CDiNR3_beforeT	GSM423073	Ileum	CD	No	Before first infliximab treatment
+CDiNR3_afterT	GSM423074	Ileum	CD	No	After first infliximab treatment
+CDiNR4_beforeT	GSM423075	Ileum	CD	No	Before first infliximab treatment
+CDiNR4_afterT	GSM423076	Ileum	CD	No	After first infliximab treatment
+CDiNR5_beforeT	GSM423077	Ileum	CD	No	Before first infliximab treatment
+CDiNR5_afterT	GSM423078	Ileum	CD	No	After first infliximab treatment
+CDiNR6_beforeT	GSM423079	Ileum	CD	No	Before first infliximab treatment
+CDiNR6_afterT	GSM423080	Ileum	CD	No	After first infliximab treatment
+CDiNR7_beforeT	GSM423081	Ileum	CD	No	Before first infliximab treatment
+CDiNR7_afterT	GSM423082	Ileum	CD	No	After first infliximab treatment
+CDiNR8_beforeT	GSM423083	Ileum	CD	No	Before first infliximab treatment
+CDiNR8_afterT	GSM423084	Ileum	CD	No	After first infliximab treatment
+CDiNR9_beforeT	GSM423085	Ileum	CD	No	Before first infliximab treatment
+CDiNR9_afterT	GSM423086	Ileum	CD	No	After first infliximab treatment
+CDiNR10_beforeT	GSM423087	Ileum	CD	No	Before first infliximab treatment
+CDiNR10_afterT	GSM423088	Ileum	CD	No	After first infliximab treatment
