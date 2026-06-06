@@ -144,7 +144,7 @@ def build_rows() -> tuple[list[dict[str, object]], list[dict[str, object]]]:
                     "event_rate": f"{event_rate:.6g}",
                     "mean_axis_score_z": f"{subset['axis_score_z'].mean():.6g}",
                     "median_axis_score_z": f"{subset['axis_score_z'].median():.6g}",
-                    "interpretation": "For healing, remission, or response endpoints, a higher event rate means a more favorable clinical outcome.",
+                    "interpretation": "For healing, remission, or response endpoints, a higher endpoint rate indicates a higher proportion of patients meeting the clinical endpoint.",
                 }
             )
 
@@ -160,7 +160,7 @@ def build_rows() -> tuple[list[dict[str, object]], list[dict[str, object]]]:
                 "middle_score_event_rate": rates["Middle score"],
                 "high_score_event_rate": rates["High score"],
                 "low_minus_high_percentage_points": f"{100 * low_minus_high:.1f}",
-                "clinical_readout": "Lower score shows higher favorable-endpoint rate"
+                "clinical_readout": "Lower score shows higher endpoint rate"
                 if low_minus_high > 0
                 else "No monotonic lower-score advantage in tertile readout",
                 "boundary": "Exploratory clinical interpretability table; thresholds are cohort-internal tertiles, not locked clinical cutoffs.",

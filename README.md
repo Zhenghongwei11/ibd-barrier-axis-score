@@ -40,7 +40,7 @@ The default repository includes compact processed source tables so reviewers can
 
 ## Main Analysis Boundary
 
-The analysis supports retrospective molecular stratification of mucosal biopsy transcriptomes. It does not claim prospective clinical-test readiness, treatment selection, diagnostic deployment, dietary efficacy, inflammation-independent utility, or causal mechanism.
+The analysis supports retrospective molecular stratification of mucosal biopsy transcriptomes. Clinical use, treatment-selection use, dietary or supplementation efficacy, and causal mechanism require dedicated prospective studies.
 
 ## Key Outputs
 

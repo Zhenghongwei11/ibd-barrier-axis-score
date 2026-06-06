@@ -1,0 +1,19 @@
+dataset_id	endpoint	role	model_type	n	events	formula	auc	brier	calibration_slope	status
+GSE73661	mucosal_healing	adult_mucosal_healing	axis_only	64	17	mucosal_healing ~ axis_score_z	0.667084	0.178912	1	apparent_performance_no_external_validation
+GSE73661	mucosal_healing	adult_mucosal_healing	covariate_adjusted	64	17	mucosal_healing ~ axis_score_z + C(treatment_family)	0.675845	0.176806	1	apparent_performance_no_external_validation
+GSE12251	wk8_endoscopic_histologic_healing	adult_healing_like	axis_only	22	12	wk8_endoscopic_histologic_healing ~ axis_score_z	0.816667	0.187029	1	apparent_performance_no_external_validation
+GSE12251	wk8_endoscopic_histologic_healing	adult_healing_like	covariate_adjusted	22	12	wk8_endoscopic_histologic_healing ~ axis_score_z + C(dose)	0.816667	0.17281	1	apparent_performance_no_external_validation
+GSE92415	week6_clinical_response	adult_response	axis_only	87	43	week6_clinical_response ~ axis_score_z	0.584567	0.244966	1	apparent_performance_no_external_validation
+GSE92415	week6_clinical_response	adult_response	covariate_adjusted	87	43	week6_clinical_response ~ axis_score_z + C(treatment) + baseline_mayo_score_z	0.635835	0.238126	1	apparent_performance_no_external_validation
+GSE206285	week8_mucosal_healing	adult_mucosal_healing	axis_only	542	83	week8_mucosal_healing ~ axis_score_z	0.658818	0.123567	1	apparent_performance_no_external_validation
+GSE206285	week8_mucosal_healing	adult_mucosal_healing	covariate_adjusted	542	83	week8_mucosal_healing ~ axis_score_z + C(treatment_family)	0.660944	0.123539	1	apparent_performance_no_external_validation
+GSE206285	week8_clinical_remission	adult_remission	axis_only	550	63	week8_clinical_remission ~ axis_score_z	0.62172	0.0997087	1	apparent_performance_no_external_validation
+GSE206285	week8_clinical_remission	adult_remission	covariate_adjusted	550	63	week8_clinical_remission ~ axis_score_z + C(treatment_family)	0.64773	0.0986315	1	apparent_performance_no_external_validation
+GSE23597	week8_response	adult_response	axis_only	45	30	week8_response ~ axis_score_z	0.64	0.208291	1	apparent_performance_no_external_validation
+GSE23597	week8_response	adult_response	covariate_adjusted	45	30	week8_response ~ axis_score_z + C(dose)	0.784444	0.172548	1	apparent_performance_no_external_validation
+GSE23597	week30_response	adult_response	axis_only	45	23	week30_response ~ axis_score_z	0.616601	0.236555	1	apparent_performance_no_external_validation
+GSE23597	week30_response	adult_response	covariate_adjusted	45	23	week30_response ~ axis_score_z + C(dose)	0.63834	0.229122	1	apparent_performance_no_external_validation
+GSE16879	infliximab_response	adult_or_mixed_response	axis_only	61	28	infliximab_response ~ axis_score_z	0.827922	0.165483	1	apparent_performance_no_external_validation
+GSE16879	infliximab_response	adult_or_mixed_response	covariate_adjusted	61	28	infliximab_response ~ axis_score_z + C(disease)	0.851732	0.154524	1	apparent_performance_no_external_validation
+GSE109142	week4_remission	pediatric_remission	axis_only	206	105	week4_remission ~ axis_score_z	0.588496	0.245636	1	apparent_performance_no_external_validation
+GSE109142	week4_remission	pediatric_remission	covariate_adjusted	206	105	week4_remission ~ axis_score_z + total_mayo_score_num_z + C(initial_treatment)	0.639698	0.235316	1	apparent_performance_no_external_validation

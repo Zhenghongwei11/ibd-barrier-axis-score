@@ -7,5 +7,5 @@
 - Covariate-adjusted models are sensitivity analyses when treatment, dose, disease subtype, baseline Mayo score, age, or sex are available.
 - Adult direct endpoint cohorts and pediatric or early-onset supportive cohorts are interpreted separately.
 - Endpoints are not pooled when endpoint family, age stratum, tissue site, treatment context, or clinical role are incompatible.
-- Within-cohort tertiles are used only for clinical interpretability and are not locked diagnostic thresholds.
+- Within-cohort tertiles are used only for clinical interpretability and are not predefined diagnostic thresholds.
 - Inflammatory-response comparator models are interpreted as specificity checks, not as proof of inflammation-independent utility.

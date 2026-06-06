@@ -18,6 +18,9 @@ python3 scripts/22_build_gse92415_endpoint.py
 python3 scripts/23_build_adult_expansion_endpoints.py
 python3 scripts/24_build_clinical_score_strata_table.py
 python3 scripts/25_inflammation_specificity_models.py
+python3 scripts/31_module_contribution_analysis.py
+python3 scripts/32_predictive_performance.py
+python3 scripts/33_adult_healing_random_effects.py
 python3 scripts/26_export_figure_source_data.py
 python3 scripts/24_make_submission_grade_figures.py
 

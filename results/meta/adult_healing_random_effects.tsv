@@ -1,0 +1,3 @@
+analysis	cohorts_included	k	pooled_or	ci_lower	ci_upper	pvalue	tau2	i2	q	status
+adult_mucosal_healing_primary_exploratory	GSE73661:mucosal_healing;GSE206285:week8_mucosal_healing	2	0.55704	0.449529	0.690263	8.89125e-08	0	0	0.0559843	exploratory_random_effects_not_primary_claim
+adult_healing_like_sensitivity_including_GSE12251	GSE73661:mucosal_healing;GSE12251:week8_endoscopic_histologic_healing;GSE206285:week8_mucosal_healing	3	0.547405	0.442932	0.676521	2.45068e-08	0	0	1.08652	exploratory_random_effects_not_primary_claim

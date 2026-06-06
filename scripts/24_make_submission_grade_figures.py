@@ -226,6 +226,23 @@ def role_fill(role: str) -> str:
     }[family]
 
 
+def covariate_label(value: str) -> str:
+    labels = {
+        "treatment_family": "treatment family",
+        "infliximab_dose": "infliximab dose",
+        "dose": "infliximab dose",
+        "disease_subtype": "disease subtype",
+        "treatment": "treatment assignment",
+        "treatment_baseline_mayo": "treatment assignment and baseline Mayo score",
+        "golimumab_only": "golimumab-only subset",
+        "available_covariates": "available age and sex covariates",
+        "baseline_total_mayo": "baseline total Mayo score",
+        "initial_treatment": "initial treatment",
+    }
+    parts = [p.strip() for p in str(value).replace(";", ",").split(",") if p.strip()]
+    return ", ".join(labels.get(part, part.replace("_", " ")) for part in parts) if parts else "none"
+
+
 # ─────────────────────────────────────────────────────────────────────────────
 # Figure 1: Study design and cohort registry
 # ─────────────────────────────────────────────────────────────────────────────
@@ -235,7 +252,7 @@ def figure1_study_architecture() -> None:
     Figure 1: Evidence landscape.
 
     Scientific purpose: make the paper's design legible at a glance:
-    biology-inspired score, age-aware endpoint landscape, and claim hierarchy.
+    biology-inspired score, age-aware endpoint landscape, and interpretation structure.
     """
     fig = plt.figure(figsize=(8.5, 5.2))
     gs = GridSpec(2, 2, figure=fig, width_ratios=[0.42, 0.58],
@@ -246,7 +263,7 @@ def figure1_study_architecture() -> None:
 
     _fig1_score_capsule(ax_a)
     _fig1_evidence_landscape(ax_b)
-    _fig1_claim_ladder(ax_c)
+    _fig1_evidence_hierarchy(ax_c)
 
     fig.text(0.02, 0.99,
              "Figure 1  |  Study design and age-stratified endpoint framework",
@@ -255,7 +272,7 @@ def figure1_study_architecture() -> None:
 
 
 def _fig1_score_capsule(ax: plt.Axes) -> None:
-    """Compact rationale panel: biology informs the score but is not the claim."""
+    """Compact rationale panel linking barrier biology to the score."""
     off_ax(ax)
     ax.set_xlim(0, 100)
     ax.set_ylim(0, 100)
@@ -274,22 +291,22 @@ def _fig1_score_capsule(ax: plt.Axes) -> None:
     ]
     for i, (name, color, genes) in enumerate(modules):
         y = 50 - i * 14
-        ax.add_patch(Rectangle((4, y), 84, 10, fc=WHITE, ec=color, lw=0.9))
-        ax.add_patch(Rectangle((4, y), 18, 10, fc=color, ec=color, lw=0.9, alpha=0.16))
-        ax.text(7, y + 6.3, name, fontsize=6.0, fontweight="bold",
+        ax.add_patch(Rectangle((4, y), 86, 10, fc=WHITE, ec=color, lw=0.9))
+        ax.add_patch(Rectangle((4, y), 31, 10, fc=color, ec=color, lw=0.9, alpha=0.16))
+        ax.text(7, y + 6.3, name, fontsize=5.4, fontweight="bold",
                 color=color, va="center")
-        ax.text(28, y + 5.0, genes, fontsize=5.7, color=INK, va="center")
+        ax.text(39, y + 5.0, genes, fontsize=5.7, color=INK, va="center")
 
     ax.annotate("", xy=(92, 36), xytext=(92, 57),
                 arrowprops=dict(arrowstyle="-|>", color=GRAY_M, lw=1.0))
-    ax.text(96, 46, "clinical\nassessment", fontsize=5.7, color=MUTED,
+    ax.text(69, 67, "Cross-cohort clinical\nassessment", fontsize=5.0, color=MUTED,
             va="center", ha="left")
-    ax.text(3, 7, "Rationale only: no diet, supplement, or causal mechanism claim.",
+    ax.text(3, 7, "Biological rationale for human transcriptomic assessment.",
             fontsize=5.4, color=PINJ_C, style="italic")
 
 
 def _fig1_evidence_landscape(ax: plt.Axes) -> None:
-    """Bubble landscape: age stratum, endpoint strength, and evaluable sample size."""
+    """Bubble landscape: age stratum, clinical outcome hierarchy, and evaluable sample size."""
     panel_label(ax, "b", x=-0.06, y=1.04)
     cohorts = pd.read_csv("results/dataset_summary.tsv", sep="\t")
     coords = {
@@ -349,7 +366,7 @@ def _fig1_evidence_landscape(ax: plt.Axes) -> None:
     ax.set_yticks([1, 2, 3])
     ax.set_yticklabels(["Phenotype /\ninjury", "Response /\nremission",
                         "Mucosal\nhealing"], fontsize=6.0)
-    ax.set_ylabel("Endpoint strength", fontsize=6.6)
+    ax.set_ylabel("Clinical outcome hierarchy", fontsize=6.6)
     ax.grid(axis="y", color=GRID, lw=0.5)
     ax.tick_params(axis="x", length=0)
     for spine in ["top", "right"]:
@@ -366,7 +383,7 @@ def _fig1_evidence_landscape(ax: plt.Axes) -> None:
               handlelength=0.8, borderpad=0.2, labelspacing=0.25)
 
 
-def _fig1_claim_ladder(ax: plt.Axes) -> None:
+def _fig1_evidence_hierarchy(ax: plt.Axes) -> None:
     """Compact interpretation hierarchy for the age-stratified analysis."""
     off_ax(ax)
     ax.set_xlim(0, 100)
@@ -375,17 +392,17 @@ def _fig1_claim_ladder(ax: plt.Axes) -> None:
     ax.text(4, 91, "Analysis hierarchy", fontsize=7.6, fontweight="bold",
             color=INK)
     rows = [
-        (ADULT_C, "Primary assessment", "adult retrospective\nmolecular stratification"),
-        (PRED_C, "Contextual support", "pediatric / early-onset\ncontext"),
-        (GRAY_M, "Inter-cohort heterogeneity", "endpoint & tissue\nheterogeneity"),
-        (PINJ_C, "Excluded from claim", "diagnosis, treatment\nselection, InsP6 efficacy"),
+        (ADULT_C, "Adult evidence", "adult retrospective\nmolecular stratification"),
+        (PRED_C, "Pediatric context", "pediatric / early-onset\ncontext"),
+        (GRAY_M, "Heterogeneity", "endpoint and tissue\nheterogeneity"),
+        (PINJ_C, "Study scope", "diagnosis, treatment selection,\nInsP6 efficacy"),
     ]
     for i, (color, label, text) in enumerate(rows):
         y = 73 - i * 18
-        ax.add_patch(Rectangle((5, y), 24, 10, fc=color, ec="none", alpha=0.16))
-        ax.text(8, y + 5, label, fontsize=5.9, fontweight="bold",
+        ax.add_patch(Rectangle((5, y), 31, 10, fc=color, ec="none", alpha=0.16))
+        ax.text(8, y + 5, label, fontsize=5.7, fontweight="bold",
                 color=color, va="center")
-        ax.text(35, y + 5, text, fontsize=5.7, color=INK, va="center")
+        ax.text(44, y + 5, text, fontsize=5.7, color=INK, va="center")
         if i < len(rows) - 1:
             ax.plot([17, 17], [y - 2, y - 8], color=RULE, lw=0.8)
 
@@ -540,7 +557,7 @@ def _fig2_stratification_dumbbell(ax: plt.Axes) -> None:
                    linewidth=0.7, alpha=0.85, zorder=4)
         ax.scatter(row.low, yi, s=42, color=ADULT_C, edgecolor=WHITE,
                    linewidth=0.7, zorder=5)
-        ax.add_patch(Rectangle((-0.055, yi - 0.34), 0.016, 0.68,
+        ax.add_patch(Rectangle((-0.080, yi - 0.34), 0.016, 0.68,
                                transform=ax.get_yaxis_transform(), fc=strip_color,
                                ec="none", alpha=0.85, clip_on=False))
         ax.text(-0.015, yi,
@@ -718,7 +735,7 @@ def _fig3_evidence_matrix(ax: plt.Axes, models: pd.DataFrame) -> None:
     ax.text(-0.47, y_map["GSE109142"] + 0.42, "Pediatric", color=PRED_C,
             fontsize=5.8, fontweight="bold", va="top")
     ax.text(0.01, -0.12,
-            "Circle: adult or adult/mixed; square: pediatric. Filled: p<0.05; open: p>=0.05. Number inside marker is OR.",
+            "Circle: adult or adult/mixed; square: pediatric. Filled: P < 0.05; open: P >= 0.05. Number inside marker is OR.",
             transform=ax.transAxes, fontsize=5.4, color=MUTED, va="top")
 
 
@@ -736,10 +753,10 @@ def _fig3_direction_summary(ax: plt.Axes, models: pd.DataFrame) -> None:
     rows = [
         (ADULT_C, "Adult direct endpoints",
          f"{len(adult)} models; all OR < 1",
-         "lower score favors healing /\nremission / response"),
+         "lower score associated with\nhealing / remission / response"),
         (PRED_C, "Pediatric remission",
          f"{len(ped_rem)} model; OR < 1",
-         "directionally consistent,\nnot adult validation"),
+         "directionally consistent,\nnot adult endpoint validation"),
         (PINJ_C, "Pediatric injury",
          f"{len(ped_inj)} models; OR > 1",
          "higher score marks\nmucosal injury"),
@@ -765,7 +782,7 @@ def _fig3_direction_summary(ax: plt.Axes, models: pd.DataFrame) -> None:
 # Figure 4: Interpretation scope and non-pooling rationale
 # ─────────────────────────────────────────────────────────────────────────────
 
-def figure4_evidence_architecture() -> None:
+def figure4_evidence_synthesis() -> None:
     """
     Figure 4: Interpretation scope and next-validation path.
     """
@@ -775,11 +792,11 @@ def figure4_evidence_architecture() -> None:
     ax_b = fig.add_subplot(gs[0, 1])
 
     _fig4_translation_ladder(ax_a)
-    _fig4_nonclaim_boundary(ax_b)
+    _fig4_future_validation_panel(ax_b)
 
     fig.text(0.02, 0.99, "Figure 4  |  Evidence synthesis and future validation",
              fontsize=8.5, fontweight="bold", color=INK, va="top")
-    save(fig, "Figure4_evidence_architecture")
+    save(fig, "Figure4_evidence_synthesis")
 
 
 def _fig4_translation_ladder(ax: plt.Axes) -> None:
@@ -790,13 +807,13 @@ def _fig4_translation_ladder(ax: plt.Axes) -> None:
     ax.set_title("Current interpretation", loc="left",
                  fontsize=7.5, fontweight="bold", pad=4)
     stages = [
-        (PINJ_C, "Prospective test needed", "Clinical assay use",
-         "no locked threshold, calibration,\nDCA, or prospective assay"),
-        (GRAY_M, "Endpoint-specific", "Evidence synthesis",
-         "cohort-level interpretation;\nno forced pooled pan-IBD OR"),
-        (PRED_C, "Pediatric context", "Pediatric / early-onset\nbiological relevance",
-         "remission context plus injury /\nphenotype evidence; not adult\nvalidation"),
-        (ADULT_C, "Adult association", "Retrospective molecular\nstratification",
+        (PINJ_C, "Prospective\ntesting", "Clinical assay evaluation",
+         "calibration, decision analysis,\nand prospective assay study needed"),
+        (GRAY_M, "Endpoint-\nspecific", "Evidence synthesis",
+         "cohort-level interpretation;\nno pooled pan-IBD OR"),
+        (PRED_C, "Pediatric\ncontext", "Pediatric / early-onset\nbiological relevance",
+         "remission context plus injury /\nphenotype evidence; interpreted\nseparately from adult endpoints"),
+        (ADULT_C, "Adult\nassociation", "Retrospective molecular\nstratification",
          "6 adult direct endpoint cohorts;\nlow-score strata show higher\nhealing, remission, or response rates"),
     ]
     x0, box_w, box_h = 8, 78, 16
@@ -806,21 +823,21 @@ def _fig4_translation_ladder(ax: plt.Axes) -> None:
                                lw=1.0))
         ax.add_patch(Rectangle((x0, y), 18, box_h, fc=color, ec=color,
                                lw=0, alpha=0.14))
-        ax.text(x0 + 2.2, y + 10.5, tag, fontsize=5.7, fontweight="bold",
+        ax.text(x0 + 2.2, y + 10.5, tag, fontsize=5.3, fontweight="bold",
                 color=color, va="center")
-        ax.text(x0 + 24, y + 10.5, title, fontsize=6.4, fontweight="bold",
+        ax.text(x0 + 26, y + 10.5, title, fontsize=6.4, fontweight="bold",
                 color=INK, va="center")
-        ax.text(x0 + 24, y + 4.8, note, fontsize=5.5, color=MUTED,
+        ax.text(x0 + 26, y + 4.8, note, fontsize=5.5, color=MUTED,
                 va="center")
         if i < len(stages) - 1:
             ax.annotate("", xy=(x0 + box_w / 2, y - 3),
                         xytext=(x0 + box_w / 2, y - 7),
                         arrowprops=dict(arrowstyle="-|>", color=RULE, lw=1.0))
-    ax.text(x0, 4, "Interpretation: useful for retrospective stratification and trial-enrichment hypotheses,\nnot for individual treatment selection.",
+    ax.text(x0, 4, "Interpretation: retrospective stratification and trial-enrichment hypotheses;\nindividual treatment decisions require prospective validation.",
             fontsize=5.6, color=MUTED, style="italic")
 
 
-def _fig4_nonclaim_boundary(ax: plt.Axes) -> None:
+def _fig4_future_validation_panel(ax: plt.Axes) -> None:
     panel_label(ax, "b", x=-0.08, y=1.03)
     off_ax(ax)
     ax.set_xlim(0, 100)
@@ -828,10 +845,10 @@ def _fig4_nonclaim_boundary(ax: plt.Axes) -> None:
     ax.set_title("Future validation", loc="left",
                  fontsize=7.5, fontweight="bold", pad=4)
     steps = [
-        ("Assay lock", "fixed gene set, normalization,\nthreshold rule"),
+        ("Assay standardization", "fixed gene set, normalization,\nthreshold rule"),
         ("Calibration", "absolute risk estimates and\nexternal calibration"),
         ("Decision impact", "decision-curve analysis;\nendoscopy-follow-up utility"),
-        ("Prospective validation", "predefined biopsy cohort;\nclinical workflow test"),
+        ("Prospective validation", "predefined biopsy cohort;\nclinical workflow evaluation"),
     ]
     for i, (title, note) in enumerate(steps):
         y = 82 - i * 20
@@ -847,9 +864,9 @@ def _fig4_nonclaim_boundary(ax: plt.Axes) -> None:
 
     ax.add_patch(Rectangle((7, 1), 86, 12, fc=PINJ_L, ec=PINJ_C, lw=0.8,
                            alpha=0.45))
-    ax.text(11, 9, "InsP6-HDAC3-MMP remains biological rationale only",
+    ax.text(11, 9, "InsP6-HDAC3-MMP is the biological rationale",
             fontsize=5.9, color=PINJ_C, fontweight="bold", va="center")
-    ax.text(11, 4.5, "No dietary efficacy, supplementation efficacy, or causal mechanism claim.",
+    ax.text(11, 4.5, "Dietary, supplementation, and causal mechanism questions require dedicated studies.",
             fontsize=5.4, color=MUTED, va="center")
 
 
@@ -879,7 +896,7 @@ def figureS1_sensitivity_models() -> None:
         ax.axhspan(yi-0.45, yi+0.45, color=PALE if int(yi)%2==0 else WHITE, alpha=0.4)
         ax.errorbar(eff, yi, xerr=[[eff - lo], [hi - eff]], fmt="o", ms=4.2, color=color, mfc=mfc, mec=color, mew=1, capsize=2, lw=1.1, zorder=4)
         ep_nice = ENDPOINT_NICE.get(row.endpoint_name, row.endpoint_name)
-        cov_lbl = str(row.covariates).replace(";", ", ")
+        cov_lbl = covariate_label(str(row.covariates))
         ax.text(0.05, yi+0.15, f"{row.dataset_id} · {ep_nice}", fontsize=6.2, fontweight="bold", color=INK, transform=ax.get_yaxis_transform())
         ax.text(0.05, yi-0.25, f"Adjusted for: {cov_lbl}", fontsize=5.6, color=MUTED, transform=ax.get_yaxis_transform())
 
@@ -981,15 +998,130 @@ def figureS3_gse206285_remission() -> None:
     g2_0, g2_1 = g2.loc[g2["week8_clinical_remission"] == 0, "axis_score"], g2.loc[g2["week8_clinical_remission"] == 1, "axis_score"]
     fig, ax = plt.subplots(figsize=(3.2, 3.8))
     _draw_distribution(ax, g2_0, g2_1, title="GSE206285", subtitle="Adult UC UNIFI · clinical remission", n0_label=f"No remission\nn={len(g2_0)}", n1_label=f"Remission\nn={len(g2_1)}", or_text="OR 0.67 (0.52–0.85)", ylab=True)
-    fig.suptitle("Supplementary Figure 3 | Clinical remission validation", fontsize=7.5, fontweight="bold", y=1.02)
+    fig.suptitle("Supplementary Figure 3 | Clinical remission contrast", fontsize=7.5, fontweight="bold", y=1.02)
     plt.tight_layout(); save(fig, "FigureS3_gse206285_remission")
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Supplementary Figure 4: Module and adult-healing synthesis sensitivity
+# ─────────────────────────────────────────────────────────────────────────────
+
+def figureS4_module_meta_sensitivity() -> None:
+    """Supplementary Figure 4: module contribution and adult healing synthesis."""
+    module_path = "results/clinical/module_contribution_models.tsv"
+    meta_path = "results/meta/adult_healing_random_effects.tsv"
+    if not (os.path.exists(module_path) and os.path.exists(meta_path)):
+        return
+
+    mod = pd.read_csv(module_path, sep="\t")
+    meta = pd.read_csv(meta_path, sep="\t")
+
+    variant_order = [
+        ("original_axis", "Original score", ADULT_C),
+        ("mmp_only", "MMP only", PINJ_C),
+        ("axis_without_mmp", "Without MMP", GRAY_M),
+        ("axis_without_cldn2", "Without CLDN2", PRED_C),
+    ]
+    endpoint_order = [
+        ("GSE73661", "mucosal_healing", "GSE73661\nmucosal healing"),
+        ("GSE206285", "week8_mucosal_healing", "GSE206285\nmucosal healing"),
+        ("GSE206285", "week8_clinical_remission", "GSE206285\nclinical remission"),
+        ("GSE16879", "infliximab_response", "GSE16879\ninfliximab response"),
+    ]
+
+    fig = plt.figure(figsize=(7.2, 3.6))
+    gs = GridSpec(1, 2, figure=fig, width_ratios=[1.35, 0.9], wspace=0.30)
+    ax1 = fig.add_subplot(gs[0, 0])
+    ax2 = fig.add_subplot(gs[0, 1])
+
+    y_base = np.arange(len(endpoint_order))[::-1].astype(float)
+    offsets = np.linspace(0.24, -0.24, len(variant_order))
+    for base, (dataset, endpoint, label) in zip(y_base, endpoint_order):
+        ax1.axhspan(base - 0.43, base + 0.43, color=PALE if int(base) % 2 == 0 else WHITE, zorder=0)
+        ax1.text(0.012, base + 0.31, label, fontsize=6.0, fontweight="bold",
+                 color=INK, ha="left", va="center")
+        for offset, (variant, variant_label, color) in zip(offsets, variant_order):
+            row = mod[
+                mod["dataset_id"].eq(dataset)
+                & mod["endpoint"].eq(endpoint)
+                & mod["variant"].eq(variant)
+                & mod["status"].eq("ok")
+            ]
+            if row.empty:
+                continue
+            row = row.iloc[0]
+            eff, lo, hi = float(row.effect), float(row.ci_lower), float(row.ci_upper)
+            y = base + offset
+            ax1.errorbar(eff, y, xerr=[[eff - lo], [hi - eff]], fmt="o",
+                         ms=3.3, lw=0.9, capsize=1.8, color=color,
+                         mfc=color, mec=color, zorder=3)
+
+    ax1.axvline(1, color=RULE, lw=0.8, ls="--", zorder=1)
+    ax1.set_xscale("log")
+    ax1.set_xlim(0.05, 1.8)
+    ax1.set_xticks([0.1, 0.3, 1.0])
+    ax1.set_xticklabels(["0.1", "0.3", "1.0"])
+    ax1.set_xticks([], minor=True)
+    ax1.xaxis.set_minor_formatter(NullFormatter())
+    ax1.set_yticks([])
+    ax1.set_xlabel("OR per 1-SD higher score or module", fontsize=6.7)
+    ax1.set_title("a  Module contribution in representative adult endpoints",
+                  loc="left", fontsize=7.3, fontweight="bold", pad=7)
+    handles = [
+        plt.Line2D([0], [0], marker="o", color=color, lw=0, markersize=4.0,
+                   label=label)
+        for _, label, color in variant_order
+    ]
+    ax1.legend(handles=handles, loc="lower left", bbox_to_anchor=(0, -0.02),
+               ncol=2, fontsize=5.5, handletextpad=0.4, columnspacing=0.9)
+    ax1.text(0.0, -0.23,
+             "Values below 1 indicate higher endpoint rates in lower-score groups.",
+             transform=ax1.transAxes, fontsize=5.4, color=MUTED)
+
+    meta_labels = {
+        "adult_mucosal_healing_primary_exploratory":
+            "Adult mucosal healing\nGSE73661 + GSE206285",
+        "adult_healing_like_sensitivity_including_GSE12251":
+            "Healing-like sensitivity\nincluding GSE12251",
+    }
+    meta = meta[meta["status"].eq("exploratory_random_effects_not_primary_claim")].copy()
+    y2 = np.arange(len(meta))[::-1].astype(float)
+    for yi, row in zip(y2, meta.itertuples()):
+        eff, lo, hi = float(row.pooled_or), float(row.ci_lower), float(row.ci_upper)
+        ax2.axhspan(yi - 0.36, yi + 0.36, color=PALE if int(yi) % 2 == 0 else WHITE, zorder=0)
+        ax2.errorbar(eff, yi, xerr=[[eff - lo], [hi - eff]], fmt="D",
+                     ms=4.0, color=ADULT_C, mfc=ADULT_C, mec=ADULT_C,
+                     capsize=2.0, lw=1.1, zorder=3)
+        ax2.text(0.16, yi + 0.18, meta_labels.get(row.analysis, row.analysis),
+                 fontsize=6.0, fontweight="bold", ha="left", color=INK)
+        ax2.text(0.16, yi - 0.18, f"OR {eff:.2f} ({lo:.2f}-{hi:.2f}); I² {float(row.i2):.0f}%",
+                 fontsize=5.5, ha="left", color=MUTED)
+    ax2.axvline(1, color=RULE, lw=0.8, ls="--")
+    ax2.set_xscale("log")
+    ax2.set_xlim(0.15, 1.15)
+    ax2.set_xticks([0.2, 0.5, 1.0])
+    ax2.set_xticklabels(["0.2", "0.5", "1.0"])
+    ax2.set_xticks([], minor=True)
+    ax2.xaxis.set_minor_formatter(NullFormatter())
+    ax2.set_yticks([])
+    ax2.set_xlabel("Pooled OR per 1-SD higher score", fontsize=6.7)
+    ax2.set_title("b  Adult healing synthesis", loc="left",
+                  fontsize=7.3, fontweight="bold", pad=7)
+    ax2.text(0.0, -0.23,
+             "Exploratory endpoint-specific synthesis; not a pan-IBD meta-analysis.",
+             transform=ax2.transAxes, fontsize=5.4, color=MUTED)
+
+    fig.suptitle("Supplementary Figure 4 | Score-component sensitivity and adult healing synthesis",
+                 x=0.02, ha="left", fontsize=7.8, fontweight="bold")
+    plt.tight_layout(rect=(0, 0.02, 1, 0.94))
+    save(fig, "FigureS4_module_meta_sensitivity")
 
 
 def main() -> int:
     setup_style(); ensure_dir()
     print(f"[24] Generating submission-grade figures → {OUT_DIR}")
-    figure1_study_architecture(); figure2_adult_endpoint_evidence(); figure3_age_stratified_atlas(); figure4_evidence_architecture()
-    figureS1_sensitivity_models(); figureS2_score_module_detail(); figureS3_gse206285_remission()
+    figure1_study_architecture(); figure2_adult_endpoint_evidence(); figure3_age_stratified_atlas(); figure4_evidence_synthesis()
+    figureS1_sensitivity_models(); figureS2_score_module_detail(); figureS3_gse206285_remission(); figureS4_module_meta_sensitivity()
     print(f"[24] Done. All figures saved to {OUT_DIR}"); return 0
 
 if __name__ == "__main__":

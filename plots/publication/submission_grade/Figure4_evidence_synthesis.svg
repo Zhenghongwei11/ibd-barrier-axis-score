@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="532.36215pt" height="343.872pt" viewBox="0 0 532.36215 343.872" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="562.386994pt" height="343.872pt" viewBox="0 0 562.386994 343.872" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-06-05T21:19:21.385233</dc:date>
+    <dc:date>2026-06-06T16:30:22.982029</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -22,8 +22,8 @@
  <g id="figure_1">
   <g id="patch_1">
    <path d="M 0 343.872 
-L 532.36215 343.872 
-L 532.36215 0 
+L 562.386994 343.872 
+L 562.386994 0 
 L 0 0 
 z
 " style="fill: #ffffff"/>
@@ -43,7 +43,7 @@ L 250.2096 108.92448
 L 250.2096 62.7984 
 L 81.9168 62.7984 
 z
-" clip-path="url(#p83793c05e2)" style="fill: #ffffff; stroke: #9e2a2b; stroke-linejoin: miter"/>
+" clip-path="url(#paf23d5ff50)" style="fill: #ffffff; stroke: #9e2a2b; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
     <path d="M 81.9168 108.92448 
@@ -51,7 +51,7 @@ L 120.7536 108.92448
 L 120.7536 62.7984 
 L 81.9168 62.7984 
 z
-" clip-path="url(#p83793c05e2)" style="fill: #9e2a2b; opacity: 0.14"/>
+" clip-path="url(#paf23d5ff50)" style="fill: #9e2a2b; opacity: 0.14"/>
    </g>
    <g id="patch_5">
     <path d="M 81.9168 172.34784 
@@ -59,7 +59,7 @@ L 250.2096 172.34784
 L 250.2096 126.22176 
 L 81.9168 126.22176 
 z
-" clip-path="url(#p83793c05e2)" style="fill: #ffffff; stroke: #7a8898; stroke-linejoin: miter"/>
+" clip-path="url(#paf23d5ff50)" style="fill: #ffffff; stroke: #7a8898; stroke-linejoin: miter"/>
    </g>
    <g id="patch_6">
     <path d="M 81.9168 172.34784 
@@ -67,7 +67,7 @@ L 120.7536 172.34784
 L 120.7536 126.22176 
 L 81.9168 126.22176 
 z
-" clip-path="url(#p83793c05e2)" style="fill: #7a8898; opacity: 0.14"/>
+" clip-path="url(#paf23d5ff50)" style="fill: #7a8898; opacity: 0.14"/>
    </g>
    <g id="patch_7">
     <path d="M 81.9168 235.7712 
@@ -75,7 +75,7 @@ L 250.2096 235.7712
 L 250.2096 189.64512 
 L 81.9168 189.64512 
 z
-" clip-path="url(#p83793c05e2)" style="fill: #ffffff; stroke: #b86200; stroke-linejoin: miter"/>
+" clip-path="url(#paf23d5ff50)" style="fill: #ffffff; stroke: #b86200; stroke-linejoin: miter"/>
    </g>
    <g id="patch_8">
     <path d="M 81.9168 235.7712 
@@ -83,7 +83,7 @@ L 120.7536 235.7712
 L 120.7536 189.64512 
 L 81.9168 189.64512 
 z
-" clip-path="url(#p83793c05e2)" style="fill: #b86200; opacity: 0.14"/>
+" clip-path="url(#paf23d5ff50)" style="fill: #b86200; opacity: 0.14"/>
    </g>
    <g id="patch_9">
     <path d="M 81.9168 299.19456 
@@ -91,7 +91,7 @@ L 250.2096 299.19456
 L 250.2096 253.06848 
 L 81.9168 253.06848 
 z
-" clip-path="url(#p83793c05e2)" style="fill: #ffffff; stroke: #1a5c9a; stroke-linejoin: miter"/>
+" clip-path="url(#paf23d5ff50)" style="fill: #ffffff; stroke: #1a5c9a; stroke-linejoin: miter"/>
    </g>
    <g id="patch_10">
     <path d="M 81.9168 299.19456 
@@ -99,7 +99,7 @@ L 120.7536 299.19456
 L 120.7536 253.06848 
 L 81.9168 253.06848 
 z
-" clip-path="url(#p83793c05e2)" style="fill: #1a5c9a; opacity: 0.14"/>
+" clip-path="url(#paf23d5ff50)" style="fill: #1a5c9a; opacity: 0.14"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>
@@ -107,14 +107,15 @@ z
     <text style="fill: #252b35; font: 700 9.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="53.868" y="46.535282" transform="rotate(-0 53.868 46.535282)">a</text>
    </g>
    <g id="text_2">
-    <text style="fill: #9e2a2b; font: 700 5.7px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="86.66352" y="80.131787" transform="rotate(-0 86.66352 80.131787)">Prospective test needed</text>
+    <text style="fill: #9e2a2b; font: 700 5.3px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(86.66352 77.194173)">Prospective</text>
+    <text style="fill: #9e2a2b; font: 700 5.3px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(86.66352 82.792463)">testing</text>
    </g>
    <g id="text_3">
-    <text style="fill: #252b35; font: 700 6.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="133.6992" y="80.31024" transform="rotate(-0 133.6992 80.31024)">Clinical assay use</text>
+    <text style="fill: #252b35; font: 700 6.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="138.0144" y="80.31024" transform="rotate(-0 138.0144 80.31024)">Clinical assay evaluation</text>
    </g>
    <g id="text_4">
-    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(133.6992 93.527406)">no locked threshold, calibration,</text>
-    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(133.6992 99.425125)">DCA, or prospective assay</text>
+    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(138.0144 93.535398)">calibration, decision analysis,</text>
+    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(138.0144 99.417133)">and prospective assay study needed</text>
    </g>
    <g id="patch_11">
     <path d="M 166.0632 127.102953 
@@ -127,14 +128,15 @@ z
 " style="fill: #b8c4cf; stroke: #b8c4cf; stroke-linecap: round"/>
    </g>
    <g id="text_5">
-    <text style="fill: #7a8898; font: 700 5.7px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="86.66352" y="143.589881" transform="rotate(-0 86.66352 143.589881)">Endpoint-specific</text>
+    <text style="fill: #7a8898; font: 700 5.3px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(86.66352 140.613558)">Endpoint-</text>
+    <text style="fill: #7a8898; font: 700 5.3px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(86.66352 146.289361)">specific</text>
    </g>
    <g id="text_6">
-    <text style="fill: #252b35; font: 700 6.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="133.6992" y="143.6946" transform="rotate(-0 133.6992 143.6946)">Evidence synthesis</text>
+    <text style="fill: #252b35; font: 700 6.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="138.0144" y="143.6946" transform="rotate(-0 138.0144 143.6946)">Evidence synthesis</text>
    </g>
    <g id="text_7">
-    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(133.6992 156.98093)">cohort-level interpretation;</text>
-    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(133.6992 162.882774)">no forced pooled pan-IBD OR</text>
+    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(138.0144 156.98093)">cohort-level interpretation;</text>
+    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(138.0144 162.882774)">no pooled pan-IBD OR</text>
    </g>
    <g id="patch_12">
     <path d="M 166.0632 190.526313 
@@ -147,16 +149,17 @@ z
 " style="fill: #b8c4cf; stroke: #b8c4cf; stroke-linecap: round"/>
    </g>
    <g id="text_8">
-    <text style="fill: #b86200; font: 700 5.7px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="86.66352" y="206.978507" transform="rotate(-0 86.66352 206.978507)">Pediatric context</text>
+    <text style="fill: #b86200; font: 700 5.3px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(86.66352 204.075674)">Pediatric</text>
+    <text style="fill: #b86200; font: 700 5.3px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(86.66352 209.673965)">context</text>
    </g>
    <g id="text_9">
-    <text style="fill: #252b35; font: 700 6.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(133.6992 203.73486)">Pediatric / early-onset</text>
-    <text style="fill: #252b35; font: 700 6.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(133.6992 210.57906)">biological relevance</text>
+    <text style="fill: #252b35; font: 700 6.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(138.0144 203.73486)">Pediatric / early-onset</text>
+    <text style="fill: #252b35; font: 700 6.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(138.0144 210.57906)">biological relevance</text>
    </g>
    <g id="text_10">
-    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(133.6992 217.506993)">remission context plus injury /</text>
-    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(133.6992 223.388728)">phenotype evidence; not adult</text>
-    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(133.6992 229.270462)">validation</text>
+    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(138.0144 217.434548)">remission context plus injury /</text>
+    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(138.0144 223.316282)">phenotype evidence; interpreted</text>
+    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(138.0144 229.278454)">separately from adult endpoints</text>
    </g>
    <g id="patch_13">
     <path d="M 166.0632 253.949673 
@@ -169,20 +172,21 @@ z
 " style="fill: #b8c4cf; stroke: #b8c4cf; stroke-linecap: round"/>
    </g>
    <g id="text_11">
-    <text style="fill: #1a5c9a; font: 700 5.7px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="86.66352" y="270.401867" transform="rotate(-0 86.66352 270.401867)">Adult association</text>
+    <text style="fill: #1a5c9a; font: 700 5.3px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(86.66352 267.499034)">Adult</text>
+    <text style="fill: #1a5c9a; font: 700 5.3px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(86.66352 273.097325)">association</text>
    </g>
    <g id="text_12">
-    <text style="fill: #252b35; font: 700 6.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(133.6992 267.20322)">Retrospective molecular</text>
-    <text style="fill: #252b35; font: 700 6.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(133.6992 273.96342)">stratification</text>
+    <text style="fill: #252b35; font: 700 6.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(138.0144 267.20322)">Retrospective molecular</text>
+    <text style="fill: #252b35; font: 700 6.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(138.0144 273.96342)">stratification</text>
    </g>
    <g id="text_13">
-    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(133.6992 280.905002)">6 adult direct endpoint cohorts;</text>
-    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(133.6992 286.722283)">low-score strata show higher</text>
-    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(133.6992 292.604017)">healing, remission, or response rates</text>
+    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(138.0144 280.905002)">6 adult direct endpoint cohorts;</text>
+    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(138.0144 286.722283)">low-score strata show higher</text>
+    <text style="fill: #6b7685; font: 5.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(138.0144 292.604017)">healing, remission, or response rates</text>
    </g>
    <g id="text_14">
-    <text style="fill: #6b7685; font: italic 5.6px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(81.9168 319.151805)">Interpretation: useful for retrospective stratification and trial-enrichment hypotheses,</text>
-    <text style="fill: #6b7685; font: italic 5.6px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(81.9168 325.14048)">not for individual treatment selection.</text>
+    <text style="fill: #6b7685; font: italic 5.6px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(81.9168 319.151805)">Interpretation: retrospective stratification and trial-enrichment hypotheses;</text>
+    <text style="fill: #6b7685; font: italic 5.6px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(81.9168 325.14048)">individual treatment decisions require prospective validation.</text>
    </g>
    <g id="text_15">
     <text style="font: 700 7.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="64.656" y="44.384" transform="rotate(-0 64.656 44.384)">Current interpretation</text>
@@ -200,17 +204,17 @@ z
    <g id="line2d_1">
     <path d="M 352.8072 111.80736 
 L 352.8072 146.40192 
-" clip-path="url(#p6be35a2ef9)" style="fill: none; stroke: #b8c4cf; stroke-width: 0.9; stroke-linecap: square"/>
+" clip-path="url(#pe5f2a065b8)" style="fill: none; stroke: #b8c4cf; stroke-width: 0.9; stroke-linecap: square"/>
    </g>
    <g id="line2d_2">
     <path d="M 352.8072 169.46496 
 L 352.8072 204.05952 
-" clip-path="url(#p6be35a2ef9)" style="fill: none; stroke: #b8c4cf; stroke-width: 0.9; stroke-linecap: square"/>
+" clip-path="url(#pe5f2a065b8)" style="fill: none; stroke: #b8c4cf; stroke-width: 0.9; stroke-linecap: square"/>
    </g>
    <g id="line2d_3">
     <path d="M 352.8072 227.12256 
 L 352.8072 261.71712 
-" clip-path="url(#p6be35a2ef9)" style="fill: none; stroke: #b8c4cf; stroke-width: 0.9; stroke-linecap: square"/>
+" clip-path="url(#pe5f2a065b8)" style="fill: none; stroke: #b8c4cf; stroke-width: 0.9; stroke-linecap: square"/>
    </g>
    <g id="patch_15">
     <path d="M 343.4328 333.78912 
@@ -218,7 +222,7 @@ L 477.7992 333.78912
 L 477.7992 299.19456 
 L 343.4328 299.19456 
 z
-" clip-path="url(#p6be35a2ef9)" style="fill: #fae0df; opacity: 0.45; stroke: #9e2a2b; stroke-width: 0.8; stroke-linejoin: miter"/>
+" clip-path="url(#pe5f2a065b8)" style="fill: #fae0df; opacity: 0.45; stroke: #9e2a2b; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="matplotlib.axis_3"/>
    <g id="matplotlib.axis_4"/>
@@ -227,7 +231,7 @@ z
    </g>
    <g id="PathCollection_1">
     <defs>
-     <path id="mdaed48213e" d="M 0 5.700877 
+     <path id="me0bf536766" d="M 0 5.700877 
 C 1.51189 5.700877 2.962061 5.100197 4.031129 4.031129 
 C 5.100197 2.962061 5.700877 1.51189 5.700877 0 
 C 5.700877 -1.51189 5.100197 -2.962061 4.031129 -4.031129 
@@ -239,23 +243,23 @@ C -2.962061 5.100197 -1.51189 5.700877 0 5.700877
 z
 " style="stroke: #ffffff; stroke-width: 0.8"/>
     </defs>
-    <g clip-path="url(#p6be35a2ef9)">
-     <use xlink:href="#mdaed48213e" x="352.8072" y="100.27584" style="fill: #1a5c9a; stroke: #ffffff; stroke-width: 0.8"/>
+    <g clip-path="url(#pe5f2a065b8)">
+     <use xlink:href="#me0bf536766" x="352.8072" y="100.27584" style="fill: #1a5c9a; stroke: #ffffff; stroke-width: 0.8"/>
     </g>
    </g>
    <g id="text_17">
     <text style="fill: #ffffff; font: 700 6px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="352.8072" y="101.831152" transform="rotate(-0 352.8072 101.831152)">1</text>
    </g>
    <g id="text_18">
-    <text style="fill: #252b35; font: 700 6.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="371.556" y="90.386586" transform="rotate(-0 371.556 90.386586)">Assay lock</text>
+    <text style="fill: #252b35; font: 700 6.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="371.556" y="90.386586" transform="rotate(-0 371.556 90.386586)">Assay standardization</text>
    </g>
    <g id="text_19">
     <text style="fill: #6b7685; font: 5.6px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(371.556 107.411955)">fixed gene set, normalization,</text>
     <text style="fill: #6b7685; font: 5.6px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(371.556 113.40063)">threshold rule</text>
    </g>
    <g id="PathCollection_2">
-    <g clip-path="url(#p6be35a2ef9)">
-     <use xlink:href="#mdaed48213e" x="352.8072" y="157.93344" style="fill: #1a5c9a; stroke: #ffffff; stroke-width: 0.8"/>
+    <g clip-path="url(#pe5f2a065b8)">
+     <use xlink:href="#me0bf536766" x="352.8072" y="157.93344" style="fill: #1a5c9a; stroke: #ffffff; stroke-width: 0.8"/>
     </g>
    </g>
    <g id="text_20">
@@ -270,7 +274,7 @@ z
    </g>
    <g id="PathCollection_3">
     <defs>
-     <path id="mbdec999d5a" d="M 0 5.700877 
+     <path id="m11dd93bb62" d="M 0 5.700877 
 C 1.51189 5.700877 2.962061 5.100197 4.031129 4.031129 
 C 5.100197 2.962061 5.700877 1.51189 5.700877 0 
 C 5.700877 -1.51189 5.100197 -2.962061 4.031129 -4.031129 
@@ -282,8 +286,8 @@ C -2.962061 5.100197 -1.51189 5.700877 0 5.700877
 z
 " style="stroke: #ffffff; stroke-width: 0.8"/>
     </defs>
-    <g clip-path="url(#p6be35a2ef9)">
-     <use xlink:href="#mbdec999d5a" x="352.8072" y="215.59104" style="fill: #7a8898; stroke: #ffffff; stroke-width: 0.8"/>
+    <g clip-path="url(#pe5f2a065b8)">
+     <use xlink:href="#m11dd93bb62" x="352.8072" y="215.59104" style="fill: #7a8898; stroke: #ffffff; stroke-width: 0.8"/>
     </g>
    </g>
    <g id="text_23">
@@ -297,8 +301,8 @@ z
     <text style="fill: #6b7685; font: 5.6px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(371.556 228.689842)">endoscopy-follow-up utility</text>
    </g>
    <g id="PathCollection_4">
-    <g clip-path="url(#p6be35a2ef9)">
-     <use xlink:href="#mbdec999d5a" x="352.8072" y="273.24864" style="fill: #7a8898; stroke: #ffffff; stroke-width: 0.8"/>
+    <g clip-path="url(#pe5f2a065b8)">
+     <use xlink:href="#m11dd93bb62" x="352.8072" y="273.24864" style="fill: #7a8898; stroke: #ffffff; stroke-width: 0.8"/>
     </g>
    </g>
    <g id="text_26">
@@ -309,13 +313,13 @@ z
    </g>
    <g id="text_28">
     <text style="fill: #6b7685; font: 5.6px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(371.556 280.384755)">predefined biopsy cohort;</text>
-    <text style="fill: #6b7685; font: 5.6px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(371.556 286.37343)">clinical workflow test</text>
+    <text style="fill: #6b7685; font: 5.6px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(371.556 286.37343)">clinical workflow evaluation</text>
    </g>
    <g id="text_29">
-    <text style="fill: #9e2a2b; font: 700 5.9px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="349.6824" y="312.252705" transform="rotate(-0 349.6824 312.252705)">InsP6-HDAC3-MMP remains biological rationale only</text>
+    <text style="fill: #9e2a2b; font: 700 5.9px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="349.6824" y="312.252705" transform="rotate(-0 349.6824 312.252705)">InsP6-HDAC3-MMP is the biological rationale</text>
    </g>
    <g id="text_30">
-    <text style="fill: #6b7685; font: 5.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="349.6824" y="325.09629" transform="rotate(-0 349.6824 325.09629)">No dietary efficacy, supplementation efficacy, or causal mechanism claim.</text>
+    <text style="fill: #6b7685; font: 5.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="349.6824" y="325.063384" transform="rotate(-0 349.6824 325.063384)">Dietary, supplementation, and causal mechanism questions require dedicated studies.</text>
    </g>
    <g id="text_31">
     <text style="font: 700 7.5px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="332.496" y="44.384" transform="rotate(-0 332.496 44.384)">Future validation</text>
@@ -326,10 +330,10 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p83793c05e2">
+  <clipPath id="paf23d5ff50">
    <rect x="64.656" y="48.384" width="215.76" height="288.288"/>
   </clipPath>
-  <clipPath id="p6be35a2ef9">
+  <clipPath id="pe5f2a065b8">
    <rect x="332.496" y="48.384" width="156.24" height="288.288"/>
   </clipPath>
  </defs>
