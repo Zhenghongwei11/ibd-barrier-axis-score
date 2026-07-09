@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Submission-grade figure system for the age-stratified IBD barrier-axis manuscript.
+"""Submission-grade figure system for the age-stratified IBD barrier-injury manuscript.
 
 Script: 24_make_submission_grade_figures.py
 Output: plots/publication/submission_grade/
@@ -462,7 +462,7 @@ def _draw_distribution(
     y_span = y_max - y_min
     ax.set_ylim(y_min - 0.1 * y_span, y_max + 0.25 * y_span)
     if ylab:
-        ax.set_ylabel("Standardized barrier-axis score", fontsize=6.8)
+        ax.set_ylabel("Standardized barrier-injury score", fontsize=6.8)
     ax.tick_params(axis="x", length=0)
 
 

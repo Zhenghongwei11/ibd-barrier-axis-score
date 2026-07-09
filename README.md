@@ -1,6 +1,6 @@
 # IBD Barrier-Axis Score
 
-This repository contains the public reproducibility package for an age-stratified retrospective clinical assessment of an epithelial barrier-axis score in inflammatory bowel disease mucosal transcriptomes.
+This repository contains the public reproducibility package for an age-stratified retrospective clinical assessment of an epithelial barrier-injury score in inflammatory bowel disease mucosal transcriptomes.
 
 The project evaluates a prespecified IPMK-HDAC3-MMP-inspired epithelial barrier-injury score across adult direct clinical endpoint cohorts and pediatric or early-onset supportive cohorts. The public package is intended for computational reproducibility only. It does not include manuscript drafts, cover letters, journal submission files, private data, credentials, or internal planning material.
 

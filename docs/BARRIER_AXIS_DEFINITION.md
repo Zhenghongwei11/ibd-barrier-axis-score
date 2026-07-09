@@ -1,8 +1,8 @@
-# Barrier-Axis Definition
+# Barrier-Injury Score Definition
 
-## Locked Prespecified Axis
+## Locked Prespecified Score
 
-The main exposure is a prespecified mucosal IPMK-HDAC3-MMP epithelial barrier-axis score. It is defined before fitting clinical endpoint models and must not be optimized against outcomes.
+The main exposure is a prespecified mucosal epithelial barrier-injury score derived from an IPMK-HDAC3-MMP barrier-axis gene set. It is defined before fitting clinical endpoint models and must not be optimized against outcomes.
 
 ## Gene Modules
 
@@ -31,15 +31,15 @@ Default scoring method:
 
 1. Normalize expression within each dataset.
 2. Z-score each available axis gene within dataset.
-3. Reverse signs so higher values always indicate greater barrier-axis injury:
+3. Reverse signs so higher values always indicate greater barrier injury:
    - regulatory protective genes: `IPMK`, `IPPK`, `HDAC3`, `NCOR1`, `NCOR2` are multiplied by `-1`.
    - injury genes: MMP genes and `CLDN2` retain positive direction.
    - protective junction genes: `TJP1`, `OCLN` are multiplied by `-1`.
-4. Compute module means and the overall axis score as the mean of available signed z-scores.
+4. Compute module means and the overall barrier-injury score as the mean of available signed z-scores.
 
 ## Component Scores
 
-- `upstream_score`: lower regulatory activity proxy, signed so higher means worse barrier-axis state.
+- `upstream_score`: lower regulatory activity proxy, signed so higher means worse barrier-injury state.
 - `mmp_score`: MMP injury score, higher means more injury.
 - `junction_score`: epithelial junction impairment score, higher means worse barrier integrity.
 
@@ -53,4 +53,4 @@ Any later genes, cell-type markers, or alternative weighting schemes must be lab
 
 ## Biological Anchor
 
-This axis is anchored by the Nature Communications report "Phytic acid (InsP6) activates HDAC3 epigenetic axis to maintain intestinal barrier function" (DOI: 10.1038/s41467-026-68994-0).
+The gene set is anchored by the Nature Communications report "Phytic acid (InsP6) activates HDAC3 epigenetic axis to maintain intestinal barrier function" (DOI: 10.1038/s41467-026-68994-0).

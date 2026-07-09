@@ -12,8 +12,8 @@ Source Data 10	results/meta/non_poolable_endpoints.tsv	Endpoint compatibility an
 Source Data 11	results/clinical/comparator_models.tsv	Comparator and incremental-value model.
 Source Data 12	results/clinical/sensitivity_models.tsv	Sensitivity analyses.
 Source Data 13	results/validation/evidence_grading.tsv	Claim-level evidence grading.
-Source Data 14	results/clinical/clinical_score_strata_summary.tsv	Clinically interpretable favorable-endpoint rates by low, middle, and high barrier-axis score strata.
+Source Data 14	results/clinical/clinical_score_strata_summary.tsv	Clinically interpretable favorable-endpoint rates by low, middle, and high barrier-injury score strata.
 Source Data 15	results/clinical/clinical_score_strata.tsv	Detailed score-stratum endpoint table with stratum-specific sample size, event count, event rate, and score distribution.
 Source Data 16	results/clinical/inflammation_specificity_models.tsv	Inflammatory-response comparator and joint-adjusted models where aligned comparator genes were available.
-Source Data 17	results/clinical/inflammation_specificity_correlations.tsv	Feasibility and Spearman correlations between the barrier-axis score and inflammatory-response comparator.
+Source Data 17	results/clinical/inflammation_specificity_correlations.tsv	Feasibility and Spearman correlations between the barrier-injury score and inflammatory-response comparator.
 Figure Source Data	results/figures/source_data	Per-figure compact source-data tables exported by scripts/26_export_figure_source_data.py.

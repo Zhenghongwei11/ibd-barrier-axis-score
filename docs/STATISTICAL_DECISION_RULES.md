@@ -2,7 +2,7 @@
 
 - All endpoint models are fitted within cohort.
 - Binary endpoints are modeled with logistic regression.
-- Effects are reported as odds ratios per 1 standard deviation increase in the within-cohort standardized barrier-axis score.
+- Effects are reported as odds ratios per 1 standard deviation increase in the within-cohort standardized barrier-injury score.
 - Two-sided P values and 95% confidence intervals are reported.
 - Covariate-adjusted models are sensitivity analyses when treatment, dose, disease subtype, baseline Mayo score, age, or sex are available.
 - Adult direct endpoint cohorts and pediatric or early-onset supportive cohorts are interpreted separately.

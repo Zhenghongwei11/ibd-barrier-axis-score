@@ -6,7 +6,7 @@ The manuscript will use association, molecular stratification, and retrospective
 
 ## Reason
 
-The current models are retrospective cohort-specific associations. They report odds ratios per 1 SD barrier-axis score and confidence intervals, but they do not yet include prespecified training/test splits, calibration, Brier score, decision-curve analysis, or prospective validation.
+The current models are retrospective cohort-specific associations. They report odds ratios per 1 SD barrier-injury score and confidence intervals, but they do not yet include prespecified training/test splits, calibration, Brier score, decision-curve analysis, or prospective validation.
 
 ## Consequence for Outputs
 
