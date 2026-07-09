@@ -516,7 +516,7 @@ def figure2_adult_endpoint_evidence() -> None:
         ylab=False,
     )
 
-    fig.text(0.02, 0.99, "Clinical outcome stratification by barrier-axis score",
+    fig.text(0.02, 0.99, "Adult clinical outcome stratification by barrier-injury score",
              fontsize=8.5, fontweight="bold", color=INK, va="top")
     save(fig, "Figure2_adult_endpoint_evidence")
 
@@ -552,36 +552,36 @@ def _fig2_stratification_dumbbell(ax: plt.Axes) -> None:
         ax.axhspan(yi - 0.43, yi + 0.43, color=PALE if yi % 2 == 0 else WHITE,
                    zorder=0)
         ax.plot([row.high, row.low], [yi, yi], color=RULE, lw=1.8, zorder=1)
-        ax.scatter(row.high, yi, s=34, color=GRAY_M, edgecolor=WHITE,
-                   linewidth=0.7, zorder=4)
-        ax.scatter(row.mid, yi, s=26, color=ADULT_M, edgecolor=WHITE,
-                   linewidth=0.7, alpha=0.85, zorder=4)
-        ax.scatter(row.low, yi, s=42, color=ADULT_C, edgecolor=WHITE,
-                   linewidth=0.7, zorder=5)
+        ax.scatter(row.high, yi, s=44, marker="s", color="#6B7280",
+                   edgecolor=WHITE, linewidth=0.8, zorder=4)
+        ax.scatter(row.mid, yi, s=42, marker="D", color="#C77C24",
+                   edgecolor=WHITE, linewidth=0.8, alpha=0.95, zorder=4)
+        ax.scatter(row.low, yi, s=54, marker="o", color=ADULT_C,
+                   edgecolor=WHITE, linewidth=0.8, zorder=5)
         ax.add_patch(Rectangle((-0.080, yi - 0.34), 0.016, 0.68,
                                transform=ax.get_yaxis_transform(), fc=strip_color,
                                ec="none", alpha=0.85, clip_on=False))
         ax.text(-0.015, yi,
                 row.label.replace("Week 8 ", "W8 ").replace("Week 30 ", "W30 "),
-                fontsize=5.8, ha="right", va="center", color=INK,
+                fontsize=6.2, ha="right", va="center", color=INK,
                 transform=ax.get_yaxis_transform(), clip_on=False)
         ax.text(max(row.low, row.high) + 3.0, yi, f"+{row.delta:.1f} pp",
-                fontsize=5.8, color=strip_color, va="center", fontweight="bold")
+                fontsize=6.1, color=strip_color, va="center", fontweight="bold")
 
     ax.set_xlim(0, 92)
     ax.set_ylim(-0.8, len(plot_df) - 0.2)
     ax.set_yticks([])
-    ax.set_xlabel("Clinical endpoint rate (%)", fontsize=7.0)
+    ax.set_xlabel("Clinical endpoint rate (%)", fontsize=7.4)
     ax.grid(axis="x", color=GRID, lw=0.45)
     legend_handles = [
         plt.Line2D([0], [0], marker="o", color="none", markerfacecolor=ADULT_C,
-                   markeredgecolor=WHITE, markersize=5, label="Low score"),
-        plt.Line2D([0], [0], marker="o", color="none", markerfacecolor=ADULT_M,
-                   markeredgecolor=WHITE, markersize=4.5, label="Middle"),
-        plt.Line2D([0], [0], marker="o", color="none", markerfacecolor=GRAY_M,
-                   markeredgecolor=WHITE, markersize=4.5, label="High"),
+                   markeredgecolor=WHITE, markersize=6, label="Low score"),
+        plt.Line2D([0], [0], marker="D", color="none", markerfacecolor="#C77C24",
+                   markeredgecolor=WHITE, markersize=5.4, label="Middle score"),
+        plt.Line2D([0], [0], marker="s", color="none", markerfacecolor="#6B7280",
+                   markeredgecolor=WHITE, markersize=5.4, label="High score"),
     ]
-    ax.legend(handles=legend_handles, loc="lower right", fontsize=5.6,
+    ax.legend(handles=legend_handles, loc="lower right", fontsize=6.2,
               ncol=3, handletextpad=0.3, columnspacing=0.8)
 
 
@@ -655,7 +655,7 @@ def figure3_age_stratified_atlas() -> None:
     _fig3_evidence_matrix(ax_a, models)
     _fig3_direction_summary(ax_b, models)
 
-    fig.text(0.02, 0.99, "Age-stratified endpoint evidence map",
+    fig.text(0.02, 0.99, "Age-stratified clinical and mucosal-injury readout map",
              fontsize=8.5, fontweight="bold", color=INK, va="top")
     save(fig, "Figure3_age_stratified_atlas")
 
@@ -795,7 +795,7 @@ def figure4_evidence_synthesis() -> None:
     _fig4_translation_ladder(ax_a)
     _fig4_future_validation_panel(ax_b)
 
-    fig.text(0.02, 0.99, "Evidence synthesis and future validation",
+    fig.text(0.02, 0.99, "Interpretive framework and validation pathway",
              fontsize=8.5, fontweight="bold", color=INK, va="top")
     save(fig, "Figure4_evidence_synthesis")
 
@@ -810,7 +810,7 @@ def _fig4_translation_ladder(ax: plt.Axes) -> None:
     stages = [
         (PINJ_C, "Prospective\ntesting", "Clinical assay evaluation",
          "calibration, decision analysis,\nand prospective assay study needed"),
-        (GRAY_M, "Endpoint-\nspecific", "Evidence synthesis",
+        (GRAY_M, "Endpoint-\nspecific", "Endpoint-specific\ninterpretation",
          "cohort-level interpretation;\nno pooled pan-IBD OR"),
         (PRED_C, "Pediatric\ncontext", "Pediatric / early-onset\nbiological relevance",
          "remission context plus injury /\nphenotype evidence; interpreted\nseparately from adult endpoints"),
@@ -849,7 +849,7 @@ def _fig4_future_validation_panel(ax: plt.Axes) -> None:
         ("Assay standardization", "fixed gene set, normalization,\nthreshold rule"),
         ("Calibration", "absolute risk estimates and\nexternal calibration"),
         ("Decision impact", "decision-curve analysis;\nendoscopy-follow-up utility"),
-        ("Prospective validation", "predefined biopsy cohort;\nclinical workflow evaluation"),
+        ("Prospective validation", "predefined biopsy cohort;\nprospective clinical evaluation"),
     ]
     for i, (title, note) in enumerate(steps):
         y = 82 - i * 20
