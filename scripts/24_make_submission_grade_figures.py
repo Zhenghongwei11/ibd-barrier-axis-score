@@ -266,7 +266,7 @@ def figure1_study_architecture() -> None:
     _fig1_evidence_hierarchy(ax_c)
 
     fig.text(0.02, 0.99,
-             "Figure 1  |  Study design and age-stratified endpoint framework",
+             "Study design and age-stratified endpoint framework",
              fontsize=8.5, fontweight="bold", color=INK, va="top")
     save(fig, "Figure1_study_architecture")
 
@@ -516,7 +516,7 @@ def figure2_adult_endpoint_evidence() -> None:
         ylab=False,
     )
 
-    fig.text(0.02, 0.99, "Figure 2  |  Clinical outcome stratification by barrier-axis score",
+    fig.text(0.02, 0.99, "Clinical outcome stratification by barrier-axis score",
              fontsize=8.5, fontweight="bold", color=INK, va="top")
     save(fig, "Figure2_adult_endpoint_evidence")
 
@@ -525,6 +525,7 @@ def _fig2_stratification_dumbbell(ax: plt.Axes) -> None:
     """Hero panel: low-score versus high-score clinical endpoint rates."""
     panel_label(ax, "a", x=-0.07, y=1.03)
     rates = pd.read_csv("results/clinical/clinical_score_strata_summary.tsv", sep="\t")
+    rates = rates[rates["age_stratum"].astype(str).str.lower().str.startswith("adult")].copy()
     rows = []
     for row in rates.itertuples():
         low_event, low_n, low_pct = parse_rate_cell(row.low_score_event_rate)
@@ -544,7 +545,7 @@ def _fig2_stratification_dumbbell(ax: plt.Axes) -> None:
     plot_df = pd.DataFrame(rows).sort_values("delta", ascending=True)
     y = np.arange(len(plot_df))
 
-    ax.set_title("Clinical endpoint rate by score group",
+    ax.set_title("Adult endpoint rate by score group",
                  loc="left", fontsize=7.6, fontweight="bold", pad=5)
     for yi, row in zip(y, plot_df.itertuples()):
         strip_color = ADULT_C if str(row.age).startswith("adult") else PRED_C
@@ -654,7 +655,7 @@ def figure3_age_stratified_atlas() -> None:
     _fig3_evidence_matrix(ax_a, models)
     _fig3_direction_summary(ax_b, models)
 
-    fig.text(0.02, 0.99, "Figure 3  |  Age-stratified endpoint evidence map",
+    fig.text(0.02, 0.99, "Age-stratified endpoint evidence map",
              fontsize=8.5, fontweight="bold", color=INK, va="top")
     save(fig, "Figure3_age_stratified_atlas")
 
@@ -794,7 +795,7 @@ def figure4_evidence_synthesis() -> None:
     _fig4_translation_ladder(ax_a)
     _fig4_future_validation_panel(ax_b)
 
-    fig.text(0.02, 0.99, "Figure 4  |  Evidence synthesis and future validation",
+    fig.text(0.02, 0.99, "Evidence synthesis and future validation",
              fontsize=8.5, fontweight="bold", color=INK, va="top")
     save(fig, "Figure4_evidence_synthesis")
 
@@ -907,7 +908,7 @@ def figureS1_sensitivity_models() -> None:
     ax.set_xticklabels(["0.01", "0.1", "1.0"])
     ax.set_yticks([])
     ax.set_xlabel("OR per 1-SD higher score (log scale)", fontsize=7.0)
-    ax.set_title("Supplementary Figure 1 | Adjusted sensitivity models", loc="left", fontsize=7.5, fontweight="bold", pad=8)
+    ax.set_title("Adjusted sensitivity models", loc="left", fontsize=7.5, fontweight="bold", pad=8)
     save(fig, "FigureS1_sensitivity_models")
 
 
@@ -974,7 +975,7 @@ def figureS2_score_module_detail() -> None:
                 text_color = WHITE if val < -0.3 or val > 0.3 else INK
                 ax.text(j, i, f"{val:+.2f}", ha="center", va="center",
                         fontsize=6.0, color=text_color)
-    ax.set_title("Supplementary Figure 2 | Response-based module contrast",
+    ax.set_title("Response-based module contrast",
                  loc="left", fontsize=7.3, fontweight="bold", pad=6)
     cbar = fig.colorbar(im, ax=ax, fraction=0.046, pad=0.04)
     cbar.set_label("Mean difference", fontsize=6.2)
@@ -998,7 +999,7 @@ def figureS3_gse206285_remission() -> None:
     g2_0, g2_1 = g2.loc[g2["week8_clinical_remission"] == 0, "axis_score"], g2.loc[g2["week8_clinical_remission"] == 1, "axis_score"]
     fig, ax = plt.subplots(figsize=(3.2, 3.8))
     _draw_distribution(ax, g2_0, g2_1, title="GSE206285", subtitle="Adult UC UNIFI · clinical remission", n0_label=f"No remission\nn={len(g2_0)}", n1_label=f"Remission\nn={len(g2_1)}", or_text="OR 0.67 (0.52–0.85)", ylab=True)
-    fig.suptitle("Supplementary Figure 3 | Clinical remission contrast", fontsize=7.5, fontweight="bold", y=1.02)
+    fig.suptitle("Clinical remission contrast", fontsize=7.5, fontweight="bold", y=1.02)
     plt.tight_layout(); save(fig, "FigureS3_gse206285_remission")
 
 
@@ -1111,7 +1112,7 @@ def figureS4_module_meta_sensitivity() -> None:
              "Exploratory endpoint-specific synthesis; not a pan-IBD meta-analysis.",
              transform=ax2.transAxes, fontsize=5.4, color=MUTED)
 
-    fig.suptitle("Supplementary Figure 4 | Score-component sensitivity and adult healing synthesis",
+    fig.suptitle("Score-component sensitivity and adult healing synthesis",
                  x=0.02, ha="left", fontsize=7.8, fontweight="bold")
     plt.tight_layout(rect=(0, 0.02, 1, 0.94))
     save(fig, "FigureS4_module_meta_sensitivity")
