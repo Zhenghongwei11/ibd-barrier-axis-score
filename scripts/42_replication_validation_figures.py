@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Rebuttal supplementary figures for GSE193677 replication and permutation benchmark.
+"""Supplementary figures for GSE193677 replication and validation benchmarks.
 
 Outputs:
-  FigureS6_rebuttal_replication: GSE193677 IBD-vs-control ORs, endoscopic
+  FigureS6_gse193677_replication: GSE193677 IBD-vs-control ORs, endoscopic
     severity strata, and activity correlations.
   FigureS7_permutation_benchmark: observed OR vs null distribution per
     adult endpoint cohort with empirical P.
@@ -140,7 +140,7 @@ def figure_s6_replication() -> None:
 
     fig.suptitle("Independent prospective-cohort replication (GSE193677, MSCCR)", fontsize=11, color=INK)
     fig.tight_layout(rect=(0, 0, 1, 0.94))
-    save(fig, "FigureS6_rebuttal_replication")
+    save(fig, "FigureS6_gse193677_replication")
 
 
 def figure_s7_permutation() -> None:
@@ -214,7 +214,7 @@ def main() -> int:
     figure_s6_replication()
     figure_s7_permutation()
     figure_s8_localization()
-    # Source-data exports for rebuttal figures.
+    # Source-data exports for replication and validation figures.
     models = pd.read_csv(REPL_MODELS, sep="\t")
     activity = pd.read_csv(ACTIVITY, sep="\t")
     strata = pd.read_csv(STRATA, sep="\t")
@@ -228,10 +228,10 @@ def main() -> int:
         ],
         ignore_index=True,
     )
-    s6.to_csv(os.path.join(SRC_DIR, "FigureS6_rebuttal_replication_source_data.tsv"), sep="\t", index=False)
+    s6.to_csv(os.path.join(SRC_DIR, "FigureS6_gse193677_replication_source_data.tsv"), sep="\t", index=False)
     perm.to_csv(os.path.join(SRC_DIR, "FigureS7_permutation_benchmark_source_data.tsv"), sep="\t", index=False)
     loc.to_csv(os.path.join(SRC_DIR, "FigureS8_celltype_localization_source_data.tsv"), sep="\t", index=False)
-    print("wrote rebuttal source-data exports")
+    print("wrote replication and validation source-data exports")
     return 0
 
 

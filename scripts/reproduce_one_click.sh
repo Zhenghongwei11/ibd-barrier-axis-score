@@ -33,7 +33,7 @@ python3 scripts/32_predictive_performance.py
 python3 scripts/33_adult_healing_random_effects.py
 python3 scripts/26_export_figure_source_data.py
 python3 scripts/24_make_submission_grade_figures.py
-python3 scripts/42_rebuttal_figures.py
-python3 scripts/46_rebuttal_strengthening_figures.py
+python3 scripts/42_replication_validation_figures.py
+python3 scripts/46_benchmark_sensitivity_figures.py
 
 echo "Reproduction complete."

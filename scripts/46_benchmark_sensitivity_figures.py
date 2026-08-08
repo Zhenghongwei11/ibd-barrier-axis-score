@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Supplementary figures for computational rebuttal strengthening analyses."""
+"""Supplementary figures for comparator and sensitivity analyses."""
 
 from __future__ import annotations
 
@@ -205,7 +205,7 @@ def main() -> int:
     comparator_figure()
     biopsy_sensitivity_figure()
     matched_null_figure()
-    print("wrote FigureS9-FigureS11 supplementary rebuttal figures")
+    print("wrote FigureS9-FigureS11 supplementary benchmark and sensitivity figures")
     return 0
 
 

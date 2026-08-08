@@ -28,7 +28,7 @@ ADJCOUNTS = ROOT / "data/raw/GSE193677/GSE193677_MSCCR_Biopsy_adjcounts.txt.gz"
 COUNTS = ROOT / "data/raw/GSE193677/GSE193677_MSCCR_Biopsy_counts.txt.gz"
 
 META_OUT = ROOT / "results/replication/GSE193677_sample_metadata.tsv"
-FEASIBILITY_OUT = ROOT / "results/replication/GSE193677_feasibility_log.tsv"
+FEASIBILITY_OUT = ROOT / "results/replication/GSE193677_dataset_qc.tsv"
 SCORE_OUT = ROOT / "results/axis/barrier_axis_scores.tsv"
 AVAIL_OUT = ROOT / "results/axis/gene_availability.tsv"
 REPL_MODELS_OUT = ROOT / "results/replication/GSE193677_replication_models.tsv"
