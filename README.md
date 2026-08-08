@@ -11,7 +11,7 @@ The project evaluates a prespecified IPMK-HDAC3-MMP-inspired epithelial barrier-
 - `docs/DATA_MANIFEST.tsv`: public GEO data source manifest for rebuilding from public data.
 - `docs/RUN_MANIFEST.tsv`: command provenance for the analysis chain.
 - `docs/FIGURE_PROVENANCE.tsv`: figure-to-script-to-source-data mapping.
-- `results/`: derived tables supporting the manuscript analyses.
+- `results/`: derived tables supporting endpoint models, GSE193677 replication, comparator benchmarks, biopsy-selection sensitivity, random-gene null analyses, and single-cell localization.
 - `results/figures/source_data/`: compact source-data tables for each figure.
 - `plots/publication/submission_grade/`: final figure exports in PNG, PDF, and SVG.
 
@@ -30,7 +30,7 @@ Expected runtime on a laptop is less than 5 minutes for the table refresh and fi
 
 ## Rebuild From Public GEO Sources
 
-The full public-data rebuild starts from `docs/DATA_MANIFEST.tsv` and downloads GEO series matrices, processed supplementary expression files, and platform annotations. This route is network-dependent and larger than the default quick reproduction path.
+The full public-data rebuild starts from `docs/DATA_MANIFEST.tsv` and downloads GEO series matrices, processed supplementary expression files, platform annotations, GSE193677 RNA-seq source files, and GSE214695 single-cell source files. This route is network-dependent and larger than the default quick reproduction path.
 
 ```bash
 bash scripts/reproduce_one_click.sh --download-public-data
@@ -47,6 +47,10 @@ The analysis supports retrospective molecular stratification of mucosal biopsy t
 - Primary endpoint models: `results/clinical/age_stratified_endpoint_models.tsv`
 - Clinical tertile summaries: `results/clinical/clinical_score_strata_summary.tsv`
 - Inflammatory-response comparator models: `results/clinical/inflammation_specificity_models.tsv`
+- GSE193677 replication models: `results/replication/GSE193677_replication_models.tsv`
+- Comparator signature benchmark: `results/benchmarks/comparator_signature_benchmark.tsv`
+- Expression and variance-matched random-gene null benchmark: `results/validation/matched_null_benchmark.tsv`
+- Single-cell localization summary: `results/validation/celltype_localization.tsv`
 - Figure provenance: `docs/FIGURE_PROVENANCE.tsv`
 - Final figures: `plots/publication/submission_grade/`
 

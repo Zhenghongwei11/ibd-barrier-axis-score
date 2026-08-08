@@ -1,8 +1,18 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+export MPLBACKEND="${MPLBACKEND:-Agg}"
+export MPLCONFIGDIR="${MPLCONFIGDIR:-tmp/mplconfig}"
+mkdir -p "$MPLCONFIGDIR"
+
 if [[ "${1:-}" == "--download-public-data" ]]; then
   python3 scripts/01_download_public_data.py --manifest docs/DATA_MANIFEST.tsv --include-conditional
+  python3 scripts/39_gse193677_replication.py
+  python3 scripts/40_permutation_benchmark.py
+  python3 scripts/41_celltype_localization.py
+  python3 scripts/43_comparator_signature_benchmark.py
+  python3 scripts/44_gse193677_biopsy_sensitivity.py
+  python3 scripts/45_matched_null_benchmark.py
 fi
 
 python3 scripts/06_build_gse73661_endpoint.py
@@ -23,5 +33,7 @@ python3 scripts/32_predictive_performance.py
 python3 scripts/33_adult_healing_random_effects.py
 python3 scripts/26_export_figure_source_data.py
 python3 scripts/24_make_submission_grade_figures.py
+python3 scripts/42_rebuttal_figures.py
+python3 scripts/46_rebuttal_strengthening_figures.py
 
 echo "Reproduction complete."

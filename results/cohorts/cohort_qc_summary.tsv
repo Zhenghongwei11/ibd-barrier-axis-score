@@ -1,7 +1,12 @@
 dataset_id	qc_stage	metadata_status	endpoint_status	expression_status	blocking_issue
-GSE109142	modeled	series_matrix_parsed_with_per_cell_characteristics	week4_remission_yes_no_n206	RAW_tar_processed_quantification_merged_226_samples	Endpoint is pediatric UC week-4 remission; adjusted axis association is directionally consistent but not statistically significant.
-GSE73661	modeled	series_matrix_parsed	baseline_mucosal_healing_n64	series_matrix_array_expression_mapped_178_samples	Best direct mucosal-healing endpoint; small baseline endpoint sample limits predictor claims.
-GSE57945	modeled	series_matrix_parsed	macroscopic_inflammation_n171;deep_ulcer_n174	processed_RPKM_axis_scored_254_samples	Not a treatment-response cohort; supports ileal phenotype validation only.
-GSE101794	modeled	series_matrix_parsed	CD_vs_nonIBD_n304	RAW_tar_processed_quantification_merged_304_samples	Disease-vs-control validation is strong but cannot validate treatment response.
-GSE117993	modeled	series_matrix_parsed	IBD_vs_control_n190;CD_vs_control_n147;UC_vs_control_n98	RAW_tar_processed_quantification_merged_190_samples	Disease-vs-control validation is strong but cannot validate treatment response.
-IBDMDB_HMP2	deferred	not_parsed	pending_manifest_intersection	not_downloaded	Complex multi-omics; use only if host transcriptome and activity labels intersect cleanly.
+GSE73661	pre_download	series_level_confirmed	mucosal_healing_n64	Affymetrix Human Gene 1.0 ST Array	Adult mucosal-healing anchor with baseline endpoint labels.
+GSE12251	pre_download	series_level_confirmed	week8_endoscopic_histologic_healing_n22	Affymetrix HG-U133 Plus 2.0 Array	Small adult healing cohort interpreted as supportive.
+GSE92415	pre_download	series_level_confirmed	week6_clinical_response_n87	Affymetrix HT HG-U133+ PM Array	Adult treatment-response cohort with week 6 clinical-response label.
+GSE206285	pre_download	series_level_confirmed	week8_mucosal_healing_n542;week8_clinical_remission_n550	Affymetrix HT HG-U133+ PM Array	Largest adult direct endpoint cohort with mucosal healing and clinical remission.
+GSE23597	pre_download	series_level_confirmed	week8_response_n45;week30_response_n45	Affymetrix HG-U133 Plus 2.0 Array	Adult response cohort with week 8 and week 30 response labels.
+GSE16879	pre_download	series_level_confirmed	infliximab_response_n61	Affymetrix HG-U133 Plus 2.0 Array	Adult or mixed response cohort; interpreted as cohort-specific response separation.
+GSE193677	pre_download	series_level_confirmed	IBD_vs_control_n1162;activity_correlations_available	RNA-seq adjusted counts	Large adult registry cohort used for independent transcriptomic replication, activity correlation, biopsy-selection sensitivity, and matched random-gene benchmarking.
+GSE109142	pre_download	series_level_confirmed	week4_remission_n206	Illumina RNA-seq processed quantification	Pediatric remission-context cohort interpreted separately from adult endpoint validation.
+GSE57945	pre_download	series_level_confirmed	macroscopic_inflammation_n171;deep_ulcer_n174	RNA-seq processed RPKM	Pediatric mucosal-injury cohort for ileal inflammation and deep ulceration context.
+GSE101794	pre_download	series_level_confirmed	CD_vs_nonIBD_n304	RNA-seq processed quantification	Pediatric ileal CD phenotype cohort.
+GSE117993	pre_download	series_level_confirmed	IBD_vs_control_n190;CD_vs_control_n147;UC_vs_control_n98	RNA-seq processed quantification	Pediatric rectal IBD phenotype cohort.

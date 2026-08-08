@@ -16,4 +16,17 @@ Source Data 14	results/clinical/clinical_score_strata_summary.tsv	Clinically int
 Source Data 15	results/clinical/clinical_score_strata.tsv	Detailed score-stratum endpoint table with stratum-specific sample size, event count, event rate, and score distribution.
 Source Data 16	results/clinical/inflammation_specificity_models.tsv	Inflammatory-response comparator and joint-adjusted models where aligned comparator genes were available.
 Source Data 17	results/clinical/inflammation_specificity_correlations.tsv	Feasibility and Spearman correlations between the barrier-injury score and inflammatory-response comparator.
+Source Data 18	results/replication/GSE193677_replication_models.tsv	Post-decision GSE193677 independent adult registry IBD-versus-control replication models, including one-biopsy-per-participant and all-biopsy sensitivity analyses.
+Source Data 19	results/clinical/GSE193677_endoseverity_strata.tsv	Post-decision GSE193677 barrier-injury score summaries across endoscopic severity strata.
+Source Data 20	results/clinical/GSE193677_activity_correlations.tsv	Post-decision GSE193677 correlations between the barrier-injury score and endoscopic, histologic, clinical, and inflammatory activity measures.
+Source Data 21	results/validation/permutation_benchmark.tsv	Post-decision 1,000 random gene-set permutation benchmark for adult endpoint cohorts and the GSE193677 IBD-versus-control comparison.
+Source Data 22	results/validation/celltype_localization.tsv	Post-decision public single-cell compartment-level localization summary for the 13 score genes.
+Source Data 23	results/validation/celltype_localization_fine.tsv	Post-decision public single-cell fine cell-type localization summary for the 13 score genes.
+Source Data 24	docs/COMPARATOR_SIGNATURES.tsv	Locked comparator signature definitions for rebuttal-stage benchmark analyses.
+Source Data 25	results/benchmarks/signature_availability.tsv	Comparator gene availability audit by dataset and signature.
+Source Data 26	results/benchmarks/comparator_signature_benchmark.tsv	Head-to-head score-component and comparator signature benchmark models.
+Source Data 27	results/benchmarks/comparator_incremental_models.tsv	Joint and incremental models testing barrier-injury score information after comparator adjustment.
+Source Data 28	results/clinical/GSE193677_biopsy_selection_sensitivity.tsv	GSE193677 biopsy-selection, site, and disease-type sensitivity models.
+Source Data 29	results/validation/matched_null_benchmark.tsv	Expression- and variance-matched random-gene null benchmark summary.
+Source Data 30	results/validation/matched_null_iterations.tsv	Iteration-level ORs for the GSE193677 matched random-gene null.
 Figure Source Data	results/figures/source_data	Per-figure compact source-data tables exported by scripts/26_export_figure_source_data.py.

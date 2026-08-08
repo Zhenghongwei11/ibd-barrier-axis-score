@@ -203,6 +203,8 @@ def parse_rate_cell(cell: str) -> tuple[int, int, float]:
 def p_text(pvalue: float) -> str:
     if pvalue < 0.001:
         return "P < 0.001"
+    if pvalue < 0.01:
+        return f"P = {pvalue:.4f}"
     return f"P = {pvalue:.3f}"
 
 
@@ -212,7 +214,7 @@ def role_family(role: str) -> str:
     if "remission" in role:
         return "pediatric_remission"
     if "injury" in role:
-        return "pediatric_injury"
+        return "pediatric_mucosal_injury"
     return "pediatric_phenotype"
 
 
@@ -221,7 +223,7 @@ def role_fill(role: str) -> str:
     return {
         "adult": ADULT_L,
         "pediatric_remission": PRED_L,
-        "pediatric_injury": PINJ_L,
+        "pediatric_mucosal_injury": PINJ_L,
         "pediatric_phenotype": PHEN_L,
     }[family]
 
@@ -308,7 +310,6 @@ def _fig1_score_capsule(ax: plt.Axes) -> None:
 def _fig1_evidence_landscape(ax: plt.Axes) -> None:
     """Bubble landscape: age stratum, clinical outcome hierarchy, and evaluable sample size."""
     panel_label(ax, "b", x=-0.06, y=1.04)
-    cohorts = pd.read_csv("results/dataset_summary.tsv", sep="\t")
     coords = {
         "GSE73661":  ("Adult", 3.0, "Healing", ADULT_C, 64),
         "GSE12251":  ("Adult", 2.7, "Healing", ADULT_C, 22),
@@ -316,36 +317,47 @@ def _fig1_evidence_landscape(ax: plt.Axes) -> None:
         "GSE206285": ("Adult", 3.2, "Healing/remission", ADULT_C, 550),
         "GSE23597":  ("Adult", 2.03, "Response", ADULT_M, 45),
         "GSE16879":  ("Adult/mixed", 1.78, "Biologic response", ADULT_M, 61),
+        "GSE193677": ("Registry", 2.45, "Registry replication", "#23866F", 1162),
         "GSE109142": ("Pediatric", 1.9, "Remission", PRED_C, 206),
         "GSE57945":  ("Pediatric", 1.3, "Injury", PINJ_C, 174),
         "GSE101794": ("Pediatric", 0.9, "Phenotype", PHEN_C, 304),
         "GSE117993": ("Pediatric", 0.9, "Phenotype", PHEN_C, 190),
     }
-    x_map = {"Adult": 0.0, "Adult/mixed": 0.15, "Pediatric": 1.0}
+    x_map = {"Adult": 0.0, "Adult/mixed": 0.15, "Registry": 0.62, "Pediatric": 1.18}
     jitter = {
         "GSE73661": -0.08, "GSE12251": 0.06, "GSE92415": -0.02,
         "GSE206285": 0.10, "GSE23597": 0.12, "GSE16879": -0.02,
+        "GSE193677": 0.00,
         "GSE109142": -0.08, "GSE57945": 0.06, "GSE101794": -0.08,
         "GSE117993": 0.10,
     }
     label_offsets = {
         "GSE23597": (0.03, -0.06, "left", "center"),
         "GSE16879": (0.00, -0.24, "center", "top"),
+        "GSE193677": (0.00, -0.23, "center", "top"),
+        "GSE101794": (-0.08, -0.26, "right", "top"),
+        "GSE117993": (0.08, -0.26, "left", "top"),
+    }
+    n_offsets = {
+        "GSE206285": (0.0, 0.18, "center", "bottom"),
+        "GSE193677": (0.0, 0.18, "center", "bottom"),
+        "GSE109142": (-0.10, 0.10, "right", "bottom"),
+        "GSE101794": (-0.10, 0.04, "right", "center"),
     }
 
-    ax.set_title("Endpoint evidence landscape", loc="left", fontsize=7.6,
+    ax.set_title("Cohort evidence map", loc="left", fontsize=7.6,
                  fontweight="bold", pad=4)
     ax.axvspan(-0.22, 0.32, color=ADULT_L, alpha=0.35, zorder=0)
-    ax.axvspan(0.78, 1.22, color=PRED_L, alpha=0.35, zorder=0)
+    ax.axvspan(0.48, 0.76, color="#D8EFE9", alpha=0.55, zorder=0)
+    ax.axvspan(0.96, 1.40, color=PRED_L, alpha=0.35, zorder=0)
     ax.text(0.05, 3.55, "Adult direct endpoint cohorts", ha="center",
             fontsize=6.4, color=ADULT_C, fontweight="bold")
-    ax.text(1.0, 3.55, "Pediatric / early-onset cohorts", ha="center",
+    ax.text(0.62, 3.55, "Adult registry\nreplication", ha="center",
+            fontsize=6.0, color="#23866F", fontweight="bold", linespacing=0.95)
+    ax.text(1.18, 3.55, "Pediatric / early-onset cohorts", ha="center",
             fontsize=6.4, color=PRED_C, fontweight="bold")
 
-    for _, row in cohorts.iterrows():
-        ds = row["dataset_id"]
-        if ds not in coords:
-            continue
+    for ds, (age, y, endpoint, color, n) in coords.items():
         age, y, endpoint, color, n = coords[ds]
         x = x_map[age] + jitter.get(ds, 0)
         size = 24 + math.sqrt(n) * 11
@@ -354,14 +366,15 @@ def _fig1_evidence_landscape(ax: plt.Axes) -> None:
         dx, dy, ha, va = label_offsets.get(ds, (0.0, -0.21, "center", "top"))
         ax.text(x + dx, y + dy, ds.replace("GSE", ""), fontsize=5.2,
                 ha=ha, va=va, color=INK)
-        if ds in {"GSE206285", "GSE109142", "GSE101794"}:
-            ax.text(x, y + 0.18, f"n={n}", fontsize=5.2, ha="center",
-                    va="bottom", color=MUTED)
+        if ds in n_offsets:
+            ndx, ndy, nha, nva = n_offsets[ds]
+            ax.text(x + ndx, y + ndy, f"n={n}", fontsize=5.2, ha=nha,
+                    va=nva, color=MUTED)
 
-    ax.set_xlim(-0.28, 1.28)
+    ax.set_xlim(-0.28, 1.42)
     ax.set_ylim(0.55, 3.75)
-    ax.set_xticks([0.0, 1.0])
-    ax.set_xticklabels(["Adult", "Pediatric"], fontsize=6.8,
+    ax.set_xticks([0.0, 0.62, 1.18])
+    ax.set_xticklabels(["Adult endpoints", "Adult registry", "Pediatric"], fontsize=6.4,
                        fontweight="bold")
     ax.set_yticks([1, 2, 3])
     ax.set_yticklabels(["Phenotype /\ninjury", "Response /\nremission",
@@ -375,6 +388,7 @@ def _fig1_evidence_landscape(ax: plt.Axes) -> None:
     handles = [
         mpatches.Patch(color=ADULT_C, label="Adult healing/remission"),
         mpatches.Patch(color=ADULT_M, label="Adult response"),
+        mpatches.Patch(color="#23866F", label="Adult registry replication"),
         mpatches.Patch(color=PRED_C, label="Pediatric remission"),
         mpatches.Patch(color=PINJ_C, label="Pediatric injury"),
         mpatches.Patch(color=PHEN_C, label="Pediatric phenotype"),
@@ -395,7 +409,7 @@ def _fig1_evidence_hierarchy(ax: plt.Axes) -> None:
         (ADULT_C, "Adult evidence", "adult retrospective\nmolecular stratification"),
         (PRED_C, "Pediatric context", "pediatric / early-onset\ncontext"),
         (GRAY_M, "Heterogeneity", "endpoint and tissue\nheterogeneity"),
-        (PINJ_C, "Study scope", "diagnosis, treatment selection,\nInsP6 efficacy"),
+        (PINJ_C, "Translation path", "assay locking, calibration,\nprospective evaluation"),
     ]
     for i, (color, label, text) in enumerate(rows):
         y = 73 - i * 18
@@ -867,7 +881,7 @@ def _fig4_future_validation_panel(ax: plt.Axes) -> None:
                            alpha=0.45))
     ax.text(11, 9, "InsP6-HDAC3-MMP is the biological rationale",
             fontsize=5.9, color=PINJ_C, fontweight="bold", va="center")
-    ax.text(11, 4.5, "Dietary, supplementation, and causal mechanism questions require dedicated studies.",
+    ax.text(11, 4.5, "Experimental pathway studies are separate translational next steps.",
             fontsize=5.4, color=MUTED, va="center")
 
 

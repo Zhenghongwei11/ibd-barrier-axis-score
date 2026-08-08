@@ -33,6 +33,8 @@ def main() -> int:
         writer = csv.DictWriter(handle, fieldnames=fields, delimiter="\t")
         writer.writeheader()
         for row in rows:
+            if row["usability_decision"].startswith("conditional"):
+                continue
             writer.writerow(
                 {
                     "dataset_id": row["dataset_id"],
@@ -58,6 +60,8 @@ def main() -> int:
         writer = csv.DictWriter(handle, fieldnames=fields, delimiter="\t")
         writer.writeheader()
         for row in rows:
+            if row["usability_decision"].startswith("conditional"):
+                continue
             writer.writerow(
                 {
                     "dataset_id": row["dataset_id"],
