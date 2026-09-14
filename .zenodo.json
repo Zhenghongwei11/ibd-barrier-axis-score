@@ -1,0 +1,34 @@
+{
+  "title": "IBD Barrier-Axis Score: Public Reproducibility Package",
+  "upload_type": "software",
+  "description": "Public reproducibility package for an age-stratified retrospective clinical assessment of an epithelial barrier-injury score in inflammatory bowel disease mucosal transcriptomes.",
+  "creators": [
+    {
+      "name": "Zheng, Hongwei",
+      "affiliation": "School of Basic Medical Sciences, Quanzhou Medical College"
+    },
+    {
+      "name": "Bu, Wanping",
+      "affiliation": "School of Basic Medical Sciences, Quanzhou Medical College"
+    },
+    {
+      "name": "Zhuang, Xin",
+      "affiliation": "Quanzhou First Hospital"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "inflammatory bowel disease",
+    "mucosal transcriptome",
+    "barrier injury",
+    "molecular stratification",
+    "single-cell RNA-seq"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Zhenghongwei11/ibd-barrier-axis-score",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

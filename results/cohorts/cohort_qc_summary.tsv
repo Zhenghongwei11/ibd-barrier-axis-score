@@ -1,0 +1,12 @@
+dataset_id	qc_stage	metadata_status	endpoint_status	expression_status	blocking_issue
+GSE73661	pre_download	series_level_confirmed	mucosal_healing_n64	Affymetrix Human Gene 1.0 ST Array	Adult mucosal-healing anchor with baseline endpoint labels.
+GSE12251	pre_download	series_level_confirmed	week8_endoscopic_histologic_healing_n22	Affymetrix HG-U133 Plus 2.0 Array	Small adult healing cohort interpreted as supportive.
+GSE92415	pre_download	series_level_confirmed	week6_clinical_response_n87	Affymetrix HT HG-U133+ PM Array	Adult treatment-response cohort with week 6 clinical-response label.
+GSE206285	pre_download	series_level_confirmed	week8_mucosal_healing_n542;week8_clinical_remission_n550	Affymetrix HT HG-U133+ PM Array	Largest adult direct endpoint cohort with mucosal healing and clinical remission.
+GSE23597	pre_download	series_level_confirmed	week8_response_n45;week30_response_n45	Affymetrix HG-U133 Plus 2.0 Array	Adult response cohort with week 8 and week 30 response labels.
+GSE16879	pre_download	series_level_confirmed	infliximab_response_n61	Affymetrix HG-U133 Plus 2.0 Array	Adult or mixed response cohort; interpreted as cohort-specific response separation.
+GSE193677	pre_download	series_level_confirmed	IBD_vs_control_n1162;activity_correlations_available	RNA-seq adjusted counts	Large adult registry cohort used for independent transcriptomic replication, activity correlation, biopsy-selection sensitivity, and matched random-gene benchmarking.
+GSE109142	pre_download	series_level_confirmed	week4_remission_n206	Illumina RNA-seq processed quantification	Pediatric remission-context cohort interpreted separately from adult endpoint validation.
+GSE57945	pre_download	series_level_confirmed	macroscopic_inflammation_n171;deep_ulcer_n174	RNA-seq processed RPKM	Pediatric mucosal-injury cohort for ileal inflammation and deep ulceration context.
+GSE101794	pre_download	series_level_confirmed	CD_vs_nonIBD_n304	RNA-seq processed quantification	Pediatric ileal CD phenotype cohort.
+GSE117993	pre_download	series_level_confirmed	IBD_vs_control_n190;CD_vs_control_n147;UC_vs_control_n98	RNA-seq processed quantification	Pediatric rectal IBD phenotype cohort.

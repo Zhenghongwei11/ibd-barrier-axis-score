@@ -1,0 +1,11 @@
+dataset_id	signature_id	available_genes	missing_genes	n_available_genes	n_requested_genes	availability_status
+GSE73661	tnf_inflammatory	IL13RA2;OSM;TNF;TNFRSF1B;TREM1	IL6;IL1B;CXCL8	5	8	partial_compact_comparator_from_processed_matrix
+GSE193677	barrier_injury_score	IPMK;IPPK;HDAC3;NCOR1;NCOR2;MMP1;MMP3;MMP10;MMP12;MMP13;TJP1;OCLN;CLDN2		13	13	modeled
+GSE193677	mmp_injury	MMP1;MMP3;MMP10;MMP12;MMP13		5	5	modeled
+GSE193677	upstream_regulatory	IPMK;IPPK;HDAC3;NCOR1;NCOR2		5	5	modeled
+GSE193677	junctional_complex	TJP1;OCLN;CLDN2		3	3	modeled
+GSE193677	osm_osmr	OSM;OSMR;IL6ST;LIF;LIFR		5	5	modeled
+GSE193677	tnf_inflammatory	OSM;TREM1;TNF;TNFRSF1B;IL13RA2;IL6;IL1B;CXCL8		8	8	modeled
+GSE193677	hallmark_inflammatory_like	IL1B;IL6;TNF;CXCL8;CXCL1;CXCL2;CXCL10;CCL2;ICAM1;SELE;NFKBIA;TNFAIP3;PTGS2;PLAUR;SOD2;TLR2;RELB;NFKB1	CCL3;CCL4	18	20	modeled
+GSE193677	stromal_remodeling	COL1A1;COL1A2;COL3A1;FAP;VIM;ACTA2;POSTN;FN1;SPARC;TIMP1;TGFB1;PDGFRB		12	12	modeled
+GSE193677	neutrophil_myeloid	S100A8;S100A9;FCGR3B;CSF3R;CXCR2;ELANE;LCN2;IL1B;TREM1;FCGR1A	MPO	10	11	modeled
