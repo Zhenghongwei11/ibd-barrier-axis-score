@@ -1,0 +1,4 @@
+dataset_id	endpoint	model	effect_type	effect	ci_lower	ci_upper	pvalue	fdr	n	interpretation_boundary
+GSE117993	IBD_vs_control_rectum	ibd_status ~ axis_score_z	odds_ratio_per_1sd_axis_score	2.50304	1.65661	3.78194	1.31847e-05	1.31847e-05	190	independent_rectal_disease_phenotype_validation; not treatment_response
+GSE117993	CD_vs_control_rectum	disease_status ~ axis_score_z	odds_ratio_per_1sd_axis_score	1.90457	1.24708	2.9087	0.00286387	0.00286387	147	independent_rectal_disease_phenotype_validation; not treatment_response
+GSE117993	UC_vs_control_rectum	disease_status ~ axis_score_z	odds_ratio_per_1sd_axis_score	4.76018	2.57291	8.80687	6.67676e-07	6.67676e-07	98	independent_rectal_disease_phenotype_validation; not treatment_response

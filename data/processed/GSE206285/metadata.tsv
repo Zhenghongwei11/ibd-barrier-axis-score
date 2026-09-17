@@ -1,0 +1,569 @@
+title	sample_id	tissue	donor_id	visit	diagnosis	treatment	mucosal_healing_at_week_8	clinical_remission_at_week_8
+CNTO1275UCO3001-100001 colon biopsy week 0	GSM6249277	colon	CNTO1275UCO3001-100001	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100002 colon biopsy week 0	GSM6249278	colon	CNTO1275UCO3001-100002	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100003 colon biopsy week 0	GSM6249279	colon	CNTO1275UCO3001-100003	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100004 colon biopsy week 0	GSM6249280	colon	CNTO1275UCO3001-100004	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100005 colon biopsy week 0	GSM6249281	colon	CNTO1275UCO3001-100005	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100007 colon biopsy week 0	GSM6249282	colon	CNTO1275UCO3001-100007	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100008 colon biopsy week 0	GSM6249283	colon	CNTO1275UCO3001-100008	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100009 colon biopsy week 0	GSM6249284	colon	CNTO1275UCO3001-100009	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100010 colon biopsy week 0	GSM6249285	colon	CNTO1275UCO3001-100010	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100011 colon biopsy week 0	GSM6249286	colon	CNTO1275UCO3001-100011	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100013 colon biopsy week 0	GSM6249287	colon	CNTO1275UCO3001-100013	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100014 colon biopsy week 0	GSM6249288	colon	CNTO1275UCO3001-100014	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100015 colon biopsy week 0	GSM6249289	colon	CNTO1275UCO3001-100015	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100018 colon biopsy week 0	GSM6249290	colon	CNTO1275UCO3001-100018	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	Y	Y
+CNTO1275UCO3001-100020 colon biopsy week 0	GSM6249291	colon	CNTO1275UCO3001-100020	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100021 colon biopsy week 0	GSM6249292	colon	CNTO1275UCO3001-100021	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100022 colon biopsy week 0	GSM6249293	colon	CNTO1275UCO3001-100022	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100023 colon biopsy week 0	GSM6249294	colon	CNTO1275UCO3001-100023	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	Y	Y
+CNTO1275UCO3001-100024 colon biopsy week 0	GSM6249295	colon	CNTO1275UCO3001-100024	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100026 colon biopsy week 0	GSM6249296	colon	CNTO1275UCO3001-100026	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100028 colon biopsy week 0	GSM6249297	colon	CNTO1275UCO3001-100028	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100030 colon biopsy week 0	GSM6249298	colon	CNTO1275UCO3001-100030	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100031 colon biopsy week 0	GSM6249299	colon	CNTO1275UCO3001-100031	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100032 colon biopsy week 0	GSM6249300	colon	CNTO1275UCO3001-100032	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100034 colon biopsy week 0	GSM6249301	colon	CNTO1275UCO3001-100034	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100036 colon biopsy week 0	GSM6249302	colon	CNTO1275UCO3001-100036	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100037 colon biopsy week 0	GSM6249303	colon	CNTO1275UCO3001-100037	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100040 colon biopsy week 0	GSM6249304	colon	CNTO1275UCO3001-100040	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100043 colon biopsy week 0	GSM6249305	colon	CNTO1275UCO3001-100043	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100045 colon biopsy week 0	GSM6249306	colon	CNTO1275UCO3001-100045	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100046 colon biopsy week 0	GSM6249307	colon	CNTO1275UCO3001-100046	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100047 colon biopsy week 0	GSM6249308	colon	CNTO1275UCO3001-100047	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100048 colon biopsy week 0	GSM6249309	colon	CNTO1275UCO3001-100048	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	Y	Y
+CNTO1275UCO3001-100050 colon biopsy week 0	GSM6249310	colon	CNTO1275UCO3001-100050	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100051 colon biopsy week 0	GSM6249311	colon	CNTO1275UCO3001-100051	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	NA	N
+CNTO1275UCO3001-100054 colon biopsy week 0	GSM6249312	colon	CNTO1275UCO3001-100054	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100057 colon biopsy week 0	GSM6249313	colon	CNTO1275UCO3001-100057	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100058 colon biopsy week 0	GSM6249314	colon	CNTO1275UCO3001-100058	WEEK I-0	ulcerative colitis	Placebo IV	Y	N
+CNTO1275UCO3001-100059 colon biopsy week 0	GSM6249315	colon	CNTO1275UCO3001-100059	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100060 colon biopsy week 0	GSM6249316	colon	CNTO1275UCO3001-100060	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100062 colon biopsy week 0	GSM6249317	colon	CNTO1275UCO3001-100062	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100063 colon biopsy week 0	GSM6249318	colon	CNTO1275UCO3001-100063	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100064 colon biopsy week 0	GSM6249319	colon	CNTO1275UCO3001-100064	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100065 colon biopsy week 0	GSM6249320	colon	CNTO1275UCO3001-100065	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100068 colon biopsy week 0	GSM6249321	colon	CNTO1275UCO3001-100068	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100069 colon biopsy week 0	GSM6249322	colon	CNTO1275UCO3001-100069	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100074 colon biopsy week 0	GSM6249323	colon	CNTO1275UCO3001-100074	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100075 colon biopsy week 0	GSM6249324	colon	CNTO1275UCO3001-100075	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100076 colon biopsy week 0	GSM6249325	colon	CNTO1275UCO3001-100076	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100078 colon biopsy week 0	GSM6249326	colon	CNTO1275UCO3001-100078	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100080 colon biopsy week 0	GSM6249327	colon	CNTO1275UCO3001-100080	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100081 colon biopsy week 0	GSM6249328	colon	CNTO1275UCO3001-100081	WEEK I-0	ulcerative colitis	Placebo IV	Y	Y
+CNTO1275UCO3001-100082 colon biopsy week 0	GSM6249329	colon	CNTO1275UCO3001-100082	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100083 colon biopsy week 0	GSM6249330	colon	CNTO1275UCO3001-100083	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100084 colon biopsy week 0	GSM6249331	colon	CNTO1275UCO3001-100084	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100085 colon biopsy week 0	GSM6249332	colon	CNTO1275UCO3001-100085	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100087 colon biopsy week 0	GSM6249333	colon	CNTO1275UCO3001-100087	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100089 colon biopsy week 0	GSM6249334	colon	CNTO1275UCO3001-100089	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100091 colon biopsy week 0	GSM6249335	colon	CNTO1275UCO3001-100091	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100092 colon biopsy week 0	GSM6249336	colon	CNTO1275UCO3001-100092	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100095 colon biopsy week 0	GSM6249337	colon	CNTO1275UCO3001-100095	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100096 colon biopsy week 0	GSM6249338	colon	CNTO1275UCO3001-100096	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100097 colon biopsy week 0	GSM6249339	colon	CNTO1275UCO3001-100097	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100098 colon biopsy week 0	GSM6249340	colon	CNTO1275UCO3001-100098	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100100 colon biopsy week 0	GSM6249341	colon	CNTO1275UCO3001-100100	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	N
+CNTO1275UCO3001-100101 colon biopsy week 0	GSM6249342	colon	CNTO1275UCO3001-100101	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	Y	N
+CNTO1275UCO3001-100102 colon biopsy week 0	GSM6249343	colon	CNTO1275UCO3001-100102	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100103 colon biopsy week 0	GSM6249344	colon	CNTO1275UCO3001-100103	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100106 colon biopsy week 0	GSM6249345	colon	CNTO1275UCO3001-100106	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100108 colon biopsy week 0	GSM6249346	colon	CNTO1275UCO3001-100108	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100109 colon biopsy week 0	GSM6249347	colon	CNTO1275UCO3001-100109	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100110 colon biopsy week 0	GSM6249348	colon	CNTO1275UCO3001-100110	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100111 colon biopsy week 0	GSM6249349	colon	CNTO1275UCO3001-100111	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100112 colon biopsy week 0	GSM6249350	colon	CNTO1275UCO3001-100112	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100113 colon biopsy week 0	GSM6249351	colon	CNTO1275UCO3001-100113	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100114 colon biopsy week 0	GSM6249352	colon	CNTO1275UCO3001-100114	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100116 colon biopsy week 0	GSM6249353	colon	CNTO1275UCO3001-100116	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100118 colon biopsy week 0	GSM6249354	colon	CNTO1275UCO3001-100118	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100121 colon biopsy week 0	GSM6249355	colon	CNTO1275UCO3001-100121	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100122 colon biopsy week 0	GSM6249356	colon	CNTO1275UCO3001-100122	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100123 colon biopsy week 0	GSM6249357	colon	CNTO1275UCO3001-100123	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100124 colon biopsy week 0	GSM6249358	colon	CNTO1275UCO3001-100124	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100125 colon biopsy week 0	GSM6249359	colon	CNTO1275UCO3001-100125	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100126 colon biopsy week 0	GSM6249360	colon	CNTO1275UCO3001-100126	WEEK I-0	ulcerative colitis	Placebo IV	N	Y
+CNTO1275UCO3001-100127 colon biopsy week 0	GSM6249361	colon	CNTO1275UCO3001-100127	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100129 colon biopsy week 0	GSM6249362	colon	CNTO1275UCO3001-100129	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100130 colon biopsy week 0	GSM6249363	colon	CNTO1275UCO3001-100130	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100131 colon biopsy week 0	GSM6249364	colon	CNTO1275UCO3001-100131	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100132 colon biopsy week 0	GSM6249365	colon	CNTO1275UCO3001-100132	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100134 colon biopsy week 0	GSM6249366	colon	CNTO1275UCO3001-100134	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100135 colon biopsy week 0	GSM6249367	colon	CNTO1275UCO3001-100135	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100136 colon biopsy week 0	GSM6249368	colon	CNTO1275UCO3001-100136	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100137 colon biopsy week 0	GSM6249369	colon	CNTO1275UCO3001-100137	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100138 colon biopsy week 0	GSM6249370	colon	CNTO1275UCO3001-100138	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100139 colon biopsy week 0	GSM6249371	colon	CNTO1275UCO3001-100139	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100140 colon biopsy week 0	GSM6249372	colon	CNTO1275UCO3001-100140	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100141 colon biopsy week 0	GSM6249373	colon	CNTO1275UCO3001-100141	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100143 colon biopsy week 0	GSM6249374	colon	CNTO1275UCO3001-100143	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100144 colon biopsy week 0	GSM6249375	colon	CNTO1275UCO3001-100144	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100145 colon biopsy week 0	GSM6249376	colon	CNTO1275UCO3001-100145	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100146 colon biopsy week 0	GSM6249377	colon	CNTO1275UCO3001-100146	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100147 colon biopsy week 0	GSM6249378	colon	CNTO1275UCO3001-100147	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100148 colon biopsy week 0	GSM6249379	colon	CNTO1275UCO3001-100148	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100149 colon biopsy week 0	GSM6249380	colon	CNTO1275UCO3001-100149	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100150 colon biopsy week 0	GSM6249381	colon	CNTO1275UCO3001-100150	WEEK I-0	ulcerative colitis	Placebo IV	Y	N
+CNTO1275UCO3001-100151 colon biopsy week 0	GSM6249382	colon	CNTO1275UCO3001-100151	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100152 colon biopsy week 0	GSM6249383	colon	CNTO1275UCO3001-100152	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100154 colon biopsy week 0	GSM6249384	colon	CNTO1275UCO3001-100154	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100155 colon biopsy week 0	GSM6249385	colon	CNTO1275UCO3001-100155	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	Y	Y
+CNTO1275UCO3001-100156 colon biopsy week 0	GSM6249386	colon	CNTO1275UCO3001-100156	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100157 colon biopsy week 0	GSM6249387	colon	CNTO1275UCO3001-100157	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100160 colon biopsy week 0	GSM6249388	colon	CNTO1275UCO3001-100160	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100161 colon biopsy week 0	GSM6249389	colon	CNTO1275UCO3001-100161	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100162 colon biopsy week 0	GSM6249390	colon	CNTO1275UCO3001-100162	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	Y	Y
+CNTO1275UCO3001-100164 colon biopsy week 0	GSM6249391	colon	CNTO1275UCO3001-100164	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100165 colon biopsy week 0	GSM6249392	colon	CNTO1275UCO3001-100165	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	Y	Y
+CNTO1275UCO3001-100167 colon biopsy week 0	GSM6249393	colon	CNTO1275UCO3001-100167	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100168 colon biopsy week 0	GSM6249394	colon	CNTO1275UCO3001-100168	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100169 colon biopsy week 0	GSM6249395	colon	CNTO1275UCO3001-100169	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100170 colon biopsy week 0	GSM6249396	colon	CNTO1275UCO3001-100170	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100172 colon biopsy week 0	GSM6249397	colon	CNTO1275UCO3001-100172	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100174 colon biopsy week 0	GSM6249398	colon	CNTO1275UCO3001-100174	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100175 colon biopsy week 0	GSM6249399	colon	CNTO1275UCO3001-100175	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100176 colon biopsy week 0	GSM6249400	colon	CNTO1275UCO3001-100176	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100179 colon biopsy week 0	GSM6249401	colon	CNTO1275UCO3001-100179	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100180 colon biopsy week 0	GSM6249402	colon	CNTO1275UCO3001-100180	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100181 colon biopsy week 0	GSM6249403	colon	CNTO1275UCO3001-100181	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100182 colon biopsy week 0	GSM6249404	colon	CNTO1275UCO3001-100182	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100183 colon biopsy week 0	GSM6249405	colon	CNTO1275UCO3001-100183	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100184 colon biopsy week 0	GSM6249406	colon	CNTO1275UCO3001-100184	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100185 colon biopsy week 0	GSM6249407	colon	CNTO1275UCO3001-100185	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100186 colon biopsy week 0	GSM6249408	colon	CNTO1275UCO3001-100186	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100187 colon biopsy week 0	GSM6249409	colon	CNTO1275UCO3001-100187	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100189 colon biopsy week 0	GSM6249410	colon	CNTO1275UCO3001-100189	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	Y
+CNTO1275UCO3001-100191 colon biopsy week 0	GSM6249411	colon	CNTO1275UCO3001-100191	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100192 colon biopsy week 0	GSM6249412	colon	CNTO1275UCO3001-100192	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100194 colon biopsy week 0	GSM6249413	colon	CNTO1275UCO3001-100194	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100195 colon biopsy week 0	GSM6249414	colon	CNTO1275UCO3001-100195	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100197 colon biopsy week 0	GSM6249415	colon	CNTO1275UCO3001-100197	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100200 colon biopsy week 0	GSM6249416	colon	CNTO1275UCO3001-100200	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100201 colon biopsy week 0	GSM6249417	colon	CNTO1275UCO3001-100201	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100202 colon biopsy week 0	GSM6249418	colon	CNTO1275UCO3001-100202	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100203 colon biopsy week 0	GSM6249419	colon	CNTO1275UCO3001-100203	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100205 colon biopsy week 0	GSM6249420	colon	CNTO1275UCO3001-100205	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100206 colon biopsy week 0	GSM6249421	colon	CNTO1275UCO3001-100206	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100207 colon biopsy week 0	GSM6249422	colon	CNTO1275UCO3001-100207	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100208 colon biopsy week 0	GSM6249423	colon	CNTO1275UCO3001-100208	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100209 colon biopsy week 0	GSM6249424	colon	CNTO1275UCO3001-100209	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	N
+CNTO1275UCO3001-100210 colon biopsy week 0	GSM6249425	colon	CNTO1275UCO3001-100210	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100211 colon biopsy week 0	GSM6249426	colon	CNTO1275UCO3001-100211	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	N
+CNTO1275UCO3001-100212 colon biopsy week 0	GSM6249427	colon	CNTO1275UCO3001-100212	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100213 colon biopsy week 0	GSM6249428	colon	CNTO1275UCO3001-100213	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	N
+CNTO1275UCO3001-100215 colon biopsy week 0	GSM6249429	colon	CNTO1275UCO3001-100215	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100216 colon biopsy week 0	GSM6249430	colon	CNTO1275UCO3001-100216	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100218 colon biopsy week 0	GSM6249431	colon	CNTO1275UCO3001-100218	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100219 colon biopsy week 0	GSM6249432	colon	CNTO1275UCO3001-100219	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	Y	Y
+CNTO1275UCO3001-100220 colon biopsy week 0	GSM6249433	colon	CNTO1275UCO3001-100220	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100221 colon biopsy week 0	GSM6249434	colon	CNTO1275UCO3001-100221	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100224 colon biopsy week 0	GSM6249435	colon	CNTO1275UCO3001-100224	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100225 colon biopsy week 0	GSM6249436	colon	CNTO1275UCO3001-100225	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100226 colon biopsy week 0	GSM6249437	colon	CNTO1275UCO3001-100226	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100227 colon biopsy week 0	GSM6249438	colon	CNTO1275UCO3001-100227	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100228 colon biopsy week 0	GSM6249439	colon	CNTO1275UCO3001-100228	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100229 colon biopsy week 0	GSM6249440	colon	CNTO1275UCO3001-100229	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100230 colon biopsy week 0	GSM6249441	colon	CNTO1275UCO3001-100230	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	Y	Y
+CNTO1275UCO3001-100231 colon biopsy week 0	GSM6249442	colon	CNTO1275UCO3001-100231	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100232 colon biopsy week 0	GSM6249443	colon	CNTO1275UCO3001-100232	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100233 colon biopsy week 0	GSM6249444	colon	CNTO1275UCO3001-100233	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100236 colon biopsy week 0	GSM6249445	colon	CNTO1275UCO3001-100236	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100238 colon biopsy week 0	GSM6249446	colon	CNTO1275UCO3001-100238	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100239 colon biopsy week 0	GSM6249447	colon	CNTO1275UCO3001-100239	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100242 colon biopsy week 0	GSM6249448	colon	CNTO1275UCO3001-100242	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100246 colon biopsy week 0	GSM6249449	colon	CNTO1275UCO3001-100246	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100247 colon biopsy week 0	GSM6249450	colon	CNTO1275UCO3001-100247	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100248 colon biopsy week 0	GSM6249451	colon	CNTO1275UCO3001-100248	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100249 colon biopsy week 0	GSM6249452	colon	CNTO1275UCO3001-100249	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100253 colon biopsy week 0	GSM6249453	colon	CNTO1275UCO3001-100253	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100254 colon biopsy week 0	GSM6249454	colon	CNTO1275UCO3001-100254	WEEK I-0	ulcerative colitis	Placebo IV	Y	N
+CNTO1275UCO3001-100256 colon biopsy week 0	GSM6249455	colon	CNTO1275UCO3001-100256	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100259 colon biopsy week 0	GSM6249456	colon	CNTO1275UCO3001-100259	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	Y	N
+CNTO1275UCO3001-100260 colon biopsy week 0	GSM6249457	colon	CNTO1275UCO3001-100260	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100261 colon biopsy week 0	GSM6249458	colon	CNTO1275UCO3001-100261	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100262 colon biopsy week 0	GSM6249459	colon	CNTO1275UCO3001-100262	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100263 colon biopsy week 0	GSM6249460	colon	CNTO1275UCO3001-100263	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100264 colon biopsy week 0	GSM6249461	colon	CNTO1275UCO3001-100264	WEEK I-0	ulcerative colitis	Placebo IV	NA	N
+CNTO1275UCO3001-100265 colon biopsy week 0	GSM6249462	colon	CNTO1275UCO3001-100265	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100266 colon biopsy week 0	GSM6249463	colon	CNTO1275UCO3001-100266	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100267 colon biopsy week 0	GSM6249464	colon	CNTO1275UCO3001-100267	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100271 colon biopsy week 0	GSM6249465	colon	CNTO1275UCO3001-100271	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	Y
+CNTO1275UCO3001-100273 colon biopsy week 0	GSM6249466	colon	CNTO1275UCO3001-100273	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100274 colon biopsy week 0	GSM6249467	colon	CNTO1275UCO3001-100274	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100276 colon biopsy week 0	GSM6249468	colon	CNTO1275UCO3001-100276	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100279 colon biopsy week 0	GSM6249469	colon	CNTO1275UCO3001-100279	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100280 colon biopsy week 0	GSM6249470	colon	CNTO1275UCO3001-100280	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100281 colon biopsy week 0	GSM6249471	colon	CNTO1275UCO3001-100281	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100282 colon biopsy week 0	GSM6249472	colon	CNTO1275UCO3001-100282	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100283 colon biopsy week 0	GSM6249473	colon	CNTO1275UCO3001-100283	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100284 colon biopsy week 0	GSM6249474	colon	CNTO1275UCO3001-100284	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100285 colon biopsy week 0	GSM6249475	colon	CNTO1275UCO3001-100285	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100287 colon biopsy week 0	GSM6249476	colon	CNTO1275UCO3001-100287	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100288 colon biopsy week 0	GSM6249477	colon	CNTO1275UCO3001-100288	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100289 colon biopsy week 0	GSM6249478	colon	CNTO1275UCO3001-100289	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100290 colon biopsy week 0	GSM6249479	colon	CNTO1275UCO3001-100290	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100291 colon biopsy week 0	GSM6249480	colon	CNTO1275UCO3001-100291	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100293 colon biopsy week 0	GSM6249481	colon	CNTO1275UCO3001-100293	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100294 colon biopsy week 0	GSM6249482	colon	CNTO1275UCO3001-100294	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	Y	Y
+CNTO1275UCO3001-100296 colon biopsy week 0	GSM6249483	colon	CNTO1275UCO3001-100296	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	Y	Y
+CNTO1275UCO3001-100299 colon biopsy week 0	GSM6249484	colon	CNTO1275UCO3001-100299	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	Y	Y
+CNTO1275UCO3001-100302 colon biopsy week 0	GSM6249485	colon	CNTO1275UCO3001-100302	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100303 colon biopsy week 0	GSM6249486	colon	CNTO1275UCO3001-100303	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100304 colon biopsy week 0	GSM6249487	colon	CNTO1275UCO3001-100304	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100305 colon biopsy week 0	GSM6249488	colon	CNTO1275UCO3001-100305	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100306 colon biopsy week 0	GSM6249489	colon	CNTO1275UCO3001-100306	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100308 colon biopsy week 0	GSM6249490	colon	CNTO1275UCO3001-100308	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100309 colon biopsy week 0	GSM6249491	colon	CNTO1275UCO3001-100309	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100311 colon biopsy week 0	GSM6249492	colon	CNTO1275UCO3001-100311	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100312 colon biopsy week 0	GSM6249493	colon	CNTO1275UCO3001-100312	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100313 colon biopsy week 0	GSM6249494	colon	CNTO1275UCO3001-100313	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100314 colon biopsy week 0	GSM6249495	colon	CNTO1275UCO3001-100314	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100315 colon biopsy week 0	GSM6249496	colon	CNTO1275UCO3001-100315	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100316 colon biopsy week 0	GSM6249497	colon	CNTO1275UCO3001-100316	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100318 colon biopsy week 0	GSM6249498	colon	CNTO1275UCO3001-100318	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	Y	Y
+CNTO1275UCO3001-100319 colon biopsy week 0	GSM6249499	colon	CNTO1275UCO3001-100319	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100321 colon biopsy week 0	GSM6249500	colon	CNTO1275UCO3001-100321	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100323 colon biopsy week 0	GSM6249501	colon	CNTO1275UCO3001-100323	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	N
+CNTO1275UCO3001-100324 colon biopsy week 0	GSM6249502	colon	CNTO1275UCO3001-100324	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100326 colon biopsy week 0	GSM6249503	colon	CNTO1275UCO3001-100326	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100327 colon biopsy week 0	GSM6249504	colon	CNTO1275UCO3001-100327	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100328 colon biopsy week 0	GSM6249505	colon	CNTO1275UCO3001-100328	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100329 colon biopsy week 0	GSM6249506	colon	CNTO1275UCO3001-100329	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100330 colon biopsy week 0	GSM6249507	colon	CNTO1275UCO3001-100330	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100331 colon biopsy week 0	GSM6249508	colon	CNTO1275UCO3001-100331	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100333 colon biopsy week 0	GSM6249509	colon	CNTO1275UCO3001-100333	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	Y	Y
+CNTO1275UCO3001-100335 colon biopsy week 0	GSM6249510	colon	CNTO1275UCO3001-100335	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100336 colon biopsy week 0	GSM6249511	colon	CNTO1275UCO3001-100336	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100337 colon biopsy week 0	GSM6249512	colon	CNTO1275UCO3001-100337	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100338 colon biopsy week 0	GSM6249513	colon	CNTO1275UCO3001-100338	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	Y	Y
+CNTO1275UCO3001-100339 colon biopsy week 0	GSM6249514	colon	CNTO1275UCO3001-100339	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100340 colon biopsy week 0	GSM6249515	colon	CNTO1275UCO3001-100340	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100341 colon biopsy week 0	GSM6249516	colon	CNTO1275UCO3001-100341	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100342 colon biopsy week 0	GSM6249517	colon	CNTO1275UCO3001-100342	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100343 colon biopsy week 0	GSM6249518	colon	CNTO1275UCO3001-100343	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100344 colon biopsy week 0	GSM6249519	colon	CNTO1275UCO3001-100344	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	N
+CNTO1275UCO3001-100345 colon biopsy week 0	GSM6249520	colon	CNTO1275UCO3001-100345	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100346 colon biopsy week 0	GSM6249521	colon	CNTO1275UCO3001-100346	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100349 colon biopsy week 0	GSM6249522	colon	CNTO1275UCO3001-100349	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100351 colon biopsy week 0	GSM6249523	colon	CNTO1275UCO3001-100351	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100352 colon biopsy week 0	GSM6249524	colon	CNTO1275UCO3001-100352	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100353 colon biopsy week 0	GSM6249525	colon	CNTO1275UCO3001-100353	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100354 colon biopsy week 0	GSM6249526	colon	CNTO1275UCO3001-100354	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100355 colon biopsy week 0	GSM6249527	colon	CNTO1275UCO3001-100355	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100356 colon biopsy week 0	GSM6249528	colon	CNTO1275UCO3001-100356	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100357 colon biopsy week 0	GSM6249529	colon	CNTO1275UCO3001-100357	WEEK I-0	ulcerative colitis	Placebo IV	Y	N
+CNTO1275UCO3001-100360 colon biopsy week 0	GSM6249530	colon	CNTO1275UCO3001-100360	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100362 colon biopsy week 0	GSM6249531	colon	CNTO1275UCO3001-100362	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100363 colon biopsy week 0	GSM6249532	colon	CNTO1275UCO3001-100363	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100365 colon biopsy week 0	GSM6249533	colon	CNTO1275UCO3001-100365	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100366 colon biopsy week 0	GSM6249534	colon	CNTO1275UCO3001-100366	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100367 colon biopsy week 0	GSM6249535	colon	CNTO1275UCO3001-100367	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100368 colon biopsy week 0	GSM6249536	colon	CNTO1275UCO3001-100368	WEEK I-0	ulcerative colitis	Placebo IV	Y	N
+CNTO1275UCO3001-100369 colon biopsy week 0	GSM6249537	colon	CNTO1275UCO3001-100369	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100370 colon biopsy week 0	GSM6249538	colon	CNTO1275UCO3001-100370	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100371 colon biopsy week 0	GSM6249539	colon	CNTO1275UCO3001-100371	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100372 colon biopsy week 0	GSM6249540	colon	CNTO1275UCO3001-100372	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100373 colon biopsy week 0	GSM6249541	colon	CNTO1275UCO3001-100373	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100375 colon biopsy week 0	GSM6249542	colon	CNTO1275UCO3001-100375	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100376 colon biopsy week 0	GSM6249543	colon	CNTO1275UCO3001-100376	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100377 colon biopsy week 0	GSM6249544	colon	CNTO1275UCO3001-100377	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100378 colon biopsy week 0	GSM6249545	colon	CNTO1275UCO3001-100378	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100379 colon biopsy week 0	GSM6249546	colon	CNTO1275UCO3001-100379	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100380 colon biopsy week 0	GSM6249547	colon	CNTO1275UCO3001-100380	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100381 colon biopsy week 0	GSM6249548	colon	CNTO1275UCO3001-100381	WEEK I-0	ulcerative colitis	Placebo IV	Y	N
+CNTO1275UCO3001-100385 colon biopsy week 0	GSM6249549	colon	CNTO1275UCO3001-100385	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100387 colon biopsy week 0	GSM6249550	colon	CNTO1275UCO3001-100387	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100388 colon biopsy week 0	GSM6249551	colon	CNTO1275UCO3001-100388	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100391 colon biopsy week 0	GSM6249552	colon	CNTO1275UCO3001-100391	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100393 colon biopsy week 0	GSM6249553	colon	CNTO1275UCO3001-100393	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100394 colon biopsy week 0	GSM6249554	colon	CNTO1275UCO3001-100394	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100395 colon biopsy week 0	GSM6249555	colon	CNTO1275UCO3001-100395	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100396 colon biopsy week 0	GSM6249556	colon	CNTO1275UCO3001-100396	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100397 colon biopsy week 0	GSM6249557	colon	CNTO1275UCO3001-100397	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	NA	Y
+CNTO1275UCO3001-100398 colon biopsy week 0	GSM6249558	colon	CNTO1275UCO3001-100398	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100399 colon biopsy week 0	GSM6249559	colon	CNTO1275UCO3001-100399	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100403 colon biopsy week 0	GSM6249560	colon	CNTO1275UCO3001-100403	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100404 colon biopsy week 0	GSM6249561	colon	CNTO1275UCO3001-100404	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100406 colon biopsy week 0	GSM6249562	colon	CNTO1275UCO3001-100406	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100408 colon biopsy week 0	GSM6249563	colon	CNTO1275UCO3001-100408	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100409 colon biopsy week 0	GSM6249564	colon	CNTO1275UCO3001-100409	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100410 colon biopsy week 0	GSM6249565	colon	CNTO1275UCO3001-100410	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100411 colon biopsy week 0	GSM6249566	colon	CNTO1275UCO3001-100411	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100412 colon biopsy week 0	GSM6249567	colon	CNTO1275UCO3001-100412	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100413 colon biopsy week 0	GSM6249568	colon	CNTO1275UCO3001-100413	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100414 colon biopsy week 0	GSM6249569	colon	CNTO1275UCO3001-100414	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100415 colon biopsy week 0	GSM6249570	colon	CNTO1275UCO3001-100415	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	NA	N
+CNTO1275UCO3001-100416 colon biopsy week 0	GSM6249571	colon	CNTO1275UCO3001-100416	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100417 colon biopsy week 0	GSM6249572	colon	CNTO1275UCO3001-100417	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100418 colon biopsy week 0	GSM6249573	colon	CNTO1275UCO3001-100418	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100419 colon biopsy week 0	GSM6249574	colon	CNTO1275UCO3001-100419	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100420 colon biopsy week 0	GSM6249575	colon	CNTO1275UCO3001-100420	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100421 colon biopsy week 0	GSM6249576	colon	CNTO1275UCO3001-100421	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100423 colon biopsy week 0	GSM6249577	colon	CNTO1275UCO3001-100423	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100425 colon biopsy week 0	GSM6249578	colon	CNTO1275UCO3001-100425	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100426 colon biopsy week 0	GSM6249579	colon	CNTO1275UCO3001-100426	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100427 colon biopsy week 0	GSM6249580	colon	CNTO1275UCO3001-100427	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100429 colon biopsy week 0	GSM6249581	colon	CNTO1275UCO3001-100429	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100430 colon biopsy week 0	GSM6249582	colon	CNTO1275UCO3001-100430	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100431 colon biopsy week 0	GSM6249583	colon	CNTO1275UCO3001-100431	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100433 colon biopsy week 0	GSM6249584	colon	CNTO1275UCO3001-100433	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100435 colon biopsy week 0	GSM6249585	colon	CNTO1275UCO3001-100435	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100436 colon biopsy week 0	GSM6249586	colon	CNTO1275UCO3001-100436	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100437 colon biopsy week 0	GSM6249587	colon	CNTO1275UCO3001-100437	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100438 colon biopsy week 0	GSM6249588	colon	CNTO1275UCO3001-100438	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100441 colon biopsy week 0	GSM6249589	colon	CNTO1275UCO3001-100441	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100443 colon biopsy week 0	GSM6249590	colon	CNTO1275UCO3001-100443	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100444 colon biopsy week 0	GSM6249591	colon	CNTO1275UCO3001-100444	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100445 colon biopsy week 0	GSM6249592	colon	CNTO1275UCO3001-100445	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100446 colon biopsy week 0	GSM6249593	colon	CNTO1275UCO3001-100446	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100447 colon biopsy week 0	GSM6249594	colon	CNTO1275UCO3001-100447	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100448 colon biopsy week 0	GSM6249595	colon	CNTO1275UCO3001-100448	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100449 colon biopsy week 0	GSM6249596	colon	CNTO1275UCO3001-100449	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100450 colon biopsy week 0	GSM6249597	colon	CNTO1275UCO3001-100450	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100451 colon biopsy week 0	GSM6249598	colon	CNTO1275UCO3001-100451	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100452 colon biopsy week 0	GSM6249599	colon	CNTO1275UCO3001-100452	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100453 colon biopsy week 0	GSM6249600	colon	CNTO1275UCO3001-100453	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100454 colon biopsy week 0	GSM6249601	colon	CNTO1275UCO3001-100454	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	Y	N
+CNTO1275UCO3001-100455 colon biopsy week 0	GSM6249602	colon	CNTO1275UCO3001-100455	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100457 colon biopsy week 0	GSM6249603	colon	CNTO1275UCO3001-100457	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	Y
+CNTO1275UCO3001-100460 colon biopsy week 0	GSM6249604	colon	CNTO1275UCO3001-100460	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100461 colon biopsy week 0	GSM6249605	colon	CNTO1275UCO3001-100461	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100462 colon biopsy week 0	GSM6249606	colon	CNTO1275UCO3001-100462	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100463 colon biopsy week 0	GSM6249607	colon	CNTO1275UCO3001-100463	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100465 colon biopsy week 0	GSM6249608	colon	CNTO1275UCO3001-100465	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100467 colon biopsy week 0	GSM6249609	colon	CNTO1275UCO3001-100467	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100468 colon biopsy week 0	GSM6249610	colon	CNTO1275UCO3001-100468	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100472 colon biopsy week 0	GSM6249611	colon	CNTO1275UCO3001-100472	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100473 colon biopsy week 0	GSM6249612	colon	CNTO1275UCO3001-100473	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100479 colon biopsy week 0	GSM6249613	colon	CNTO1275UCO3001-100479	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100480 colon biopsy week 0	GSM6249614	colon	CNTO1275UCO3001-100480	WEEK I-0	ulcerative colitis	Placebo IV	N	Y
+CNTO1275UCO3001-100483 colon biopsy week 0	GSM6249615	colon	CNTO1275UCO3001-100483	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100486 colon biopsy week 0	GSM6249616	colon	CNTO1275UCO3001-100486	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100488 colon biopsy week 0	GSM6249617	colon	CNTO1275UCO3001-100488	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100493 colon biopsy week 0	GSM6249618	colon	CNTO1275UCO3001-100493	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100494 colon biopsy week 0	GSM6249619	colon	CNTO1275UCO3001-100494	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100495 colon biopsy week 0	GSM6249620	colon	CNTO1275UCO3001-100495	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100496 colon biopsy week 0	GSM6249621	colon	CNTO1275UCO3001-100496	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100497 colon biopsy week 0	GSM6249622	colon	CNTO1275UCO3001-100497	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100499 colon biopsy week 0	GSM6249623	colon	CNTO1275UCO3001-100499	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100501 colon biopsy week 0	GSM6249624	colon	CNTO1275UCO3001-100501	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100502 colon biopsy week 0	GSM6249625	colon	CNTO1275UCO3001-100502	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100506 colon biopsy week 0	GSM6249626	colon	CNTO1275UCO3001-100506	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100507 colon biopsy week 0	GSM6249627	colon	CNTO1275UCO3001-100507	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100508 colon biopsy week 0	GSM6249628	colon	CNTO1275UCO3001-100508	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100509 colon biopsy week 0	GSM6249629	colon	CNTO1275UCO3001-100509	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100511 colon biopsy week 0	GSM6249630	colon	CNTO1275UCO3001-100511	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100512 colon biopsy week 0	GSM6249631	colon	CNTO1275UCO3001-100512	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100513 colon biopsy week 0	GSM6249632	colon	CNTO1275UCO3001-100513	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100514 colon biopsy week 0	GSM6249633	colon	CNTO1275UCO3001-100514	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100515 colon biopsy week 0	GSM6249634	colon	CNTO1275UCO3001-100515	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100516 colon biopsy week 0	GSM6249635	colon	CNTO1275UCO3001-100516	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100517 colon biopsy week 0	GSM6249636	colon	CNTO1275UCO3001-100517	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	N
+CNTO1275UCO3001-100518 colon biopsy week 0	GSM6249637	colon	CNTO1275UCO3001-100518	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100521 colon biopsy week 0	GSM6249638	colon	CNTO1275UCO3001-100521	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100522 colon biopsy week 0	GSM6249639	colon	CNTO1275UCO3001-100522	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100525 colon biopsy week 0	GSM6249640	colon	CNTO1275UCO3001-100525	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100527 colon biopsy week 0	GSM6249641	colon	CNTO1275UCO3001-100527	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100528 colon biopsy week 0	GSM6249642	colon	CNTO1275UCO3001-100528	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100531 colon biopsy week 0	GSM6249643	colon	CNTO1275UCO3001-100531	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100532 colon biopsy week 0	GSM6249644	colon	CNTO1275UCO3001-100532	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100533 colon biopsy week 0	GSM6249645	colon	CNTO1275UCO3001-100533	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100534 colon biopsy week 0	GSM6249646	colon	CNTO1275UCO3001-100534	WEEK I-0	ulcerative colitis	Placebo IV	Y	Y
+CNTO1275UCO3001-100537 colon biopsy week 0	GSM6249647	colon	CNTO1275UCO3001-100537	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	N
+CNTO1275UCO3001-100538 colon biopsy week 0	GSM6249648	colon	CNTO1275UCO3001-100538	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100539 colon biopsy week 0	GSM6249649	colon	CNTO1275UCO3001-100539	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100540 colon biopsy week 0	GSM6249650	colon	CNTO1275UCO3001-100540	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100541 colon biopsy week 0	GSM6249651	colon	CNTO1275UCO3001-100541	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100543 colon biopsy week 0	GSM6249652	colon	CNTO1275UCO3001-100543	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100544 colon biopsy week 0	GSM6249653	colon	CNTO1275UCO3001-100544	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100545 colon biopsy week 0	GSM6249654	colon	CNTO1275UCO3001-100545	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100546 colon biopsy week 0	GSM6249655	colon	CNTO1275UCO3001-100546	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100548 colon biopsy week 0	GSM6249656	colon	CNTO1275UCO3001-100548	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	N
+CNTO1275UCO3001-100549 colon biopsy week 0	GSM6249657	colon	CNTO1275UCO3001-100549	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100553 colon biopsy week 0	GSM6249658	colon	CNTO1275UCO3001-100553	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100554 colon biopsy week 0	GSM6249659	colon	CNTO1275UCO3001-100554	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100555 colon biopsy week 0	GSM6249660	colon	CNTO1275UCO3001-100555	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	Y	Y
+CNTO1275UCO3001-100556 colon biopsy week 0	GSM6249661	colon	CNTO1275UCO3001-100556	WEEK I-0	ulcerative colitis	Placebo IV	Y	N
+CNTO1275UCO3001-100559 colon biopsy week 0	GSM6249662	colon	CNTO1275UCO3001-100559	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100563 colon biopsy week 0	GSM6249663	colon	CNTO1275UCO3001-100563	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100565 colon biopsy week 0	GSM6249664	colon	CNTO1275UCO3001-100565	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100566 colon biopsy week 0	GSM6249665	colon	CNTO1275UCO3001-100566	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100568 colon biopsy week 0	GSM6249666	colon	CNTO1275UCO3001-100568	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100571 colon biopsy week 0	GSM6249667	colon	CNTO1275UCO3001-100571	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100572 colon biopsy week 0	GSM6249668	colon	CNTO1275UCO3001-100572	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100573 colon biopsy week 0	GSM6249669	colon	CNTO1275UCO3001-100573	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100574 colon biopsy week 0	GSM6249670	colon	CNTO1275UCO3001-100574	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100578 colon biopsy week 0	GSM6249671	colon	CNTO1275UCO3001-100578	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100579 colon biopsy week 0	GSM6249672	colon	CNTO1275UCO3001-100579	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100582 colon biopsy week 0	GSM6249673	colon	CNTO1275UCO3001-100582	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100583 colon biopsy week 0	GSM6249674	colon	CNTO1275UCO3001-100583	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100584 colon biopsy week 0	GSM6249675	colon	CNTO1275UCO3001-100584	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100585 colon biopsy week 0	GSM6249676	colon	CNTO1275UCO3001-100585	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	Y	Y
+CNTO1275UCO3001-100592 colon biopsy week 0	GSM6249677	colon	CNTO1275UCO3001-100592	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100593 colon biopsy week 0	GSM6249678	colon	CNTO1275UCO3001-100593	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100594 colon biopsy week 0	GSM6249679	colon	CNTO1275UCO3001-100594	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100595 colon biopsy week 0	GSM6249680	colon	CNTO1275UCO3001-100595	WEEK I-0	ulcerative colitis	Placebo IV	N	Y
+CNTO1275UCO3001-100596 colon biopsy week 0	GSM6249681	colon	CNTO1275UCO3001-100596	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100597 colon biopsy week 0	GSM6249682	colon	CNTO1275UCO3001-100597	WEEK I-0	ulcerative colitis	Placebo IV	Y	Y
+CNTO1275UCO3001-100598 colon biopsy week 0	GSM6249683	colon	CNTO1275UCO3001-100598	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100603 colon biopsy week 0	GSM6249684	colon	CNTO1275UCO3001-100603	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100604 colon biopsy week 0	GSM6249685	colon	CNTO1275UCO3001-100604	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100605 colon biopsy week 0	GSM6249686	colon	CNTO1275UCO3001-100605	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100607 colon biopsy week 0	GSM6249687	colon	CNTO1275UCO3001-100607	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100608 colon biopsy week 0	GSM6249688	colon	CNTO1275UCO3001-100608	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100609 colon biopsy week 0	GSM6249689	colon	CNTO1275UCO3001-100609	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100610 colon biopsy week 0	GSM6249690	colon	CNTO1275UCO3001-100610	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100612 colon biopsy week 0	GSM6249691	colon	CNTO1275UCO3001-100612	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100615 colon biopsy week 0	GSM6249692	colon	CNTO1275UCO3001-100615	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	Y
+CNTO1275UCO3001-100616 colon biopsy week 0	GSM6249693	colon	CNTO1275UCO3001-100616	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	Y	Y
+CNTO1275UCO3001-100617 colon biopsy week 0	GSM6249694	colon	CNTO1275UCO3001-100617	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100622 colon biopsy week 0	GSM6249695	colon	CNTO1275UCO3001-100622	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100623 colon biopsy week 0	GSM6249696	colon	CNTO1275UCO3001-100623	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100624 colon biopsy week 0	GSM6249697	colon	CNTO1275UCO3001-100624	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100625 colon biopsy week 0	GSM6249698	colon	CNTO1275UCO3001-100625	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100627 colon biopsy week 0	GSM6249699	colon	CNTO1275UCO3001-100627	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100630 colon biopsy week 0	GSM6249700	colon	CNTO1275UCO3001-100630	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100631 colon biopsy week 0	GSM6249701	colon	CNTO1275UCO3001-100631	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100632 colon biopsy week 0	GSM6249702	colon	CNTO1275UCO3001-100632	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100633 colon biopsy week 0	GSM6249703	colon	CNTO1275UCO3001-100633	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100635 colon biopsy week 0	GSM6249704	colon	CNTO1275UCO3001-100635	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100636 colon biopsy week 0	GSM6249705	colon	CNTO1275UCO3001-100636	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100637 colon biopsy week 0	GSM6249706	colon	CNTO1275UCO3001-100637	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100638 colon biopsy week 0	GSM6249707	colon	CNTO1275UCO3001-100638	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100639 colon biopsy week 0	GSM6249708	colon	CNTO1275UCO3001-100639	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100640 colon biopsy week 0	GSM6249709	colon	CNTO1275UCO3001-100640	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100641 colon biopsy week 0	GSM6249710	colon	CNTO1275UCO3001-100641	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100643 colon biopsy week 0	GSM6249711	colon	CNTO1275UCO3001-100643	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100644 colon biopsy week 0	GSM6249712	colon	CNTO1275UCO3001-100644	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	NA	Y
+CNTO1275UCO3001-100646 colon biopsy week 0	GSM6249713	colon	CNTO1275UCO3001-100646	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	Y	Y
+CNTO1275UCO3001-100648 colon biopsy week 0	GSM6249714	colon	CNTO1275UCO3001-100648	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	NA	N
+CNTO1275UCO3001-100650 colon biopsy week 0	GSM6249715	colon	CNTO1275UCO3001-100650	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100651 colon biopsy week 0	GSM6249716	colon	CNTO1275UCO3001-100651	WEEK I-0	ulcerative colitis	Placebo IV	Y	N
+CNTO1275UCO3001-100652 colon biopsy week 0	GSM6249717	colon	CNTO1275UCO3001-100652	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100654 colon biopsy week 0	GSM6249718	colon	CNTO1275UCO3001-100654	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100657 colon biopsy week 0	GSM6249719	colon	CNTO1275UCO3001-100657	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100658 colon biopsy week 0	GSM6249720	colon	CNTO1275UCO3001-100658	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100660 colon biopsy week 0	GSM6249721	colon	CNTO1275UCO3001-100660	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100662 colon biopsy week 0	GSM6249722	colon	CNTO1275UCO3001-100662	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100663 colon biopsy week 0	GSM6249723	colon	CNTO1275UCO3001-100663	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100664 colon biopsy week 0	GSM6249724	colon	CNTO1275UCO3001-100664	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100665 colon biopsy week 0	GSM6249725	colon	CNTO1275UCO3001-100665	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100671 colon biopsy week 0	GSM6249726	colon	CNTO1275UCO3001-100671	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	Y	N
+CNTO1275UCO3001-100672 colon biopsy week 0	GSM6249727	colon	CNTO1275UCO3001-100672	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100673 colon biopsy week 0	GSM6249728	colon	CNTO1275UCO3001-100673	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100678 colon biopsy week 0	GSM6249729	colon	CNTO1275UCO3001-100678	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100679 colon biopsy week 0	GSM6249730	colon	CNTO1275UCO3001-100679	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100680 colon biopsy week 0	GSM6249731	colon	CNTO1275UCO3001-100680	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100682 colon biopsy week 0	GSM6249732	colon	CNTO1275UCO3001-100682	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100685 colon biopsy week 0	GSM6249733	colon	CNTO1275UCO3001-100685	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100686 colon biopsy week 0	GSM6249734	colon	CNTO1275UCO3001-100686	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100688 colon biopsy week 0	GSM6249735	colon	CNTO1275UCO3001-100688	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100690 colon biopsy week 0	GSM6249736	colon	CNTO1275UCO3001-100690	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100694 colon biopsy week 0	GSM6249737	colon	CNTO1275UCO3001-100694	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100696 colon biopsy week 0	GSM6249738	colon	CNTO1275UCO3001-100696	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100698 colon biopsy week 0	GSM6249739	colon	CNTO1275UCO3001-100698	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100699 colon biopsy week 0	GSM6249740	colon	CNTO1275UCO3001-100699	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100700 colon biopsy week 0	GSM6249741	colon	CNTO1275UCO3001-100700	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100701 colon biopsy week 0	GSM6249742	colon	CNTO1275UCO3001-100701	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100702 colon biopsy week 0	GSM6249743	colon	CNTO1275UCO3001-100702	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100703 colon biopsy week 0	GSM6249744	colon	CNTO1275UCO3001-100703	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100704 colon biopsy week 0	GSM6249745	colon	CNTO1275UCO3001-100704	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100705 colon biopsy week 0	GSM6249746	colon	CNTO1275UCO3001-100705	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100707 colon biopsy week 0	GSM6249747	colon	CNTO1275UCO3001-100707	WEEK I-0	ulcerative colitis	Placebo IV	Y	N
+CNTO1275UCO3001-100710 colon biopsy week 0	GSM6249748	colon	CNTO1275UCO3001-100710	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100714 colon biopsy week 0	GSM6249749	colon	CNTO1275UCO3001-100714	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100715 colon biopsy week 0	GSM6249750	colon	CNTO1275UCO3001-100715	WEEK I-0	ulcerative colitis	Placebo IV	Y	Y
+CNTO1275UCO3001-100716 colon biopsy week 0	GSM6249751	colon	CNTO1275UCO3001-100716	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100718 colon biopsy week 0	GSM6249752	colon	CNTO1275UCO3001-100718	WEEK I-0	ulcerative colitis	Placebo IV	Y	N
+CNTO1275UCO3001-100738 colon biopsy week 0	GSM6249753	colon	CNTO1275UCO3001-100738	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100739 colon biopsy week 0	GSM6249754	colon	CNTO1275UCO3001-100739	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100741 colon biopsy week 0	GSM6249755	colon	CNTO1275UCO3001-100741	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100745 colon biopsy week 0	GSM6249756	colon	CNTO1275UCO3001-100745	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100747 colon biopsy week 0	GSM6249757	colon	CNTO1275UCO3001-100747	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	Y	Y
+CNTO1275UCO3001-100748 colon biopsy week 0	GSM6249758	colon	CNTO1275UCO3001-100748	WEEK I-0	ulcerative colitis	Placebo IV	Y	N
+CNTO1275UCO3001-100755 colon biopsy week 0	GSM6249759	colon	CNTO1275UCO3001-100755	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100756 colon biopsy week 0	GSM6249760	colon	CNTO1275UCO3001-100756	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100757 colon biopsy week 0	GSM6249761	colon	CNTO1275UCO3001-100757	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	NA	Y
+CNTO1275UCO3001-100758 colon biopsy week 0	GSM6249762	colon	CNTO1275UCO3001-100758	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100759 colon biopsy week 0	GSM6249763	colon	CNTO1275UCO3001-100759	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	Y	N
+CNTO1275UCO3001-100762 colon biopsy week 0	GSM6249764	colon	CNTO1275UCO3001-100762	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100767 colon biopsy week 0	GSM6249765	colon	CNTO1275UCO3001-100767	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	Y	Y
+CNTO1275UCO3001-100769 colon biopsy week 0	GSM6249766	colon	CNTO1275UCO3001-100769	WEEK I-0	ulcerative colitis	Placebo IV	Y	N
+CNTO1275UCO3001-100773 colon biopsy week 0	GSM6249767	colon	CNTO1275UCO3001-100773	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100777 colon biopsy week 0	GSM6249768	colon	CNTO1275UCO3001-100777	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100778 colon biopsy week 0	GSM6249769	colon	CNTO1275UCO3001-100778	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100779 colon biopsy week 0	GSM6249770	colon	CNTO1275UCO3001-100779	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100792 colon biopsy week 0	GSM6249771	colon	CNTO1275UCO3001-100792	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100794 colon biopsy week 0	GSM6249772	colon	CNTO1275UCO3001-100794	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100795 colon biopsy week 0	GSM6249773	colon	CNTO1275UCO3001-100795	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100798 colon biopsy week 0	GSM6249774	colon	CNTO1275UCO3001-100798	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100804 colon biopsy week 0	GSM6249775	colon	CNTO1275UCO3001-100804	WEEK I-0	ulcerative colitis	Placebo IV	Y	N
+CNTO1275UCO3001-100805 colon biopsy week 0	GSM6249776	colon	CNTO1275UCO3001-100805	WEEK I-0	ulcerative colitis	Placebo IV	Y	Y
+CNTO1275UCO3001-100806 colon biopsy week 0	GSM6249777	colon	CNTO1275UCO3001-100806	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100807 colon biopsy week 0	GSM6249778	colon	CNTO1275UCO3001-100807	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100811 colon biopsy week 0	GSM6249779	colon	CNTO1275UCO3001-100811	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100815 colon biopsy week 0	GSM6249780	colon	CNTO1275UCO3001-100815	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100816 colon biopsy week 0	GSM6249781	colon	CNTO1275UCO3001-100816	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100823 colon biopsy week 0	GSM6249782	colon	CNTO1275UCO3001-100823	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100831 colon biopsy week 0	GSM6249783	colon	CNTO1275UCO3001-100831	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100839 colon biopsy week 0	GSM6249784	colon	CNTO1275UCO3001-100839	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100840 colon biopsy week 0	GSM6249785	colon	CNTO1275UCO3001-100840	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100846 colon biopsy week 0	GSM6249786	colon	CNTO1275UCO3001-100846	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100847 colon biopsy week 0	GSM6249787	colon	CNTO1275UCO3001-100847	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100852 colon biopsy week 0	GSM6249788	colon	CNTO1275UCO3001-100852	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	N
+CNTO1275UCO3001-100854 colon biopsy week 0	GSM6249789	colon	CNTO1275UCO3001-100854	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100855 colon biopsy week 0	GSM6249790	colon	CNTO1275UCO3001-100855	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100856 colon biopsy week 0	GSM6249791	colon	CNTO1275UCO3001-100856	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100857 colon biopsy week 0	GSM6249792	colon	CNTO1275UCO3001-100857	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100866 colon biopsy week 0	GSM6249793	colon	CNTO1275UCO3001-100866	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100870 colon biopsy week 0	GSM6249794	colon	CNTO1275UCO3001-100870	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100871 colon biopsy week 0	GSM6249795	colon	CNTO1275UCO3001-100871	WEEK I-0	ulcerative colitis	Placebo IV	Y	N
+CNTO1275UCO3001-100875 colon biopsy week 0	GSM6249796	colon	CNTO1275UCO3001-100875	WEEK I-0	ulcerative colitis	Placebo IV	Y	Y
+CNTO1275UCO3001-100876 colon biopsy week 0	GSM6249797	colon	CNTO1275UCO3001-100876	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100881 colon biopsy week 0	GSM6249798	colon	CNTO1275UCO3001-100881	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	Y
+CNTO1275UCO3001-100882 colon biopsy week 0	GSM6249799	colon	CNTO1275UCO3001-100882	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100885 colon biopsy week 0	GSM6249800	colon	CNTO1275UCO3001-100885	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100886 colon biopsy week 0	GSM6249801	colon	CNTO1275UCO3001-100886	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100891 colon biopsy week 0	GSM6249802	colon	CNTO1275UCO3001-100891	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100894 colon biopsy week 0	GSM6249803	colon	CNTO1275UCO3001-100894	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100895 colon biopsy week 0	GSM6249804	colon	CNTO1275UCO3001-100895	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100898 colon biopsy week 0	GSM6249805	colon	CNTO1275UCO3001-100898	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100899 colon biopsy week 0	GSM6249806	colon	CNTO1275UCO3001-100899	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (390 mg)	N	N
+CNTO1275UCO3001-100902 colon biopsy week 0	GSM6249807	colon	CNTO1275UCO3001-100902	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100904 colon biopsy week 0	GSM6249808	colon	CNTO1275UCO3001-100904	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100906 colon biopsy week 0	GSM6249809	colon	CNTO1275UCO3001-100906	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100914 colon biopsy week 0	GSM6249810	colon	CNTO1275UCO3001-100914	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100916 colon biopsy week 0	GSM6249811	colon	CNTO1275UCO3001-100916	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (260 mg)	N	N
+CNTO1275UCO3001-100920 colon biopsy week 0	GSM6249812	colon	CNTO1275UCO3001-100920	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100924 colon biopsy week 0	GSM6249813	colon	CNTO1275UCO3001-100924	WEEK I-0	ulcerative colitis	Placebo IV	Y	Y
+CNTO1275UCO3001-100929 colon biopsy week 0	GSM6249814	colon	CNTO1275UCO3001-100929	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100940 colon biopsy week 0	GSM6249815	colon	CNTO1275UCO3001-100940	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	N	N
+CNTO1275UCO3001-100942 colon biopsy week 0	GSM6249816	colon	CNTO1275UCO3001-100942	WEEK I-0	ulcerative colitis	Ustekinumab 130 mg IV	Y	Y
+CNTO1275UCO3001-100968 colon biopsy week 0	GSM6249817	colon	CNTO1275UCO3001-100968	WEEK I-0	ulcerative colitis	Ustekinumab 6 mg/kg (520 mg)	N	N
+CNTO1275UCO3001-100996 colon biopsy week 0	GSM6249818	colon	CNTO1275UCO3001-100996	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-100999 colon biopsy week 0	GSM6249819	colon	CNTO1275UCO3001-100999	WEEK I-0	ulcerative colitis	Placebo IV	Y	Y
+CNTO1275UCO3001-101103 colon biopsy week 0	GSM6249820	colon	CNTO1275UCO3001-101103	WEEK I-0	ulcerative colitis	Placebo IV	Y	N
+CNTO1275UCO3001-101172 colon biopsy week 0	GSM6249821	colon	CNTO1275UCO3001-101172	WEEK I-0	ulcerative colitis	Placebo IV	Y	N
+CNTO1275UCO3001-101196 colon biopsy week 0	GSM6249822	colon	CNTO1275UCO3001-101196	WEEK I-0	ulcerative colitis	Placebo IV	N	N
+CNTO1275UCO3001-101212 colon biopsy week 0	GSM6249823	colon	CNTO1275UCO3001-101212	WEEK I-0	ulcerative colitis	Placebo IV	NA	Y
+CNTO1275UCO3001-101236 colon biopsy week 0	GSM6249824	colon	CNTO1275UCO3001-101236	WEEK I-0	ulcerative colitis	Placebo IV	Y	Y
+CNTO1275UCO3001-101250 colon biopsy week 0	GSM6249825	colon	CNTO1275UCO3001-101250	WEEK I-0	ulcerative colitis	Placebo IV	Y	N
+CNTO1275UCO3001-101302 colon biopsy week 0	GSM6249826	colon	CNTO1275UCO3001-101302	WEEK I-0	ulcerative colitis	Placebo IV	Y	Y
+HC-1 colon biopsy week 0	GSM6249827	colon	HC-1	WEEK I-0	healthy control	NA	NA	NA
+HC-2 colon biopsy week 0	GSM6249828	colon	HC-2	WEEK I-0	healthy control	NA	NA	NA
+HC-3 colon biopsy week 0	GSM6249829	colon	HC-3	WEEK I-0	healthy control	NA	NA	NA
+HC-4 colon biopsy week 0	GSM6249830	colon	HC-4	WEEK I-0	healthy control	NA	NA	NA
+HC-5 colon biopsy week 0	GSM6249831	colon	HC-5	WEEK I-0	healthy control	NA	NA	NA
+HC-6 colon biopsy week 0	GSM6249832	colon	HC-6	WEEK I-0	healthy control	NA	NA	NA
+HC-7 colon biopsy week 0	GSM6249833	colon	HC-7	WEEK I-0	healthy control	NA	NA	NA
+HC-8 colon biopsy week 0	GSM6249834	colon	HC-8	WEEK I-0	healthy control	NA	NA	NA
+HC-9 colon biopsy week 0	GSM6249835	colon	HC-9	WEEK I-0	healthy control	NA	NA	NA
+HC-10 colon biopsy week 0	GSM6249836	colon	HC-10	WEEK I-0	healthy control	NA	NA	NA
+HC-11 colon biopsy week 0	GSM6249837	colon	HC-11	WEEK I-0	healthy control	NA	NA	NA
+HC-12 colon biopsy week 0	GSM6249838	colon	HC-12	WEEK I-0	healthy control	NA	NA	NA
+HC-13 colon biopsy week 0	GSM6249839	colon	HC-13	WEEK I-0	healthy control	NA	NA	NA
+HC-14 colon biopsy week 0	GSM6249840	colon	HC-14	WEEK I-0	healthy control	NA	NA	NA
+HC-15 colon biopsy week 0	GSM6249841	colon	HC-15	WEEK I-0	healthy control	NA	NA	NA
+HC-16 colon biopsy week 0	GSM6249842	colon	HC-16	WEEK I-0	healthy control	NA	NA	NA
+HC-17 colon biopsy week 0	GSM6249843	colon	HC-17	WEEK I-0	healthy control	NA	NA	NA
+HC-18 colon biopsy week 0	GSM6249844	colon	HC-18	WEEK I-0	healthy control	NA	NA	NA

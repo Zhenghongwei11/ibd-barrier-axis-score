@@ -1,0 +1,323 @@
+title	sample_id	tissue	sex	age_at_diagnosis	paris_age	diagnosis	l2_type	histopathology	deep_ulcer
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_001)	GSM1598408	Ileal biopsy	Female	15.25	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_002)	GSM1598409	Ileal biopsy	Male	14.42	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_003)	GSM1598410	Ileal biopsy	Female	12.50	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_004)	GSM1598411	Ileal biopsy	Male	14.58	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_005)	GSM1598412	Ileal biopsy	Female	10.17	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_006)	GSM1598413	Ileal biopsy	Female	15.75	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_007)	GSM1598414	Ileal biopsy	Male	14.33	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_008)	GSM1598415	Ileal biopsy	Male	11.42	A1b	CD	cCD	Normal	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_009)	GSM1598416	Ileal biopsy	Female	9.00	A1a	CD	iCD	Macroscopic inflammation	No
+Not IBD Male (CCFA_Risk_010)	GSM1598417	Ileal biopsy	Male	10.33	A1b	Not IBD	Not IBD	NA	NA
+Not IBD Male (CCFA_Risk_011)	GSM1598418	Ileal biopsy	Male	10.83	A1b	Not IBD	Not IBD	NA	NA
+CD Female with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_012)	GSM1598419	Ileal biopsy	Female	13.92	A1b	CD	cCD	Microscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_013)	GSM1598420	Ileal biopsy	Male	9.25	A1a	CD	iCD	Macroscopic inflammation	No
+Not IBD Female (CCFA_Risk_014)	GSM1598421	Ileal biopsy	Female	9.00	A1a	Not IBD	Not IBD	NA	NA
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_015)	GSM1598422	Ileal biopsy	Male	13.42	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_016)	GSM1598423	Ileal biopsy	Male	15.17	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_017)	GSM1598424	Ileal biopsy	Male	13.25	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_018)	GSM1598425	Ileal biopsy	Female	16.08	A1b	CD	iCD	Macroscopic inflammation	no
+Not IBD Female (CCFA_Risk_019)	GSM1598426	Ileal biopsy	Female	15.00	A1b	Not IBD	Not IBD	NA	NA
+Not IBD Female (CCFA_Risk_020)	GSM1598427	Ileal biopsy	Female	10.75	A1b	not IBD	not IBD	NA	NA
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_021)	GSM1598428	Ileal biopsy	Male	10.33	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_022)	GSM1598429	Ileal biopsy	Female	10.83	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_023)	GSM1598430	Ileal biopsy	Female	10.17	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_024)	GSM1598431	Ileal biopsy	Male	4.50	A1a	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_025)	GSM1598432	Ileal biopsy	Female	6.33	A1a	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_026)	GSM1598433	Ileal biopsy	Male	5.08	A1a	CD	iCD	Macroscopic inflammation	no
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_027)	GSM1598434	Ileal biopsy	Female	10.33	A1b	CD	iCD	Macroscopic inflammation	Yes
+Not IBD Female (CCFA_Risk_028)	GSM1598435	Ileal biopsy	Female	16.92	A1b	Not IBD	Not IBD	NA	NA
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_029)	GSM1598436	Ileal biopsy	Female	10.83	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_030)	GSM1598437	Ileal biopsy	Male	10.75	A1b	CD	iCD	Macroscopic inflammation	No
+Not IBD Female (CCFA_Risk_031)	GSM1598438	Ileal biopsy	Female	12.50	A1b	Not IBD	Not IBD	NA	NA
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_032)	GSM1598439	Ileal biopsy	Female	8.67	A1a	CD	iCD	Macroscopic inflammation	No
+Not IBD Male (CCFA_Risk_033)	GSM1598440	Ileal biopsy	Male	9.33	A1a	Not IBD	Not IBD	NA	NA
+Not IBD Male (CCFA_Risk_034)	GSM1598441	Ileal biopsy	Male	7.75	A1a	Not IBD	Not IBD	NA	NA
+Not IBD Male (CCFA_Risk_035)	GSM1598442	Ileal biopsy	Male	11.50	A1b	Not IBD	Not IBD	NA	NA
+Not IBD Male (CCFA_Risk_036)	GSM1598443	Ileal biopsy	Male	10.50	A1b	Not IBD	Not IBD	NA	NA
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_037)	GSM1598444	Ileal biopsy	Male	10.50	A1b	CD	iCD	Macroscopic inflammation	Yes
+Not IBD Male (CCFA_Risk_038)	GSM1598445	Ileal biopsy	Male	8.67	A1a	Not IBD	Not IBD	NA	NA
+Not IBD Female (CCFA_Risk_039)	GSM1598446	Ileal biopsy	Female	15.33	A1b	Not IBD	Not IBD	NA	NA
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_040)	GSM1598447	Ileal biopsy	Female	9.17	A1a	CD	iCD	Macroscopic inflammation	No
+Not IBD Male (CCFA_Risk_041)	GSM1598448	Ileal biopsy	Male	4.83	A1a	Not IBD	Not IBD	NA	NA
+Not IBD Male (CCFA_Risk_042)	GSM1598449	Ileal biopsy	Male	12.00	A1b	Not IBD	Not IBD	NA	NA
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_043)	GSM1598450	Ileal biopsy	Female	12.08	A1b	CD	iCD	Macroscopic inflammation	No
+Not IBD Male (CCFA_Risk_044)	GSM1598451	Ileal biopsy	Male	9.17	A1a	Not IBD	Not IBD	NA	NA
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_045)	GSM1598452	Ileal biopsy	Male	5.42	A1a	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_046)	GSM1598453	Ileal biopsy	Female	15.17	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_047)	GSM1598454	Ileal biopsy	Female	15.83	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_048)	GSM1598455	Ileal biopsy	Male	7.67	A1a	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_049)	GSM1598456	Ileal biopsy	Female	10.08	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_050)	GSM1598457	Ileal biopsy	Male	13.42	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_051)	GSM1598458	Ileal biopsy	Male	8.75	A1a	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_052)	GSM1598459	Ileal biopsy	Male	16.08	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_053)	GSM1598460	Ileal biopsy	Female	9.17	A1a	CD	cCD	Microscopic inflammation	No
+Not IBD Male (CCFA_Risk_054)	GSM1598461	Ileal biopsy	Male	2.33	A1a	Not IBD	Not IBD	NA	NA
+Not IBD Male (CCFA_Risk_055)	GSM1598462	Ileal biopsy	Male	11.42	A1b	Not IBD	Not IBD	NA	NA
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_056)	GSM1598463	Ileal biopsy	Female	13.25	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_057)	GSM1598464	Ileal biopsy	Male	7.58	A1a	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_058)	GSM1598465	Ileal biopsy	Male	16.17	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Microscopic inflammation and Deep Ulcer (CCFA_Risk_059)	GSM1598466	Ileal biopsy	Male	9.42	A1a	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_060)	GSM1598467	Ileal biopsy	Male	13.58	A1b	CD	cCD	Microscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_061)	GSM1598468	Ileal biopsy	Male	10.42	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_062)	GSM1598469	Ileal biopsy	Male	10.67	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_063)	GSM1598470	Ileal biopsy	Female	8.50	A1a	CD	iCD	Macroscopic inflammation	Yes
+Not IBD Male (CCFA_Risk_064)	GSM1598471	Ileal biopsy	Male	14.25	A1b	Not IBD	Not IBD	NA	NA
+Not IBD Female (CCFA_Risk_065)	GSM1598472	Ileal biopsy	Female	12.33	A1b	Not IBD	Not IBD	NA	NA
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_066)	GSM1598473	Ileal biopsy	Male	8.42	A1a	CD	iCD	Macroscopic inflammation	No
+Not IBD Male (CCFA_Risk_067)	GSM1598474	Ileal biopsy	Male	12.92	A1b	Not IBD	Not IBD	NA	NA
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_068)	GSM1598475	Ileal biopsy	Male	10.33	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_069)	GSM1598476	Ileal biopsy	Female	12.08	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_070)	GSM1598477	Ileal biopsy	Female	8.58	A1a	CD	iCD	Macroscopic inflammation	Yes
+CD Male with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_071)	GSM1598478	Ileal biopsy	Male	10.67	A1b	CD	cCD	Normal	No
+Not IBD Female (CCFA_Risk_072)	GSM1598479	Ileal biopsy	Female	13.08	A1b	Not IBD	Not IBD	NA	NA
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_073)	GSM1598480	Ileal biopsy	Female	8.58	A1a	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_074)	GSM1598481	Ileal biopsy	Female	5.42	A1a	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_075)	GSM1598482	Ileal biopsy	Male	16.50	A1b	CD	iCD	Macroscopic inflammation	Yes
+Not IBD Female (CCFA_Risk_076)	GSM1598483	Ileal biopsy	Female	11.00	A1b	Not IBD	Not IBD	NA	NA
+Not IBD Male (CCFA_Risk_077)	GSM1598484	Ileal biopsy	Male	7.25	A1a	Not IBD	Not IBD	NA	NA
+Not IBD Male (CCFA_Risk_078)	GSM1598485	Ileal biopsy	Male	12.83	A1b	Not IBD	Not IBD	NA	NA
+Not IBD Male (CCFA_Risk_079)	GSM1598486	Ileal biopsy	Male	8.50	A1a	Not IBD	Not IBD	NA	NA
+Not IBD Male (CCFA_Risk_080)	GSM1598487	Ileal biopsy	Male	14.17	A1b	Not IBD	Not IBD	NA	NA
+Not IBD Male (CCFA_Risk_081)	GSM1598488	Ileal biopsy	Male	15.83	A1b	Not IBD	Not IBD	NA	NA
+Not IBD Male (CCFA_Risk_082)	GSM1598489	Ileal biopsy	Male	15.58	A1b	Not IBD	Not IBD	NA	NA
+Not IBD Male (CCFA_Risk_083)	GSM1598490	Ileal biopsy	Male	11.42	A1b	Not IBD	Not IBD	NA	NA
+Not IBD Male (CCFA_Risk_084)	GSM1598491	Ileal biopsy	Male	10.25	A1b	Not IBD	Not IBD	NA	NA
+Not IBD Female (CCFA_Risk_085)	GSM1598492	Ileal biopsy	Female	6.58	A1a	Not IBD	Not IBD	NA	NA
+Not IBD Female (CCFA_Risk_086)	GSM1598493	Ileal biopsy	Female	14.75	A1b	Not IBD	Not IBD	NA	NA
+Not IBD Female (CCFA_Risk_087)	GSM1598494	Ileal biopsy	Female	11.58	A1b	Not IBD	Not IBD	NA	NA
+Not IBD Female (CCFA_Risk_088)	GSM1598495	Ileal biopsy	Female	10.33	A1b	Not IBD	Not IBD	NA	NA
+Not IBD Male (CCFA_Risk_089)	GSM1598496	Ileal biopsy	Male	15.75	A1b	Not IBD	Not IBD	NA	NA
+Not IBD Female (CCFA_Risk_090)	GSM1598497	Ileal biopsy	Female	9.92	A1a	Not IBD	Not IBD	NA	NA
+CD Male with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_091)	GSM1598498	Ileal biopsy	Male	14.75	A1b	CD	cCD	Microscopic inflammation	No
+UC Male (CCFA_Risk_092)	GSM1598499	Ileal biopsy	Male	9.83	A1a	UC	UC	NA	NA
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_093)	GSM1598500	Ileal biopsy	Male	5.75	A1a	CD	iCD	Macroscopic inflammation	Yes
+CD Female with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_094)	GSM1598501	Ileal biopsy	Female	9.75	A1a	CD	cCD	Normal	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_095)	GSM1598502	Ileal biopsy	Male	14.75	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_096)	GSM1598503	Ileal biopsy	Female	13.08	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_097)	GSM1598504	Ileal biopsy	Female	14.17	A1b	CD	cCD	Microscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_098)	GSM1598505	Ileal biopsy	Male	14.83	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_099)	GSM1598506	Ileal biopsy	Female	15.50	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_100)	GSM1598507	Ileal biopsy	Female	12.83	A1b	CD	cCD	Normal	No
+CD Female with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_101)	GSM1598508	Ileal biopsy	Female	2.25	A1a	CD	cCD	Microscopic inflammation	No
+CD Female with Undetermined and No Deep Ulcer (CCFA_Risk_102)	GSM1598509	Ileal biopsy	Female	11.58	A1b	CD	cCD	Undetermined	No
+CD Male with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_103)	GSM1598510	Ileal biopsy	Male	14.83	A1b	CD	cCD	Microscopic inflammation	No
+CD Male with Undetermined and No Deep Ulcer (CCFA_Risk_104)	GSM1598511	Ileal biopsy	Male	14.08	A1b	CD	cCD	Undetermined	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_105)	GSM1598512	Ileal biopsy	Male	15.92	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_106)	GSM1598513	Ileal biopsy	Female	13.17	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_107)	GSM1598514	Ileal biopsy	Male	15.75	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_108)	GSM1598515	Ileal biopsy	Male	15.00	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_109)	GSM1598516	Ileal biopsy	Male	13.58	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_110)	GSM1598517	Ileal biopsy	Male	11.33	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_111)	GSM1598518	Ileal biopsy	Male	14.50	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_112)	GSM1598519	Ileal biopsy	Female	14.33	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_113)	GSM1598520	Ileal biopsy	Female	13.42	A1b	CD	iCD	Macroscopic inflammation	No
+UC Male (CCFA_Risk_114)	GSM1598521	Ileal biopsy	Male	9.92	A1a	UC	UC	NA	NA
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_115)	GSM1598522	Ileal biopsy	Female	14.08	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_116)	GSM1598523	Ileal biopsy	Male	11.33	A1b	CD	iCD	Macroscopic inflammation	Yes
+Not IBD Male (CCFA_Risk_117)	GSM1598524	Ileal biopsy	Male	7.83	A1a	Not IBD	Not IBD	NA	NA
+Not IBD Male (CCFA_Risk_118)	GSM1598525	Ileal biopsy	Male	9.67	A1a	Not IBD	Not IBD	NA	NA
+UC Male (CCFA_Risk_119)	GSM1598526	Ileal biopsy	Male	12.67	A1b	UC	UC	NA	NA
+Not IBD Male (CCFA_Risk_120)	GSM1598527	Ileal biopsy	Male	8	A1a	Not IBD	Not IBD	NA	NA
+Not IBD Female (CCFA_Risk_121)	GSM1598528	Ileal biopsy	Female	10.67	A1b	Not IBD	Not IBD	NA	NA
+UC Female (CCFA_Risk_122)	GSM1598529	Ileal biopsy	Female	10.50	A1b	UC	UC	NA	NA
+UC Female (CCFA_Risk_123)	GSM1598530	Ileal biopsy	Female	8.50	A1a	UC	UC	NA	NA
+UC Female (CCFA_Risk_124)	GSM1598531	Ileal biopsy	Female	11.67	A1b	UC	UC	NA	NA
+UC Male (CCFA_Risk_125)	GSM1598532	Ileal biopsy	Male	5.75	A1a	UC	UC	NA	NA
+UC Male (CCFA_Risk_126)	GSM1598533	Ileal biopsy	Male	5.50	A1a	UC	UC	NA	NA
+UC Female (CCFA_Risk_127)	GSM1598534	Ileal biopsy	Female	14.50	A1b	UC	UC	NA	NA
+UC Female (CCFA_Risk_128)	GSM1598535	Ileal biopsy	Female	11.50	A1b	UC	UC	NA	NA
+UC Male (CCFA_Risk_129)	GSM1598536	Ileal biopsy	Male	11.83	A1b	UC	UC	NA	NA
+UC Male (CCFA_Risk_130)	GSM1598537	Ileal biopsy	Male	15.50	A1b	UC	UC	NA	NA
+UC Female (CCFA_Risk_131)	GSM1598538	Ileal biopsy	Female	8.25	A1a	UC	UC	NA	NA
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_132)	GSM1598539	Ileal biopsy	Male	9.17	A1a	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_133)	GSM1598540	Ileal biopsy	Male	13.67	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_134)	GSM1598541	Ileal biopsy	Male	11.5	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_135)	GSM1598542	Ileal biopsy	Male	14.42	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_136)	GSM1598543	Ileal biopsy	Female	11.58	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_137)	GSM1598544	Ileal biopsy	Male	15.83	A1b	CD	cCD	Microscopic inflammation	No
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_138)	GSM1598545	Ileal biopsy	Female	11.75	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_139)	GSM1598546	Ileal biopsy	Male	11.50	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_140)	GSM1598547	Ileal biopsy	Female	11.00	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_141)	GSM1598548	Ileal biopsy	Female	12.33	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_142)	GSM1598549	Ileal biopsy	Male	6.25	A1a	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_143)	GSM1598550	Ileal biopsy	Female	10.67	A1b	CD	iCD	Macroscopic inflammation	Yes
+UC Female (CCFA_Risk_144)	GSM1598551	Ileal biopsy	Female	13.08	A1b	UC	UC	NA	NA
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_145)	GSM1598552	Ileal biopsy	Female	11.25	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_146)	GSM1598553	Ileal biopsy	Female	7.25	A1a	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_147)	GSM1598554	Ileal biopsy	Male	11.08	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_148)	GSM1598555	Ileal biopsy	Male	8.83	A1a	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_149)	GSM1598556	Ileal biopsy	Male	11.17	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_150)	GSM1598557	Ileal biopsy	Male	10.67	A1b	CD	iCD	Macroscopic inflammation	Yes
+UC Female (CCFA_Risk_151)	GSM1598558	Ileal biopsy	Female	6.75	A1a	UC	UC	NA	NA
+UC Male (CCFA_Risk_152)	GSM1598559	Ileal biopsy	Male	9.67	A1a	UC	UC	NA	NA
+UC Male (CCFA_Risk_153)	GSM1598560	Ileal biopsy	Male	8.50	A1a	UC	UC	NA	NA
+UC Female (CCFA_Risk_154)	GSM1598561	Ileal biopsy	Female	14.42	A1b	UC	UC	NA	NA
+UC Female (CCFA_Risk_155)	GSM1598562	Ileal biopsy	Female	13.17	A1b	UC	UC	NA	NA
+CD Female with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_156)	GSM1598563	Ileal biopsy	Female	6.75	A1a	CD	cCD	Normal	No
+CD Female with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_157)	GSM1598564	Ileal biopsy	Female	8.83	A1a	CD	cCD	Microscopic inflammation	No
+CD Female with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_158)	GSM1598565	Ileal biopsy	Female	7.83	A1a	CD	cCD	Normal	No
+CD Female with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_159)	GSM1598566	Ileal biopsy	Female	11.92	A1b	CD	cCD	Microscopic inflammation	No
+CD Male with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_160)	GSM1598567	Ileal biopsy	Male	12.58	A1b	CD	cCD	Microscopic inflammation	No
+CD Female with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_161)	GSM1598568	Ileal biopsy	Female	8.83	A1a	CD	cCD	Microscopic inflammation	No
+CD Female with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_162)	GSM1598569	Ileal biopsy	Female	9.75	A1a	CD	cCD	Microscopic inflammation	No
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_163)	GSM1598570	Ileal biopsy	Female	9.25	A1a	CD	iCD	Macroscopic inflammation	Yes
+CD Female with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_164)	GSM1598571	Ileal biopsy	Female	8.83	A1a	CD	cCD	Normal	No
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_165)	GSM1598572	Ileal biopsy	Female	9.75	A1a	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_166)	GSM1598573	Ileal biopsy	Male	9.58	A1a	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_167)	GSM1598574	Ileal biopsy	Male	9.58	A1a	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_168)	GSM1598575	Ileal biopsy	Male	9.25	A1a	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_169)	GSM1598576	Ileal biopsy	Male	9.08	A1a	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_170)	GSM1598577	Ileal biopsy	Male	9.00	A1a	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_171)	GSM1598578	Ileal biopsy	Male	16.42	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_172)	GSM1598579	Ileal biopsy	Male	16.08	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_173)	GSM1598580	Ileal biopsy	Female	8.92	A1a	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_174)	GSM1598581	Ileal biopsy	Male	7.92	A1a	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_175)	GSM1598582	Ileal biopsy	Male	7.92	A1a	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_176)	GSM1598583	Ileal biopsy	Male	8.92	A1a	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_177)	GSM1598584	Ileal biopsy	Male	9.58	A1a	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_178)	GSM1598585	Ileal biopsy	Male	6.75	A1a	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_179)	GSM1598586	Ileal biopsy	Male	8.83	A1a	CD	iCD	Macroscopic inflammation	No
+Not IBD Female (CCFA_Risk_180)	GSM1598587	Ileal biopsy	Female	12.67	A1b	Not IBD	Not IBD	NA	NA
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_181)	GSM1598588	Ileal biopsy	Male	8.42	A1a	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_182)	GSM1598589	Ileal biopsy	Male	9.17	A1a	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_183)	GSM1598590	Ileal biopsy	Male	7.33	A1a	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_184)	GSM1598591	Ileal biopsy	Male	5.67	A1a	CD	cCD	Microscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_185)	GSM1598592	Ileal biopsy	Male	8.75	A1a	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_186)	GSM1598593	Ileal biopsy	Male	9.25	A1a	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_187)	GSM1598594	Ileal biopsy	Male	8.00	A1a	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_188)	GSM1598595	Ileal biopsy	Female	6.17	A1a	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_189)	GSM1598596	Ileal biopsy	Female	8.00	A1a	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_190)	GSM1598597	Ileal biopsy	Male	7.17	A1a	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_191)	GSM1598598	Ileal biopsy	Female	14.50	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Undetermined and No Deep Ulcer (CCFA_Risk_192)	GSM1598599	Ileal biopsy	Male	15.17	A1b	CD	cCD	Undetermined	No
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_193)	GSM1598600	Ileal biopsy	Female	15.25	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_194)	GSM1598601	Ileal biopsy	Female	9.50	A1a	CD	cCD	Normal	No
+CD Male with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_195)	GSM1598602	Ileal biopsy	Male	14.33	A1b	CD	cCD	Normal	No
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_196)	GSM1598603	Ileal biopsy	Female	13.92	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_197)	GSM1598604	Ileal biopsy	Male	11.25	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_198)	GSM1598605	Ileal biopsy	Male	13.75	A1b	CD	cCD	Normal	No
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_199)	GSM1598606	Ileal biopsy	Female	14.33	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_200)	GSM1598607	Ileal biopsy	Female	15.58	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_201)	GSM1598608	Ileal biopsy	Female	15.00	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_202)	GSM1598609	Ileal biopsy	Female	14.75	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_203)	GSM1598610	Ileal biopsy	Male	16.83	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_204)	GSM1598611	Ileal biopsy	Female	16.92	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_205)	GSM1598612	Ileal biopsy	Female	15.42	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_206)	GSM1598613	Ileal biopsy	Female	15.33	A1b	CD	cCD	Normal	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_207)	GSM1598614	Ileal biopsy	Male	16.5	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_208)	GSM1598615	Ileal biopsy	Male	12.75	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_209)	GSM1598616	Ileal biopsy	Male	11.17	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_210)	GSM1598617	Ileal biopsy	Male	15.33	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_211)	GSM1598618	Ileal biopsy	Male	15.00	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_212)	GSM1598619	Ileal biopsy	Female	12.00	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_213)	GSM1598620	Ileal biopsy	Female	16.25	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_214)	GSM1598621	Ileal biopsy	Female	15.58	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_215)	GSM1598622	Ileal biopsy	Male	13.83	A1b	CD	cCD	Normal	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_216)	GSM1598623	Ileal biopsy	Male	12.42	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_217)	GSM1598624	Ileal biopsy	Male	11.92	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_218)	GSM1598625	Ileal biopsy	Female	15.83	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_219)	GSM1598626	Ileal biopsy	Male	13.58	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_220)	GSM1598627	Ileal biopsy	Male	12.67	A1b	CD	cCD	Normal	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_221)	GSM1598628	Ileal biopsy	Female	10.75	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_222)	GSM1598629	Ileal biopsy	Female	16.50	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_223)	GSM1598630	Ileal biopsy	Female	10.67	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_224)	GSM1598631	Ileal biopsy	Male	12.08	A1b	CD	iCD	Macroscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_225)	GSM1598632	Ileal biopsy	Female	15.42	A1b	CD	iCD	Macroscopic inflammation	No
+UC Female (CCFA_Risk_226)	GSM1598633	Ileal biopsy	Female	11.92	A1b	UC	UC	NA	NA
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_227)	GSM1598634	Ileal biopsy	Male	13.17	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_228)	GSM1598635	Ileal biopsy	Male	10.83	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_229)	GSM1598636	Ileal biopsy	Male	15.50	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_230)	GSM1598637	Ileal biopsy	Male	16.75	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_231)	GSM1598638	Ileal biopsy	Female	10.17	A1b	CD	iCD	Macroscopic inflammation	Yes
+UC Male (CCFA_Risk_232)	GSM1598639	Ileal biopsy	Male	8.50	A1a	UC	UC	NA	NA
+UC Male (CCFA_Risk_233)	GSM1598640	Ileal biopsy	Male	14.00	A1b	UC	UC	NA	NA
+UC Male (CCFA_Risk_234)	GSM1598641	Ileal biopsy	Male	13.75	A1b	UC	UC	NA	NA
+UC Female (CCFA_Risk_235)	GSM1598642	Ileal biopsy	Female	16.58	A1b	UC	UC	NA	NA
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_236)	GSM1598643	Ileal biopsy	Female	12.42	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_237)	GSM1598644	Ileal biopsy	Male	12.58	A1b	CD	iCD	Macroscopic inflammation	No
+UC Male (CCFA_Risk_238)	GSM1598645	Ileal biopsy	Male	5.75	A1a	UC	UC	NA	NA
+UC Male (CCFA_Risk_239)	GSM1598646	Ileal biopsy	Male	15.00	A1b	UC	UC	NA	NA
+UC Female (CCFA_Risk_240)	GSM1598647	Ileal biopsy	Female	11.83	A1b	UC	UC	NA	NA
+UC Female (CCFA_Risk_241)	GSM1598648	Ileal biopsy	Female	12.00	A1b	UC	UC	NA	NA
+UC Male (CCFA_Risk_242)	GSM1598649	Ileal biopsy	Male	13.25	A1b	UC	UC	NA	NA
+UC Male (CCFA_Risk_243)	GSM1598650	Ileal biopsy	Male	11.58	A1b	UC	UC	NA	NA
+UC Female (CCFA_Risk_244)	GSM1598651	Ileal biopsy	Female	15.58	A1b	UC	UC	NA	NA
+UC Female (CCFA_Risk_245)	GSM1598652	Ileal biopsy	Female	14.92	A1b	UC	UC	NA	NA
+UC Male (CCFA_Risk_246)	GSM1598653	Ileal biopsy	Male	14.92	A1b	UC	UC	NA	NA
+UC Female (CCFA_Risk_247)	GSM1598654	Ileal biopsy	Female	6.33	A1a	UC	UC	NA	NA
+UC Female (CCFA_Risk_248)	GSM1598655	Ileal biopsy	Female	13.67	A1b	UC	UC	NA	NA
+UC Female (CCFA_Risk_249)	GSM1598656	Ileal biopsy	Female	16.92	A1b	UC	UC	NA	NA
+UC Male (CCFA_Risk_250)	GSM1598657	Ileal biopsy	Male	6.92	A1a	UC	UC	NA	NA
+UC Female (CCFA_Risk_251)	GSM1598658	Ileal biopsy	Female	16.83	A1b	UC	UC	NA	NA
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_252)	GSM1598659	Ileal biopsy	Female	14.92	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_253)	GSM1598660	Ileal biopsy	Male	15.08	A1b	CD	cCD	Normal	No
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_254)	GSM1598661	Ileal biopsy	Female	13.17	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_255)	GSM1598662	Ileal biopsy	Male	14.42	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_256)	GSM1598663	Ileal biopsy	Female	12.83	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_257)	GSM1598664	Ileal biopsy	Male	11.42	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_258)	GSM1598665	Ileal biopsy	Male	11.92	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_259)	GSM1598666	Ileal biopsy	Male	16.25	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_260)	GSM1598667	Ileal biopsy	Male	12.75	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_261)	GSM1598668	Ileal biopsy	Male	10.75	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_262)	GSM1598669	Ileal biopsy	Male	15.67	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_263)	GSM1598670	Ileal biopsy	Male	12.00	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_264)	GSM1598671	Ileal biopsy	Male	15.50	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_265)	GSM1598672	Ileal biopsy	Male	12.83	A1b	CD	cCD	Microscopic inflammation	No
+CD Male with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_266)	GSM1598673	Ileal biopsy	Male	15.92	A1b	CD	cCD	Microscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_267)	GSM1598674	Ileal biopsy	Female	13.67	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_268)	GSM1598675	Ileal biopsy	Male	15.75	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_269)	GSM1598676	Ileal biopsy	Male	13.92	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_270)	GSM1598677	Ileal biopsy	Male	16.75	A1b	CD	cCD	Normal	No
+CD Male with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_271)	GSM1598678	Ileal biopsy	Male	11.67	A1b	CD	cCD	Normal	No
+UC Female (CCFA_Risk_272)	GSM1598679	Ileal biopsy	Female	12.00	A1b	UC	UC	NA	NA
+CD Male with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_273)	GSM1598680	Ileal biopsy	Male	16.92	A1b	CD	cCD	Microscopic inflammation	No
+CD Female with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_274)	GSM1598681	Ileal biopsy	Female	12.33	A1b	CD	cCD	Normal	No
+CD Female with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_275)	GSM1598682	Ileal biopsy	Female	10.83	A1b	CD	iCD	Macroscopic inflammation	Yes
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_276)	GSM1598683	Ileal biopsy	Male	13.25	A1b	CD	iCD	Macroscopic inflammation	Yes
+UC Male (CCFA_Risk_277)	GSM1598684	Ileal biopsy	Male	7.25	A1a	UC	UC	NA	NA
+CD Male with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_278)	GSM1598685	Ileal biopsy	Male	15.83	A1b	CD	cCD	Microscopic inflammation	No
+CD Female with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_279)	GSM1598686	Ileal biopsy	Female	14.25	A1b	CD	cCD	Microscopic inflammation	No
+UC Female (CCFA_Risk_280)	GSM1598687	Ileal biopsy	Female	16.58	A1b	UC	UC	NA	NA
+CD Male with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_281)	GSM1598688	Ileal biopsy	Male	16.50	A1b	CD	cCD	Normal	No
+UC Male (CCFA_Risk_282)	GSM1598689	Ileal biopsy	Male	16.50	A1b	UC	UC	NA	NA
+UC Male (CCFA_Risk_283)	GSM1598690	Ileal biopsy	Male	15.50	A1b	UC	UC	NA	NA
+UC Male (CCFA_Risk_284)	GSM1598691	Ileal biopsy	Male	15.33	A1b	UC	UC	NA	NA
+CD Female with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_285)	GSM1598692	Ileal biopsy	Female	12.67	A1b	CD	cCD	Microscopic inflammation	No
+CD Male with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_286)	GSM1598693	Ileal biopsy	Male	6.58	A1a	CD	cCD	Microscopic inflammation	No
+CD Female with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_287)	GSM1598694	Ileal biopsy	Female	16.25	A1b	CD	cCD	Normal	No
+UC Male (CCFA_Risk_288)	GSM1598695	Ileal biopsy	Male	13.75	A1b	UC	UC	NA	NA
+CD Female with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_289)	GSM1598696	Ileal biopsy	Female	14.08	A1b	CD	cCD	Normal	No
+UC Male (CCFA_Risk_290)	GSM1598697	Ileal biopsy	Male	13.75	A1b	UC	UC	NA	NA
+UC Male (CCFA_Risk_291)	GSM1598698	Ileal biopsy	Male	7.42	A1a	UC	UC	NA	NA
+UC Male (CCFA_Risk_292)	GSM1598699	Ileal biopsy	Male	10.83	A1b	UC	UC	NA	NA
+CD Female with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_293)	GSM1598700	Ileal biopsy	Female	12.50	A1b	CD	cCD	Microscopic inflammation	No
+UC Male (CCFA_Risk_294)	GSM1598701	Ileal biopsy	Male	15.08	A1b	UC	UC	NA	NA
+UC Male (CCFA_Risk_295)	GSM1598702	Ileal biopsy	Male	9.42	A1a	UC	UC	NA	NA
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_296)	GSM1598703	Ileal biopsy	Male	10.58	A1b	CD	iCD	Macroscopic inflammation	Yes
+UC Male (CCFA_Risk_297)	GSM1598704	Ileal biopsy	Male	15.83	A1b	UC	UC	NA	NA
+UC Male (CCFA_Risk_298)	GSM1598705	Ileal biopsy	Male	15.92	A1b	UC	UC	NA	NA
+CD Male with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_299)	GSM1598706	Ileal biopsy	Male	12.75	A1b	CD	cCD	Normal	No
+CD Male with Macroscopic inflammation and Deep Ulcer (CCFA_Risk_300)	GSM1598707	Ileal biopsy	Male	13	A1b	CD	iCD	Macroscopic inflammation	Yes
+UC Famale (CCFA_Risk_301)	GSM1598708	Ileal biopsy	Female	16.67	A1b	UC	UC	NA	NA
+UC Male (CCFA_Risk_302)	GSM1598709	Ileal biopsy	Male	17.08	A1b	UC	UC	NA	NA
+CD Male with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_303)	GSM1598710	Ileal biopsy	Male	15.33	A1b	CD	iCD	Microscopic inflammation	No
+CD Male with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_304)	GSM1598711	Ileal biopsy	Male	10.83	A1b	CD	cCD	Microscopic inflammation	No
+UC Male (CCFA_Risk_305)	GSM1598712	Ileal biopsy	Male	13.58	A1b	UC	UC	NA	NA
+UC Female (CCFA_Risk_306)	GSM1598713	Ileal biopsy	Female	16.33	A1b	UC	UC	NA	NA
+CD Male with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_307)	GSM1598714	Ileal biopsy	Male	11.83	A1b	CD	cCD	Microscopic inflammation	No
+UC Male (CCFA_Risk_308)	GSM1598715	Ileal biopsy	Male	15.75	A1b	UC	UC	NA	NA
+CD Female with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_309)	GSM1598716	Ileal biopsy	Female	13.67	A1b	CD	cCD	Microscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_310)	GSM1598717	Ileal biopsy	Female	13.17	A1b	CD	iCD	Macroscopic inflammation	No
+CD Male with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_311)	GSM1598718	Ileal biopsy	Male	13.83	A1b	CD	cCD	Microscopic inflammation	No
+CD Male with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_312)	GSM1598719	Ileal biopsy	Male	10.67	A1b	CD	cCD	Microscopic inflammation	No
+CD Female with Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_313)	GSM1598720	Ileal biopsy	Female	5.42	A1a	CD	iCD	Macroscopic inflammation	No
+CD Male with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_314)	GSM1598721	Ileal biopsy	Male	11.00	A1b	CD	cCD	Normal	No
+UC Female (CCFA_Risk_315)	GSM1598722	Ileal biopsy	Female	14.92	A1b	UC	UC	NA	NA
+UC Female (CCFA_Risk_316)	GSM1598723	Ileal biopsy	Female	16.91	A1b	UC	UC	NA	NA
+CD Male with Microscopic inflammation and No Deep Ulcer (CCFA_Risk_317)	GSM1598724	Ileal biopsy	Male	10.50	A1b	CD	cCD	Microscopic inflammation	No
+UC Female (CCFA_Risk_318)	GSM1598725	Ileal biopsy	Female	4.50	A1a	UC	UC	NA	NA
+UC Male (CCFA_Risk_319)	GSM1598726	Ileal biopsy	Male	11.00	A1b	UC	UC	NA	NA
+CD Female with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_320)	GSM1598727	Ileal biopsy	Female	15.75	A1b	CD	cCD	Normal	No
+CD Female with No Microscopic or Macroscopic inflammation and No Deep Ulcer (CCFA_Risk_321)	GSM1598728	Ileal biopsy	Female	9.58	A1a	CD	cCD	Normal	No
+UC Male (CCFA_Risk_322)	GSM1598729	Ileal biopsy	Male	14.17	A1b	UC	UC	NA	NA

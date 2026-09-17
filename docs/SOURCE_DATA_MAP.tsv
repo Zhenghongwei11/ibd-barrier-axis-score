@@ -1,0 +1,32 @@
+submission_label	internal_source	description
+Source Data 1	results/dataset_summary.tsv	Cohort summary, age stratum, endpoint family, and intended clinical role.
+Source Data 2	results/clinical/age_stratified_endpoint_models.tsv	Primary harmonized age-stratified endpoint models, including expanded adult direct endpoint cohorts and pediatric/early-onset cohorts.
+Source Data 3	data/processed/GSE73661/baseline_endpoint.tsv	GSE73661 baseline mucosal-healing endpoint table.
+Source Data 4	data/processed/GSE12251/baseline_endpoint.tsv	GSE12251 week-8 endoscopic/histologic healing endpoint table.
+Source Data 5	data/processed/GSE92415/baseline_endpoint.tsv	GSE92415 baseline week-6 response endpoint table.
+Source Data 6	data/processed/GSE206285/baseline_endpoint.tsv	GSE206285 baseline week-8 mucosal-healing and clinical-remission endpoint table.
+Source Data 7	data/processed/GSE23597/baseline_endpoint.tsv	GSE23597 baseline week-8 and week-30 response endpoint table.
+Source Data 8	data/processed/GSE16879/baseline_endpoint.tsv	GSE16879 pretreatment infliximab-response endpoint table.
+Source Data 9	results/meta/age_endpoint_synthesis.tsv	Age-aware cohort-level endpoint synthesis and pooling eligibility.
+Source Data 10	results/meta/non_poolable_endpoints.tsv	Endpoint compatibility and non-pooling boundary registry.
+Source Data 11	results/clinical/comparator_models.tsv	Comparator and incremental-value model.
+Source Data 12	results/clinical/sensitivity_models.tsv	Sensitivity analyses.
+Source Data 13	results/validation/evidence_grading.tsv	Claim-level evidence grading.
+Source Data 14	results/clinical/clinical_score_strata_summary.tsv	Clinically interpretable favorable-endpoint rates by low, middle, and high barrier-injury score strata.
+Source Data 15	results/clinical/clinical_score_strata.tsv	Detailed score-stratum endpoint table with stratum-specific sample size, event count, event rate, and score distribution.
+Source Data 16	results/clinical/inflammation_specificity_models.tsv	Inflammatory-response comparator and joint-adjusted models where aligned comparator genes were available.
+Source Data 17	results/clinical/inflammation_specificity_correlations.tsv	Feasibility and Spearman correlations between the barrier-injury score and inflammatory-response comparator.
+Source Data 18	results/replication/GSE193677_replication_models.tsv	GSE193677 independent adult registry IBD-versus-control replication models, including one-biopsy-per-participant and all-biopsy sensitivity analyses.
+Source Data 19	results/clinical/GSE193677_endoseverity_strata.tsv	GSE193677 barrier-injury score summaries across endoscopic severity strata.
+Source Data 20	results/clinical/GSE193677_activity_correlations.tsv	GSE193677 correlations between the barrier-injury score and endoscopic, histologic, clinical, and inflammatory activity measures.
+Source Data 21	results/validation/permutation_benchmark.tsv	1,000 random gene-set permutation benchmark for adult endpoint cohorts and the GSE193677 IBD-versus-control comparison.
+Source Data 22	results/validation/celltype_localization.tsv	Public single-cell compartment-level localization summary for the 13 score genes.
+Source Data 23	results/validation/celltype_localization_fine.tsv	Public single-cell fine cell-type localization summary for the 13 score genes.
+Source Data 24	docs/COMPARATOR_SIGNATURES.tsv	Locked comparator signature definitions for benchmark analyses.
+Source Data 25	results/benchmarks/signature_availability.tsv	Comparator gene availability summary by dataset and signature.
+Source Data 26	results/benchmarks/comparator_signature_benchmark.tsv	Head-to-head score-component and comparator signature benchmark models.
+Source Data 27	results/benchmarks/comparator_incremental_models.tsv	Joint and incremental models testing barrier-injury score information after comparator adjustment.
+Source Data 28	results/clinical/GSE193677_biopsy_selection_sensitivity.tsv	GSE193677 biopsy-selection, site, and disease-type sensitivity models.
+Source Data 29	results/validation/matched_null_benchmark.tsv	Expression- and variance-matched random-gene null benchmark summary.
+Source Data 30	results/validation/matched_null_iterations.tsv	Iteration-level ORs for the GSE193677 matched random-gene null.
+Figure Source Data	results/figures/source_data	Per-figure compact source-data tables exported by scripts/26_export_figure_source_data.py.

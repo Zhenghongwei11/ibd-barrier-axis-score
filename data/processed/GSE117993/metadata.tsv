@@ -1,0 +1,191 @@
+title	sample_id	tissue	diagnosis	location	population	biopsy_location	disease_subtype
+1_RISK_Rectal_cCD	GSM3316656	rectum	CD	L2	pediatric	rectal	colonic CD
+2_RISK_Rectal_cCD	GSM3316657	rectum	CD	L2	pediatric	rectal	colonic CD
+3_RISK_Rectal_cCD	GSM3316658	rectum	CD	L2	pediatric	rectal	colonic CD
+4_RISK_Rectal_cCD	GSM3316659	rectum	CD	L2	pediatric	rectal	colonic CD
+5_RISK_Rectal_cCD	GSM3316660	rectum	CD	L2	pediatric	rectal	colonic CD
+6_RISK_Rectal_cCD	GSM3316661	rectum	CD	L2	pediatric	rectal	colonic CD
+7_RISK_Rectal_cCD	GSM3316662	rectum	CD	L2	pediatric	rectal	colonic CD
+8_RISK_Rectal_cCD	GSM3316663	rectum	CD	L2	pediatric	rectal	colonic CD
+9_RISK_Rectal_cCD	GSM3316664	rectum	CD	L2	pediatric	rectal	colonic CD
+10_RISK_Rectal_cCD	GSM3316665	rectum	CD	L2	pediatric	rectal	colonic CD
+11_RISK_Rectal_cCD	GSM3316666	rectum	CD	L2	pediatric	rectal	colonic CD
+12_RISK_Rectal_cCD	GSM3316667	rectum	CD	L2	pediatric	rectal	colonic CD
+13_RISK_Rectal_cCD	GSM3316668	rectum	CD	L2	pediatric	rectal	colonic CD
+14_RISK_Rectal_cCD	GSM3316669	rectum	CD	L2	pediatric	rectal	colonic CD
+15_RISK_Rectal_cCD	GSM3316670	rectum	CD	L2	pediatric	rectal	colonic CD
+16_RISK_Rectal_cCD	GSM3316671	rectum	CD	L2	pediatric	rectal	colonic CD
+17_RISK_Rectal_cCD	GSM3316672	rectum	CD	L2	pediatric	rectal	colonic CD
+18_RISK_Rectal_cCD	GSM3316673	rectum	CD	L2	pediatric	rectal	colonic CD
+19_RISK_Rectal_cCD	GSM3316674	rectum	CD	L2	pediatric	rectal	colonic CD
+20_RISK_Rectal_cCD	GSM3316675	rectum	CD	L2	pediatric	rectal	colonic CD
+21_RISK_Rectal_cCD	GSM3316676	rectum	CD	L2	pediatric	rectal	colonic CD
+22_RISK_Rectal_cCD	GSM3316677	rectum	CD	L2	pediatric	rectal	colonic CD
+23_RISK_Rectal_cCD	GSM3316678	rectum	CD	L2	pediatric	rectal	colonic CD
+24_RISK_Rectal_cCD	GSM3316679	rectum	CD	L2	pediatric	rectal	colonic CD
+25_RISK_Rectal_cCD	GSM3316680	rectum	CD	L2	pediatric	rectal	colonic CD
+26_RISK_Rectal_cCD	GSM3316681	rectum	CD	L2	pediatric	rectal	colonic CD
+27_RISK_Rectal_cCD	GSM3316682	rectum	CD	L2	pediatric	rectal	colonic CD
+28_RISK_Rectal_cCD	GSM3316683	rectum	CD	L2	pediatric	rectal	colonic CD
+29_RISK_Rectal_cCD	GSM3316684	rectum	CD	L2	pediatric	rectal	colonic CD
+30_RISK_Rectal_cCD	GSM3316685	rectum	CD	L2	pediatric	rectal	colonic CD
+31_RISK_Rectal_cCD	GSM3316686	rectum	CD	L2	pediatric	rectal	colonic CD
+32_RISK_Rectal_cCD	GSM3316687	rectum	CD	L2	pediatric	rectal	colonic CD
+33_RISK_Rectal_iCD	GSM3316688	rectum	CD	L3	pediatric	rectal	ileal CD
+34_RISK_Rectal_iCD	GSM3316689	rectum	CD	L3	pediatric	rectal	ileal CD
+35_RISK_Rectal_iCD	GSM3316690	rectum	CD	L3	pediatric	rectal	ileal CD
+36_RISK_Rectal_iCD	GSM3316691	rectum	CD	L3	pediatric	rectal	ileal CD
+37_RISK_Rectal_iCD	GSM3316692	rectum	CD	L3	pediatric	rectal	ileal CD
+38_RISK_Rectal_iCD	GSM3316693	rectum	CD	L3	pediatric	rectal	ileal CD
+39_RISK_Rectal_iCD	GSM3316694	rectum	CD	L3	pediatric	rectal	ileal CD
+40_RISK_Rectal_iCD	GSM3316695	rectum	CD	L3	pediatric	rectal	ileal CD
+41_RISK_Rectal_iCD	GSM3316696	rectum	CD	L3	pediatric	rectal	ileal CD
+42_RISK_Rectal_iCD	GSM3316697	rectum	CD	L3	pediatric	rectal	ileal CD
+43_RISK_Rectal_iCD	GSM3316698	rectum	CD	L3	pediatric	rectal	ileal CD
+44_RISK_Rectal_iCD	GSM3316699	rectum	CD	L3	pediatric	rectal	ileal CD
+45_RISK_Rectal_iCD	GSM3316700	rectum	CD	L3	pediatric	rectal	ileal CD
+46_RISK_Rectal_iCD	GSM3316701	rectum	CD	L3	pediatric	rectal	ileal CD
+47_RISK_Rectal_iCD	GSM3316702	rectum	CD	L3	pediatric	rectal	ileal CD
+48_RISK_Rectal_iCD	GSM3316703	rectum	CD	L3	pediatric	rectal	ileal CD
+49_RISK_Rectal_iCD	GSM3316704	rectum	CD	L3	pediatric	rectal	ileal CD
+50_RISK_Rectal_iCD	GSM3316705	rectum	CD	L3	pediatric	rectal	ileal CD
+51_RISK_Rectal_iCD	GSM3316706	rectum	CD	L3	pediatric	rectal	ileal CD
+52_RISK_Rectal_iCD	GSM3316707	rectum	CD	L3	pediatric	rectal	ileal CD
+53_RISK_Rectal_iCD	GSM3316708	rectum	CD	L3	pediatric	rectal	ileal CD
+54_RISK_Rectal_iCD	GSM3316709	rectum	CD	L3	pediatric	rectal	ileal CD
+55_RISK_Rectal_iCD	GSM3316710	rectum	CD	L3	pediatric	rectal	ileal CD
+56_RISK_Rectal_iCD	GSM3316711	rectum	CD	L3	pediatric	rectal	ileal CD
+57_RISK_Rectal_iCD	GSM3316712	rectum	CD	L3	pediatric	rectal	ileal CD
+58_RISK_Rectal_iCD	GSM3316713	rectum	CD	L3	pediatric	rectal	ileal CD
+59_RISK_Rectal_iCD	GSM3316714	rectum	CD	L3	pediatric	rectal	ileal CD
+60_RISK_Rectal_iCD	GSM3316715	rectum	CD	L3	pediatric	rectal	ileal CD
+61_RISK_Rectal_iCD	GSM3316716	rectum	CD	L3	pediatric	rectal	ileal CD
+62_RISK_Rectal_iCD	GSM3316717	rectum	CD	L3	pediatric	rectal	ileal CD
+63_RISK_Rectal_iCD	GSM3316718	rectum	CD	L3	pediatric	rectal	ileal CD
+64_RISK_Rectal_iCD	GSM3316719	rectum	CD	L3	pediatric	rectal	ileal CD
+65_RISK_Rectal_iCD	GSM3316720	rectum	CD	L3	pediatric	rectal	ileal CD
+66_RISK_Rectal_iCD	GSM3316721	rectum	CD	L3	pediatric	rectal	ileal CD
+67_RISK_Rectal_iCD	GSM3316722	rectum	CD	L3	pediatric	rectal	ileal CD
+68_RISK_Rectal_iCD	GSM3316723	rectum	CD	L3	pediatric	rectal	ileal CD
+69_RISK_Rectal_iCD	GSM3316724	rectum	CD	L3	pediatric	rectal	ileal CD
+70_RISK_Rectal_iCD	GSM3316725	rectum	CD	L3	pediatric	rectal	ileal CD
+71_RISK_Rectal_iCD	GSM3316726	rectum	CD	L3	pediatric	rectal	ileal CD
+72_RISK_Rectal_iCD	GSM3316727	rectum	CD	L3	pediatric	rectal	ileal CD
+73_RISK_Rectal_iCD	GSM3316728	rectum	CD	L3	pediatric	rectal	ileal CD
+74_RISK_Rectal_iCD	GSM3316729	rectum	CD	L3	pediatric	rectal	ileal CD
+75_RISK_Rectal_iCD	GSM3316730	rectum	CD	L3	pediatric	rectal	ileal CD
+76_RISK_Rectal_iCD	GSM3316731	rectum	CD	L3	pediatric	rectal	ileal CD
+77_RISK_Rectal_iCD	GSM3316732	rectum	CD	L3	pediatric	rectal	ileal CD
+78_RISK_Rectal_iCD	GSM3316733	rectum	CD	L3	pediatric	rectal	ileal CD
+79_RISK_Rectal_iCD	GSM3316734	rectum	CD	L3	pediatric	rectal	ileal CD
+80_RISK_Rectal_iCD	GSM3316735	rectum	CD	L3	pediatric	rectal	ileal CD
+81_RISK_Rectal_iCD	GSM3316736	rectum	CD	L3	pediatric	rectal	ileal CD
+82_RISK_Rectal_iCD	GSM3316737	rectum	CD	L3	pediatric	rectal	ileal CD
+83_RISK_Rectal_iCD	GSM3316738	rectum	CD	L3	pediatric	rectal	ileal CD
+84_RISK_Rectal_iCD	GSM3316739	rectum	CD	L3	pediatric	rectal	ileal CD
+85_RISK_Rectal_iCD	GSM3316740	rectum	CD	L3	pediatric	rectal	ileal CD
+86_RISK_Rectal_iCD	GSM3316741	rectum	CD	L3	pediatric	rectal	ileal CD
+87_RISK_Rectal_iCD	GSM3316742	rectum	CD	L3	pediatric	rectal	ileal CD
+88_RISK_Rectal_iCD	GSM3316743	rectum	CD	L3	pediatric	rectal	ileal CD
+89_RISK_Rectal_iCD	GSM3316744	rectum	CD	L3	pediatric	rectal	ileal CD
+90_RISK_Rectal_iCD	GSM3316745	rectum	CD	L3	pediatric	rectal	ileal CD
+91_RISK_Rectal_iCD	GSM3316746	rectum	CD	L3	pediatric	rectal	ileal CD
+92_RISK_Rectal_iCD	GSM3316747	rectum	CD	L3	pediatric	rectal	ileal CD
+93_RISK_Rectal_NotIBD	GSM3316748	rectum	Control	na	pediatric	rectal	not IBD
+94_RISK_Rectal_NotIBD	GSM3316749	rectum	Control	na	pediatric	rectal	not IBD
+95_RISK_Rectal_NotIBD	GSM3316750	rectum	Control	na	pediatric	rectal	not IBD
+96_RISK_Rectal_NotIBD	GSM3316751	rectum	Control	na	pediatric	rectal	not IBD
+97_RISK_Rectal_NotIBD	GSM3316752	rectum	Control	na	pediatric	rectal	not IBD
+98_RISK_Rectal_NotIBD	GSM3316753	rectum	Control	na	pediatric	rectal	not IBD
+99_RISK_Rectal_NotIBD	GSM3316754	rectum	Control	na	pediatric	rectal	not IBD
+100_RISK_Rectal_NotIBD	GSM3316755	rectum	Control	na	pediatric	rectal	not IBD
+101_RISK_Rectal_NotIBD	GSM3316756	rectum	Control	na	pediatric	rectal	not IBD
+102_RISK_Rectal_NotIBD	GSM3316757	rectum	Control	na	pediatric	rectal	not IBD
+103_RISK_Rectal_NotIBD	GSM3316758	rectum	Control	na	pediatric	rectal	not IBD
+104_RISK_Rectal_NotIBD	GSM3316759	rectum	Control	na	pediatric	rectal	not IBD
+105_RISK_Rectal_NotIBD	GSM3316760	rectum	Control	na	pediatric	rectal	not IBD
+106_RISK_Rectal_NotIBD	GSM3316761	rectum	Control	na	pediatric	rectal	not IBD
+107_RISK_Rectal_NotIBD	GSM3316762	rectum	Control	na	pediatric	rectal	not IBD
+108_RISK_Rectal_NotIBD	GSM3316763	rectum	Control	na	pediatric	rectal	not IBD
+109_RISK_Rectal_NotIBD	GSM3316764	rectum	Control	na	pediatric	rectal	not IBD
+110_RISK_Rectal_NotIBD	GSM3316765	rectum	Control	na	pediatric	rectal	not IBD
+111_RISK_Rectal_NotIBD	GSM3316766	rectum	Control	na	pediatric	rectal	not IBD
+112_RISK_Rectal_NotIBD	GSM3316767	rectum	Control	na	pediatric	rectal	not IBD
+113_RISK_Rectal_NotIBD	GSM3316768	rectum	Control	na	pediatric	rectal	not IBD
+114_RISK_Rectal_NotIBD	GSM3316769	rectum	Control	na	pediatric	rectal	not IBD
+115_RISK_Rectal_NotIBD	GSM3316770	rectum	Control	na	pediatric	rectal	not IBD
+116_RISK_Rectal_NotIBD	GSM3316771	rectum	Control	na	pediatric	rectal	not IBD
+117_RISK_Rectal_NotIBD	GSM3316772	rectum	Control	na	pediatric	rectal	not IBD
+118_RISK_Rectal_NotIBD	GSM3316773	rectum	Control	na	pediatric	rectal	not IBD
+119_RISK_Rectal_NotIBD	GSM3316774	rectum	Control	na	pediatric	rectal	not IBD
+120_RISK_Rectal_NotIBD	GSM3316775	rectum	Control	na	pediatric	rectal	not IBD
+121_RISK_Rectal_NotIBD	GSM3316776	rectum	Control	na	pediatric	rectal	not IBD
+122_RISK_Rectal_NotIBD	GSM3316777	rectum	Control	na	pediatric	rectal	not IBD
+123_RISK_Rectal_NotIBD	GSM3316778	rectum	Control	na	pediatric	rectal	not IBD
+124_RISK_Rectal_NotIBD	GSM3316779	rectum	Control	na	pediatric	rectal	not IBD
+125_RISK_Rectal_NotIBD	GSM3316780	rectum	Control	na	pediatric	rectal	not IBD
+126_RISK_Rectal_NotIBD	GSM3316781	rectum	Control	na	pediatric	rectal	not IBD
+127_RISK_Rectal_NotIBD	GSM3316782	rectum	Control	na	pediatric	rectal	not IBD
+128_RISK_Rectal_NotIBD	GSM3316783	rectum	Control	na	pediatric	rectal	not IBD
+129_RISK_Rectal_NotIBD	GSM3316784	rectum	Control	na	pediatric	rectal	not IBD
+130_RISK_Rectal_NotIBD	GSM3316785	rectum	Control	na	pediatric	rectal	not IBD
+131_RISK_Rectal_NotIBD	GSM3316786	rectum	Control	na	pediatric	rectal	not IBD
+132_RISK_Rectal_NotIBD	GSM3316787	rectum	Control	na	pediatric	rectal	not IBD
+133_RISK_Rectal_NotIBD	GSM3316788	rectum	Control	na	pediatric	rectal	not IBD
+134_RISK_Rectal_NotIBD	GSM3316789	rectum	Control	na	pediatric	rectal	not IBD
+135_RISK_Rectal_NotIBD	GSM3316790	rectum	Control	na	pediatric	rectal	not IBD
+136_RISK_Rectal_NotIBD	GSM3316791	rectum	Control	na	pediatric	rectal	not IBD
+137_RISK_Rectal_NotIBD	GSM3316792	rectum	Control	na	pediatric	rectal	not IBD
+138_RISK_Rectal_NotIBD	GSM3316793	rectum	Control	na	pediatric	rectal	not IBD
+139_RISK_Rectal_NotIBD	GSM3316794	rectum	Control	na	pediatric	rectal	not IBD
+140_RISK_Rectal_NotIBD	GSM3316795	rectum	Control	na	pediatric	rectal	not IBD
+141_RISK_Rectal_NotIBD	GSM3316796	rectum	Control	na	pediatric	rectal	not IBD
+142_RISK_Rectal_NotIBD	GSM3316797	rectum	Control	na	pediatric	rectal	not IBD
+143_RISK_Rectal_NotIBD	GSM3316798	rectum	Control	na	pediatric	rectal	not IBD
+144_RISK_Rectal_NotIBD	GSM3316799	rectum	Control	na	pediatric	rectal	not IBD
+145_RISK_Rectal_NotIBD	GSM3316800	rectum	Control	na	pediatric	rectal	not IBD
+146_RISK_Rectal_NotIBD	GSM3316801	rectum	Control	na	pediatric	rectal	not IBD
+147_RISK_Rectal_NotIBD	GSM3316802	rectum	Control	na	pediatric	rectal	not IBD
+148_RISK_Rectal_UC	GSM3316803	rectum	UC	na	pediatric	rectal	UC
+149_RISK_Rectal_UC	GSM3316804	rectum	UC	na	pediatric	rectal	UC
+150_RISK_Rectal_UC	GSM3316805	rectum	UC	na	pediatric	rectal	UC
+151_RISK_Rectal_UC	GSM3316806	rectum	UC	na	pediatric	rectal	UC
+152_RISK_Rectal_UC	GSM3316807	rectum	UC	na	pediatric	rectal	UC
+153_RISK_Rectal_UC	GSM3316808	rectum	UC	na	pediatric	rectal	UC
+154_RISK_Rectal_UC	GSM3316809	rectum	UC	na	pediatric	rectal	UC
+155_RISK_Rectal_UC	GSM3316810	rectum	UC	na	pediatric	rectal	UC
+156_RISK_Rectal_UC	GSM3316811	rectum	UC	na	pediatric	rectal	UC
+157_RISK_Rectal_UC	GSM3316812	rectum	UC	na	pediatric	rectal	UC
+158_RISK_Rectal_UC	GSM3316813	rectum	UC	na	pediatric	rectal	UC
+159_RISK_Rectal_UC	GSM3316814	rectum	UC	na	pediatric	rectal	UC
+160_RISK_Rectal_UC	GSM3316815	rectum	UC	na	pediatric	rectal	UC
+161_RISK_Rectal_UC	GSM3316816	rectum	UC	na	pediatric	rectal	UC
+162_RISK_Rectal_UC	GSM3316817	rectum	UC	na	pediatric	rectal	UC
+163_RISK_Rectal_UC	GSM3316818	rectum	UC	na	pediatric	rectal	UC
+164_RISK_Rectal_UC	GSM3316819	rectum	UC	na	pediatric	rectal	UC
+165_RISK_Rectal_UC	GSM3316820	rectum	UC	na	pediatric	rectal	UC
+166_RISK_Rectal_UC	GSM3316821	rectum	UC	na	pediatric	rectal	UC
+167_RISK_Rectal_UC	GSM3316822	rectum	UC	na	pediatric	rectal	UC
+168_RISK_Rectal_UC	GSM3316823	rectum	UC	na	pediatric	rectal	UC
+169_RISK_Rectal_UC	GSM3316824	rectum	UC	na	pediatric	rectal	UC
+170_RISK_Rectal_UC	GSM3316825	rectum	UC	na	pediatric	rectal	UC
+171_RISK_Rectal_UC	GSM3316826	rectum	UC	na	pediatric	rectal	UC
+172_RISK_Rectal_UC	GSM3316827	rectum	UC	na	pediatric	rectal	UC
+173_RISK_Rectal_UC	GSM3316828	rectum	UC	na	pediatric	rectal	UC
+174_RISK_Rectal_UC	GSM3316829	rectum	UC	na	pediatric	rectal	UC
+175_RISK_Rectal_UC	GSM3316830	rectum	UC	na	pediatric	rectal	UC
+176_RISK_Rectal_UC	GSM3316831	rectum	UC	na	pediatric	rectal	UC
+177_RISK_Rectal_UC	GSM3316832	rectum	UC	na	pediatric	rectal	UC
+178_RISK_Rectal_UC	GSM3316833	rectum	UC	na	pediatric	rectal	UC
+179_RISK_Rectal_UC	GSM3316834	rectum	UC	na	pediatric	rectal	UC
+180_RISK_Rectal_UC	GSM3316835	rectum	UC	na	pediatric	rectal	UC
+181_RISK_Rectal_UC	GSM3316836	rectum	UC	na	pediatric	rectal	UC
+182_RISK_Rectal_UC	GSM3316837	rectum	UC	na	pediatric	rectal	UC
+183_RISK_Rectal_UC	GSM3316838	rectum	UC	na	pediatric	rectal	UC
+184_RISK_Rectal_UC	GSM3316839	rectum	UC	na	pediatric	rectal	UC
+185_RISK_Rectal_UC	GSM3316840	rectum	UC	na	pediatric	rectal	UC
+186_RISK_Rectal_UC	GSM3316841	rectum	UC	na	pediatric	rectal	UC
+187_RISK_Rectal_UC	GSM3316842	rectum	UC	na	pediatric	rectal	UC
+188_RISK_Rectal_UC	GSM3316843	rectum	UC	na	pediatric	rectal	UC
+189_RISK_Rectal_UC	GSM3316844	rectum	UC	na	pediatric	rectal	UC
+190_RISK_Rectal_UC	GSM3316845	rectum	UC	na	pediatric	rectal	UC
